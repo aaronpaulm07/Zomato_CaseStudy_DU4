@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20233.23.1227.1336                               -->
+<workbook original-version='18.1' source-build='2023.3.1 (20233.23.1227.1336)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelRelationshipPerfOptions.true...ObjectModelRelationshipPerfOptions />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='N' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='10'>
+        <calculation class='tableau' formula='10' />
+        <range max='15' min='1' />
+      </column>
+    </datasource>
+    <datasource caption='restaurants+ (Zomato_load)' inline='true' name='federated.1ilkhry1j94s551e2yft61bib9yg' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='127.0.0.1' name='postgres.1y6k3f20vfwafg10bkvfp1qakfrl'>
+            <connection authentication='username-password' class='postgres' dbname='Zomato' one-time-sql='' port='5432' server='127.0.0.1' username='postgres' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='cuisinecategories' table='[public].[cuisinecategories]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='restaurants' table='[public].[restaurants]' type='table' />
+          <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='restaurantcuisinecategories' table='[public].[restaurantcuisinecategories]' type='table' />
+          <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='cuisinecategories' table='[public].[cuisinecategories]' type='table' />
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[categoryid]' value='[restaurantcuisinecategories].[categoryid]' />
+          <map key='[categoryname]' value='[cuisinecategories].[categoryname]' />
+          <map key='[city]' value='[restaurants].[city]' />
+          <map key='[cuisinetype]' value='[restaurants].[cuisinetype]' />
+          <map key='[id (cuisinecategories)]' value='[cuisinecategories].[id]' />
+          <map key='[id]' value='[restaurants].[id]' />
+          <map key='[latitude]' value='[restaurants].[latitude]' />
+          <map key='[longitude]' value='[restaurants].[longitude]' />
+          <map key='[name]' value='[restaurants].[name]' />
+          <map key='[price]' value='[restaurants].[price]' />
+          <map key='[rating]' value='[restaurants].[rating]' />
+          <map key='[region]' value='[restaurants].[region]' />
+          <map key='[restaurantid]' value='[restaurantcuisinecategories].[restaurantid]' />
+          <map key='[url]' value='[restaurants].[url]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[id]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[name]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>name</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>price</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[price]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>price</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>city</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[region]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>region</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>url</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[url]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>url</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cuisinetype</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[cuisinetype]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>cuisinetype</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rating</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[rating]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>rating</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>3</precision>
+            <scale>1</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>latitude</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[latitude]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>latitude</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <scale>8</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>longitude</remote-name>
+            <remote-type>131</remote-type>
+            <local-name>[longitude]</local-name>
+            <parent-name>[restaurants]</parent-name>
+            <remote-alias>longitude</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>11</precision>
+            <scale>8</scale>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurants_05B599ADB4D64AC188E83637BB18C249]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>restaurantid</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[restaurantid]</local-name>
+            <parent-name>[restaurantcuisinecategories]</parent-name>
+            <remote-alias>restaurantid</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>categoryid</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[categoryid]</local-name>
+            <parent-name>[restaurantcuisinecategories]</parent-name>
+            <remote-alias>categoryid</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[id (cuisinecategories)]</local-name>
+            <parent-name>[cuisinecategories]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cuisinecategories_3EDA80BB4DC74B22ABA98FACEE4758D7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>categoryname</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[categoryname]</local-name>
+            <parent-name>[cuisinecategories]</parent-name>
+            <remote-alias>categoryname</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>255</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <attributes>
+              <attribute datatype='string' name='TypeIsVarchar'>&quot;true&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cuisinecategories_3EDA80BB4DC74B22ABA98FACEE4758D7]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Top Cuisine by City' datatype='string' name='[Calculation_4468978257693184003]' role='measure' type='nominal'>
+        <calculation class='tableau' formula='MAX(&#13;&#10;IF { FIXED [city], [categoryname] : SUM([rating]) } = &#13;&#10;       { FIXED [city] : MAX({ FIXED [city], [categoryname] : SUM([rating]) }) } &#13;&#10;THEN [categoryname] &#13;&#10;END)' />
+      </column>
+      <column caption='Top Hotel Cuisine' datatype='string' name='[Calculation_4468978257947463685]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF &#13;&#10;    { FIXED [name], [categoryname] : COUNTD([categoryname]) } = &#13;&#10;    { MAX({ FIXED  [categoryname] : COUNTD([categoryname]) }) }&#13;&#10;THEN &#13;&#10;    [categoryname]&#13;&#10;END' />
+      </column>
+      <column caption='Non-Zero Ratings' datatype='real' name='[Calculation_4468978257953636358]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [rating]&gt;0 &#13;&#10;THEN [rating]&#13;&#10;END' />
+      </column>
+      <column caption='Calculation1' datatype='real' name='[Calculation_59954223168819200]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='{FIXED [name]: MAX({FIXED [name], [categoryname] : SUM([Calculation_4468978257953636358])})}' />
+      </column>
+      <column aggregation='Sum' caption='Rating (copy)' datatype='real' name='[Rating (copy)_4468978257691045888]' role='dimension' type='ordinal'>
+        <calculation class='tableau' formula='[rating]' />
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='cuisinecategories' datatype='table' name='[__tableau_internal_object_id__].[cuisinecategories_3EDA80BB4DC74B22ABA98FACEE4758D7]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='restaurantcuisinecategories' datatype='table' name='[__tableau_internal_object_id__].[restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='restaurants' datatype='table' name='[__tableau_internal_object_id__].[restaurants_05B599ADB4D64AC188E83637BB18C249]' role='measure' type='quantitative' />
+      <column aggregation='Sum' caption='CuisineID' datatype='integer' name='[categoryid]' role='dimension' type='ordinal' />
+      <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+      <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Cuisinetype' datatype='string' name='[cuisinetype]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Id (Cuisinecategories)' datatype='integer' name='[id (cuisinecategories)]' role='dimension' type='ordinal' />
+      <column caption='Id' datatype='integer' name='[id]' role='dimension' type='ordinal' />
+      <column aggregation='Avg' caption='Latitude' datatype='real' name='[latitude]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative' />
+      <column aggregation='Avg' caption='Longitude' datatype='real' name='[longitude]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative' />
+      <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+      <column caption='Price' datatype='integer' name='[price]' role='measure' type='quantitative' />
+      <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+      <column caption='Region' datatype='string' name='[region]' role='dimension' type='nominal' />
+      <column aggregation='Sum' caption='Restaurantid' datatype='integer' name='[restaurantid]' role='dimension' type='ordinal' />
+      <column caption='Url' datatype='string' name='[url]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='cuisinecategories' id='cuisinecategories_3EDA80BB4DC74B22ABA98FACEE4758D7'>
+            <properties context=''>
+              <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='cuisinecategories' table='[public].[cuisinecategories]' type='table' />
+            </properties>
+          </object>
+          <object caption='restaurantcuisinecategories' id='restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E'>
+            <properties context=''>
+              <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='restaurantcuisinecategories' table='[public].[restaurantcuisinecategories]' type='table' />
+            </properties>
+          </object>
+          <object caption='restaurants' id='restaurants_05B599ADB4D64AC188E83637BB18C249'>
+            <properties context=''>
+              <relation connection='postgres.1y6k3f20vfwafg10bkvfp1qakfrl' name='restaurants' table='[public].[restaurants]' type='table' />
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[categoryid]' />
+              <expression op='[id (cuisinecategories)]' />
+            </expression>
+            <first-end-point _.fcp.ObjectModelRelationshipPerfOptions.true...is-db-set-guaranteed-value='true' guaranteed-value='true' object-id='restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E' />
+            <second-end-point _.fcp.ObjectModelRelationshipPerfOptions.true...is-db-set-unique-key='true' object-id='cuisinecategories_3EDA80BB4DC74B22ABA98FACEE4758D7' unique-key='true' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[id]' />
+              <expression op='[restaurantid]' />
+            </expression>
+            <first-end-point _.fcp.ObjectModelRelationshipPerfOptions.true...is-db-set-unique-key='true' object-id='restaurants_05B599ADB4D64AC188E83637BB18C249' unique-key='true' />
+            <second-end-point _.fcp.ObjectModelRelationshipPerfOptions.true...is-db-set-guaranteed-value='true' guaranteed-value='true' object-id='restaurantcuisinecategories_D90816C91C964A0A9489565C2F10F60E' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Map'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column-instance column='[cuisinetype]' derivation='Attribute' name='[attr:cuisinetype:nk]' pivot='key' type='nominal' />
+            <column-instance column='[name]' derivation='Attribute' name='[attr:name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[rating]' derivation='Avg' name='[avg:rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Cuisinetype' datatype='string' name='[cuisinetype]' role='dimension' type='nominal' />
+            <column aggregation='Avg' caption='Latitude' datatype='real' name='[latitude]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative' />
+            <column aggregation='Avg' caption='Longitude' datatype='real' name='[longitude]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative' />
+            <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+            <column-instance column='[latitude]' derivation='None' name='[none:latitude:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[longitude]' derivation='None' name='[none:longitude:qk]' pivot='key' type='quantitative' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:longitude:qk]' field-type='quantitative' max='11717581.404' min='6432618.1352' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:latitude:qk]' field-type='quantitative' max='3733406.444' min='683637.2725' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' value='n0' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' max='5.0' palette='red_green_diverging_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='in-tooltip' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:latitude:qk]' value='false' />
+            <format attr='in-tooltip' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:longitude:qk]' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+              <tooltip column='[federated.1ilkhry1j94s551e2yft61bib9yg].[attr:name:nk]' />
+              <tooltip column='[federated.1ilkhry1j94s551e2yft61bib9yg].[attr:cuisinetype:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:latitude:qk]</rows>
+        <cols>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:longitude:qk]</cols>
+      </table>
+      <simple-id uuid='{102CD417-2E62-46AC-BF74-AAE978419267}' />
+    </worksheet>
+    <worksheet name='Most Restaurants by Region'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='N' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='10'>
+              <calculation class='tableau' formula='10' />
+              <range max='15' min='1' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <_.fcp.ObjectModelTableType.false...column caption='restaurants' datatype='integer' name='[__tableau_internal_object_id__].[restaurants_05B599ADB4D64AC188E83637BB18C249]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[restaurants_05B599ADB4D64AC188E83637BB18C249]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:restaurants_05B599ADB4D64AC188E83637BB18C249:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='restaurants' datatype='table' name='[__tableau_internal_object_id__].[restaurants_05B599ADB4D64AC188E83637BB18C249]' role='measure' type='quantitative' />
+            <column-instance column='[region]' derivation='None' name='[none:region:nk]' pivot='key' type='nominal' />
+            <column caption='Region' datatype='string' name='[region]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:region:nk]'>
+            <groupfilter count='[Parameters].[Parameter 1]' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
+              <groupfilter direction='DESC' expression='COUNT([__tableau_internal_object_id__].[restaurants_05B599ADB4D64AC188E83637BB18C249])' function='order' user:ui-marker='order'>
+                <groupfilter function='level-members' level='[none:region:nk]' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-manual-selection-is-empty='true' user:ui-marker='enumerate' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <computed-sort column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:region:nk]' direction='DESC' using='[federated.1ilkhry1j94s551e2yft61bib9yg].[__tableau_internal_object_id__].[cnt:restaurants_05B599ADB4D64AC188E83637BB18C249:qk]' />
+          <slices>
+            <column>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:region:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1ilkhry1j94s551e2yft61bib9yg].[__tableau_internal_object_id__].[cnt:restaurants_05B599ADB4D64AC188E83637BB18C249:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:region:nk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{90E3B0C9-4755-4942-8475-A2F564D748A7}' />
+    </worksheet>
+    <worksheet name='Most rated Cuisines'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='N' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='10'>
+              <calculation class='tableau' formula='10' />
+              <range max='15' min='1' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column-instance column='[rating]' derivation='Avg' name='[avg:rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+            <column-instance column='[categoryname]' derivation='None' name='[none:categoryname:nk]' pivot='key' type='nominal' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' included-values='in-range' />
+          <filter class='categorical' column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk]'>
+            <groupfilter count='[Parameters].[Parameter 1]' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
+              <groupfilter direction='DESC' expression='AVG([rating])' function='order' user:ui-marker='order'>
+                <groupfilter function='level-members' level='[none:categoryname:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <computed-sort column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk]' direction='DESC' using='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+          <slices>
+            <column>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk]</column>
+            <column>[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' value='n#,##0.0;-#,##0.0' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='text-format' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' value='n#,##0.0;-#,##0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{653CF709-2572-4476-A07E-32B95286CB44}' />
+    </worksheet>
+    <worksheet name='Rating by Price'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column-instance column='[rating]' derivation='Attribute' name='[attr:rating:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[rating]' derivation='Avg' name='[avg:rating:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[price]' derivation='None' name='[none:price:qk]' pivot='key' type='quantitative' />
+            <column caption='Price' datatype='integer' name='[price]' role='measure' type='quantitative' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1ilkhry1j94s551e2yft61bib9yg].[attr:rating:qk]' included-values='non-null' />
+          <slices>
+            <column>[federated.1ilkhry1j94s551e2yft61bib9yg].[attr:rating:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]</rows>
+        <cols>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:price:qk]</cols>
+      </table>
+      <simple-id uuid='{ECF2CF70-FF60-4874-82DA-6DEC7E5A7DEB}' />
+    </worksheet>
+    <worksheet name='Sheet 7'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column aggregation='Sum' caption='Rating (copy)' datatype='real' name='[Rating (copy)_4468978257691045888]' role='dimension' type='ordinal'>
+              <calculation class='tableau' formula='[rating]' />
+            </column>
+            <column-instance column='[rating]' derivation='Avg' name='[avg:rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+            <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+            <column-instance column='[Rating (copy)_4468978257691045888]' derivation='None' name='[none:Rating (copy)_4468978257691045888:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[categoryname]' derivation='None' name='[none:categoryname:nk]' pivot='key' type='nominal' />
+            <column-instance column='[name]' derivation='None' name='[none:name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[region]' derivation='None' name='[none:region:nk]' pivot='key' type='nominal' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+            <column caption='Region' datatype='string' name='[region]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk]' direction='DESC' using='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk] / ([federated.1ilkhry1j94s551e2yft61bib9yg].[none:region:nk] / [federated.1ilkhry1j94s551e2yft61bib9yg].[none:Rating (copy)_4468978257691045888:ok]))</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{AD2314D6-7504-4001-944E-8948D3E603F9}' />
+    </worksheet>
+    <worksheet name='Top 10 Restaurant by Rating'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+            <datasource name='Parameters' />
+          </datasources>
+          <datasource-dependencies datasource='Parameters'>
+            <column caption='N' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='10'>
+              <calculation class='tableau' formula='10' />
+              <range max='15' min='1' />
+            </column>
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column-instance column='[rating]' derivation='Avg' name='[avg:rating:qk]' pivot='key' type='quantitative' />
+            <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+            <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+            <column-instance column='[categoryname]' derivation='None' name='[none:categoryname:nk]' pivot='key' type='nominal' />
+            <column-instance column='[name]' derivation='None' name='[none:name:nk]' pivot='key' type='nominal' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk]'>
+            <groupfilter count='[Parameters].[Parameter 1]' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
+              <groupfilter direction='DESC' expression='AVG([rating])' function='order' user:ui-marker='order'>
+                <groupfilter function='level-members' level='[none:name:nk]' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-manual-selection-is-empty='true' user:ui-marker='enumerate' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <computed-sort column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk]' direction='DESC' using='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+          <slices>
+            <column>[federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk]' value='25' />
+            <format attr='text-format' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' value='n#,##0.00;-#,##0.00' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1ilkhry1j94s551e2yft61bib9yg].[none:name:nk] / [federated.1ilkhry1j94s551e2yft61bib9yg].[none:categoryname:nk])</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{82D1F7D5-5BCA-4FAC-B567-BA173A9E87FD}' />
+    </worksheet>
+    <worksheet name='Top Cuisine by CIty in Map'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column caption='Top Cuisine by City' datatype='string' name='[Calculation_4468978257693184003]' role='measure' type='nominal'>
+              <calculation class='tableau' formula='MAX(&#13;&#10;IF { FIXED [city], [categoryname] : SUM([rating]) } = &#13;&#10;       { FIXED [city] : MAX({ FIXED [city], [categoryname] : SUM([rating]) }) } &#13;&#10;THEN [categoryname] &#13;&#10;END)' />
+            </column>
+            <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_4468978257693184003]' derivation='User' name='[usr:Calculation_4468978257693184003:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1ilkhry1j94s551e2yft61bib9yg].[none:city:nk]' />
+              <color column='[federated.1ilkhry1j94s551e2yft61bib9yg].[usr:Calculation_4468978257693184003:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1ilkhry1j94s551e2yft61bib9yg].[Latitude (generated)]</rows>
+        <cols>[federated.1ilkhry1j94s551e2yft61bib9yg].[Longitude (generated)]</cols>
+      </table>
+      <simple-id uuid='{B15E858F-4079-4DB5-BE9E-9C595E0F1D21}' />
+    </worksheet>
+    <worksheet name='Top Cuisine by City'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='restaurants+ (Zomato_load)' name='federated.1ilkhry1j94s551e2yft61bib9yg' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ilkhry1j94s551e2yft61bib9yg'>
+            <column caption='Top Cuisine by City' datatype='string' name='[Calculation_4468978257693184003]' role='measure' type='nominal'>
+              <calculation class='tableau' formula='MAX(&#13;&#10;IF { FIXED [city], [categoryname] : SUM([rating]) } = &#13;&#10;       { FIXED [city] : MAX({ FIXED [city], [categoryname] : SUM([rating]) }) } &#13;&#10;THEN [categoryname] &#13;&#10;END)' />
+            </column>
+            <column caption='Cuisine' datatype='string' name='[categoryname]' role='dimension' type='nominal' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column caption='Rating' datatype='real' name='[rating]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_4468978257693184003]' derivation='User' name='[usr:Calculation_4468978257693184003:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1ilkhry1j94s551e2yft61bib9yg].[usr:Calculation_4468978257693184003:nk]' value='136' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1ilkhry1j94s551e2yft61bib9yg].[none:city:nk] / [federated.1ilkhry1j94s551e2yft61bib9yg].[usr:Calculation_4468978257693184003:nk])</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{2A0158DF-C8E2-4290-9F1D-B37DB538267A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Map'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='4' param='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <default-map-tool-selection tool='1' />
+      </viewpoint>
+      <simple-id uuid='{725D3B4B-D236-444E-A3A4-7B01FFF3C306}' />
+    </window>
+    <window class='worksheet' name='Most rated Cuisines'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.1ilkhry1j94s551e2yft61bib9yg].[avg:rating:qk]' show-domain='false' show-null-ctrls='false' type='filter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{AF7384CA-F01D-4A90-9009-770B270D26FA}' />
+    </window>
+    <window class='worksheet' name='Most Restaurants by Region'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card mode='slider' param='[Parameters].[Parameter 1]' type='parameter' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{1EDBD3D7-AF88-49F2-9575-C5E190B5028B}' />
+    </window>
+    <window class='worksheet' name='Rating by Price'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{E777133B-DE7B-485D-BC46-61DDBB6A2BD8}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Top 10 Restaurant by Rating'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{67B3D233-08A4-4BD0-B408-E702B310FBF4}' />
+    </window>
+    <window class='worksheet' name='Sheet 7'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{664F9B59-34A3-4B9B-85B5-59E80C30CF57}' />
+    </window>
+    <window class='worksheet' name='Top Cuisine by City'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{BDD546D8-1A7D-4ED3-867C-24BB489EC01A}' />
+    </window>
+    <window class='worksheet' name='Top Cuisine by CIty in Map'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1ilkhry1j94s551e2yft61bib9yg].[usr:Calculation_4468978257693184003:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{A6706043-FEED-4F10-AF45-5A2DDB77403A}' />
+    </window>
+  </windows>
+</workbook>

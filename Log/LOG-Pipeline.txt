@@ -1,0 +1,30 @@
+2024-02-23 10:01:21,207 - INFO - Count of records: 893
+2024-02-23 10:01:21,207 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 10:01:37,707 - INFO - Count of records: 893
+2024-02-23 10:01:37,707 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 10:02:41,327 - INFO - Count of records: 893
+2024-02-23 10:02:41,327 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 10:03:54,740 - INFO - Count of records: 893
+2024-02-23 10:03:54,740 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 10:04:35,675 - INFO - Count of records: 893
+2024-02-23 10:04:35,675 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 10:30:11,284 - INFO - Count of records: 893
+2024-02-23 10:30:11,284 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-23 11:01:37,191 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:02:20,127 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:06:46,370 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:09:13,142 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:12:28,299 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:16:25,867 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:16:42,449 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:19:03,902 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:20:07,576 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:20:16,367 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:21:03,970 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:23:28,288 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:24:13,310 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:24:50,570 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:25:18,726 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:26:24,146 - ERROR - Error during merge: There should be one folder
+2024-02-23 11:26:39,654 - INFO - Count of records: 893
+2024-02-23 11:26:39,654 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.

@@ -1,0 +1,893 @@
+NAME,PRICE,CUSINE_CATEGORY,CITY,REGION,URL,CUSINE TYPE,RATING,VOTES
+The Salt Cafe Kitchen & Bar,1000,"['North Indian', 'Continental', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info,Casual Dining,4.8,273.0
+Bhagat Halwai,300,"['Desserts', 'Bakery', 'Fast Food', 'South Indian']",Agra,Civil Lines,https://www.zomato.com/agra/bhagat-halwai-civil-lines/info,Quick Bites,4.3,554.0
+Bikanervala,700,"['North Indian', 'South Indian', 'Mithai', 'Street Food', 'Desserts']",Agra,Khandari,https://www.zomato.com/agra/bikanervala-khandari/info,Quick Bites,4.4,645.0
+Mama Chicken Mama Franky House,600,"['North Indian', 'Mughlai', 'Rolls', 'Chinese', 'Fast Food', 'Street Food']",Agra,Agra Cantt,https://www.zomato.com/agra/mama-chicken-mama-franky-house-agra-cantt/info,Quick Bites,4.3,894.0
+Honeydew Restaurant,500,"['North Indian', 'Fast Food', 'Chinese', 'South Indian']",Agra,Dayal Bagh,https://www.zomato.com/agra/honeydew-restaurant-dayal-bagh/info,Quick Bites,4.1,489.0
+Cafe Turquoise Cottage,1600,"['North Indian', 'Chinese', 'Continental', 'Italian', 'Pizza']",Agra,Tajganj,https://www.zomato.com/agra/cafe-turquoise-cottage-tajganj/info,Casual Dining,4.7,294.0
+Hichkee,1200,"['Continental', 'North Indian', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/hichkee-civil-lines/info,Casual Dining,4.4,581.0
+Domino's Pizza,700,"['Pizza', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/dominos-pizza-civil-lines/info,Quick Bites,3.9,583.0
+Urban Deck,1000,"['Mexican', 'Italian', 'North Indian']",Agra,Khandari,https://www.zomato.com/agra/urban-deck-khandari/info,Casual Dining,4.3,608.0
+Pinch Of Spice,1600,"['North Indian', 'Chinese', 'Mughlai']",Agra,Civil Lines,https://www.zomato.com/agra/pinch-of-spice-civil-lines/info,Casual Dining,4.5,863.0
+Pizza Hut,700,"['Italian', 'Pizza']",Agra,Tajganj,https://www.zomato.com/agra/pizza-hut-tajganj/info,Casual Dining,4.0,547.0
+Aahar,700,"['North Indian', 'South Indian', 'Chinese', 'Bakery', 'Momos']",Agra,Civil Lines,https://www.zomato.com/agra/aahar-civil-lines/info,Casual Dining,4.0,368.0
+Tea'se Me - Rooftop Tea Boutique,1000,"['Chinese', 'Italian', 'Continental', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/tease-me-rooftop-tea-boutique-tajganj/info,Casual Dining,4.7,676.0
+Shree Balaji Family Restaurant,400,"['North Indian', 'South Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/shree-balaji-family-restaurant-sikandra/info,Quick Bites,3.8,254.0
+GMB - Gopika Sweets & Restaurant,400,"['Desserts', 'North Indian', 'South Indian', 'Chinese', 'Fast Food', 'Street Food']",Agra,Tajganj,https://www.zomato.com/agra/gmb-gopika-sweets-restaurant-tajganj/info,Casual Dining,4.1,279.0
+Kings Pizza And Burger,200,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/kings-pizza-and-burger-kamla-nagar/info,Quick Bites,3.5,40.0
+RS Sweets & Restaurant,650,"['North Indian', 'South Indian']",Agra,Dayal Bagh,https://www.zomato.com/agra/rs-sweets-restaurant-dayal-bagh/info,Casual Dining,3.7,79.0
+Cake D'or,1600,"['Bakery', 'Desserts']",Agra,Civil Lines,https://www.zomato.com/agra/cake-dor-civil-lines/info,Bakery,4.1,53.0
+Mirch  Lagi,100,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/mirch-lagi-civil-lines/info,Quick Bites,3.7,50.0
+Lakshmi Vilas,400,['South Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/lakshmi-vilas-agra-cantt/info,Casual Dining,3.7,65.0
+Mughal Spice,1150,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/mughal-spice-tajganj/info,Casual Dining,4.0,49.0
+Cake House,300,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/cake-house-kamla-nagar/info,Quick Bites,3.7,26.0
+Chai Garam,200,"['Tea', 'Street Food']",Agra,Civil Lines,https://www.zomato.com/agra/chai-garam-civil-lines/info,Quick Bites,3.4,54.0
+The Global Savour,600,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/the-global-savour-tajganj/info,Casual Dining,3.8,51.0
+Preetam,100,['Bakery'],Agra,Dayal Bagh,https://www.zomato.com/agra/preetam-dayal-bagh/info,Quick Bites,3.6,56.0
+Golden China Restaurant,800,['Chinese'],Agra,Tajganj,https://www.zomato.com/agra/golden-china-restaurant-tajganj/info,Casual Dining,3.5,45.0
+Delhi Darbar Restaurant,800,"['North Indian', 'Chinese']",Agra,Rakabganj,https://www.zomato.com/agra/delhi-darbar-restaurant-rakabganj/info,Casual Dining,2.4,45.0
+Sadar Wala,100,"['Fast Food', 'Rolls']",Agra,Shahganj,https://www.zomato.com/agra/sadar-wala-shahganj/info,Unknown,3.7,120.0
+Jeetu Dhaba,300,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/jeetu-dhaba-kamla-nagar/info,Dhaba,2.8,114.0
+Pradeep Store,150,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/pradeep-store-kamla-nagar/info,Quick Bites,3.5,68.0
+The Star Diner,300,"['North Indian', 'South Indian', 'Chinese']",Agra,Agra Cantt,https://www.zomato.com/agra/the-star-diner-3-agra-cantt/info,Casual Dining,3.6,54.0
+Restaurant Nukkar,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/restaurant-nukkar-civil-lines/info,Casual Dining,3.7,59.0
+D's Family Restaurant,600,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/ds-family-restaurant-sikandra/info,Casual Dining,3.8,51.0
+Desire Bakers,100,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/desire-bakers-1-kamla-nagar/info,Bakery,3.8,48.0
+Shri Thakur Ji Misthan Bhandar,150,['Mithai'],Agra,Kamla Nagar,https://www.zomato.com/agra/shri-thakur-ji-misthan-bhandar-1-kamla-nagar/info,Sweet Shop,0.0,0.0
+New Agra Fast Food & Restaurant,250,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/new-agra-fast-food-restaurant-agra-cantt/info,Quick Bites,3.7,42.0
+Sips And Bites,250,"['Fast Food', 'Beverages', 'Italian']",Agra,Shahganj,https://www.zomato.com/agra/sips-and-bites-shahganj/info,Quick Bites,3.8,51.0
+Chota Mama Chicken & Mama Veg,700,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/chota-mama-chicken-mama-veg-sikandra/info,Quick Bites,3.0,111.0
+Brijwasi  Sweets & Restaurant,300,"['Mithai', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/brijwasi-sweets-restaurant-civil-lines/info,Quick Bites,3.4,37.0
+Agarwal Sweets & Dairy,300,['Desserts'],Agra,Shahganj,https://www.zomato.com/agra/agarwal-sweets-dairy-shahganj/info,Dessert Parlor,3.8,15.0
+Taj Mahal Family Restaurant,1000,"['North Indian', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/taj-mahal-family-restaurant-tajganj/info,Casual Dining,3.4,42.0
+The Street Cafe And Bistro,300,"['Desserts', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/the-street-cafe-and-bistro-kamla-nagar/info,Quick Bites,0.0,0.0
+Sai Khandelaa Restaurant,1000,"['North Indian', 'Chinese', 'Continental', 'Mughlai']",Agra,Agra Cantt,https://www.zomato.com/agra/sai-khandelaa-restaurant-agra-cantt/info,Casual Dining,3.9,46.0
+Pind Balluchi,1000,"['Mughlai', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/pind-balluchi-sikandra/info,Casual Dining,3.6,52.0
+Biryani King,300,['Biryani'],Agra,Kamla Nagar,https://www.zomato.com/agra/biryani-king-kamla-nagar/info,Quick Bites,3.6,47.0
+Taj Terrace - Hotel Taj Resorts,1000,"['North Indian', 'Continental', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/taj-terrace-hotel-taj-resorts-tajganj/info,Casual Dining,3.9,24.0
+Burger Point,100,"['Fast Food', 'Beverages']",Agra,Sikandra,https://www.zomato.com/agra/burger-point-sikandra/info,Quick Bites,0.0,0.0
+Millenium Motors and Cafe,220,['Cafe'],Agra,Dayal Bagh,https://www.zomato.com/agra/millenium-motors-and-cafe-dayal-bagh/info,Café,3.6,24.0
+Amritsari Tandoori Kulcha Wa Choor Choor Naan,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/amritsari-tandoori-kulcha-wa-choor-choor-naan-civil-lines/info,Quick Bites,3.7,29.0
+Tongue Twister,150,['Chinese'],Agra,Kamla Nagar,https://www.zomato.com/agra/tongue-twister-1-kamla-nagar/info,Unknown,3.7,29.0
+Ambey Bakers,300,['Bakery'],Agra,Civil Lines,https://www.zomato.com/agra/ambey-bakers-civil-lines/info,Bakery,3.8,40.0
+Udupi Shri Krishna Vilas,500,"['South Indian', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/udupi-shri-krishna-vilas-tajganj/info,Casual Dining,3.7,26.0
+Bake'O'Fy,300,"['Fast Food', 'Desserts']",Agra,Dayal Bagh,https://www.zomato.com/agra/bakeofy-1-dayal-bagh/info,Quick Bites,3.7,31.0
+Chickenwala.com,300,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/chickenwala-com-sikandra/info,Quick Bites,3.5,57.0
+Red Caffino,200,"['Pizza', 'Burger', 'Beverages', 'Desserts']",Agra,Tajganj,https://www.zomato.com/agra/red-caffino-3-tajganj/info,Quick Bites,3.5,29.0
+Jackson Egg Corner,100,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/jackson-egg-corner-civil-lines/info,Quick Bites,3.1,32.0
+Sagar Ratna,600,"['South Indian', 'North Indian', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/sagar-ratna-khandari/info,Casual Dining,3.5,86.0
+Ajanta Sweets,200,['Mithai'],Agra,Kamla Nagar,https://www.zomato.com/agra/ajanta-sweets-kamla-nagar/info,Sweet Shop,3.7,38.0
+The Rasoi,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/the-rasoi-sikandra/info,Quick Bites,0.0,0.0
+Guru Kripa Bhojnalaya,300,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/guru-kripa-bhojnalaya-kamla-nagar/info,Quick Bites,4.0,79.0
+Manohar Lal Daulat Ram Garg Gajak Wale,150,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/manohar-lal-daulat-ram-garg-gajak-wale-sikandra/info,Sweet Shop,3.5,57.0
+The Delicious Restaurant,500,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/the-delicious-restaurant-shahganj/info,Quick Bites,3.2,34.0
+Jab We Meet,500,"['North Indian', 'Mughlai']",Agra,Civil Lines,https://www.zomato.com/agra/jab-we-meet-1-civil-lines/info,Quick Bites,3.6,44.0
+Chai Ka Adda,100,['Tea'],Agra,Sikandra,https://www.zomato.com/agra/chai-ka-adda-sikandra/info,Beverage Shop,3.7,29.0
+Kushwah Lassi Corner,100,['Beverages'],Agra,Shahganj,https://www.zomato.com/agra/kushwah-lassi-corner-shahganj/info,Beverage Shop,3.4,15.0
+Agra Bana,800,"['North Indian', 'Chinese', 'Continental', 'South Indian']",Agra,Kuberpur,https://www.zomato.com/agra/agra-bana-kuberpur/info,Casual Dining,3.5,44.0
+24*7 Hunger Solutions,200,"['North Indian', 'Chinese', 'Continental']",Agra,Agra Cantt,https://www.zomato.com/agra/24-7-hunger-solutions-agra-cantt/info,Unknown,3.5,38.0
+Neelam Restaurant,400,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/neelam-restaurant-dayal-bagh/info,Casual Dining,3.4,36.0
+Ripples - Mansingh Palace,1500,"['North Indian', 'Continental']",Agra,Mansingh Palace-- Tajganj,https://www.zomato.com/agra/ripples-mansingh-palace-tajganj/info,Fine Dining,0.0,0.0
+Sheesh Mahal - Mansingh Palace,1800,"['North Indian', 'Chinese', 'Continental']",Agra,Mansingh Palace-- Tajganj,https://www.zomato.com/agra/sheesh-mahal-mansingh-palace-tajganj/info,Fine Dining,3.6,19.0
+Anil Gajak Palace,300,['Mithai'],Agra,Civil Lines,https://www.zomato.com/agra/anil-gajak-palace-civil-lines/info,Sweet Shop,3.8,47.0
+Kesar Restaurant,1200,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/kesar-restaurant-tajganj/info,Casual Dining,3.3,24.0
+FNP Cakes ‘n’ More,200,"['Bakery', 'Desserts']",Agra,Rakabganj,https://www.zomato.com/agra/fnp-cakes-n-more-rakabganj/info,Bakery,3.5,13.0
+Healthy & Tasty Food,300,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/healthy-tasty-food-shahganj/info,Quick Bites,3.5,14.0
+Kings Pizza And Burger,200,"['Pizza', 'Burger']",Agra,Rakabganj,https://www.zomato.com/agra/kings-pizza-and-burger-rakabganj/info,Quick Bites,3.5,15.0
+Bob Marley Restaurant,600,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/bob-marley-restaurant-tajganj/info,Casual Dining,3.2,24.0
+Crazy Burger,100,['Burger'],Agra,Sikandra,https://www.zomato.com/agra/crazy-burger-sikandra/info,Quick Bites,3.6,18.0
+Shri Dauji Sweets,200,"['Mithai', 'Street Food']",Agra,Shahganj,https://www.zomato.com/agra/shri-dauji-sweets-shahganj/info,Sweet Shop,3.0,33.0
+Om Restaurant,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/om-restaurant-civil-lines/info,Quick Bites,3.7,97.0
+Bhaagya Shree Studio & Bakers,250,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/bhaagya-shree-studio-bakers-kamla-nagar/info,Bakery,3.6,19.0
+Brijwasi Bhojnalaya,200,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/brijwasi-bhojnalaya-rakabganj/info,Bhojanalya,3.4,23.0
+Food & Fight,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/food-fight-sikandra/info,Quick Bites,3.5,20.0
+Jenith Fast Food,300,"['North Indian', 'South Indian', 'Continental']",Agra,Mantola,https://www.zomato.com/agra/jenith-fast-food-mantola/info,Quick Bites,3.4,15.0
+Chef Signature,900,"['Fast Food', 'Continental', 'Indian']",Agra,Tajganj,https://www.zomato.com/agra/chef-signature-tajganj/info,Quick Bites,3.0,20.0
+Food Treasure,200,"['Bakery', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/food-treasure-sikandra/info,Bakery,3.5,15.0
+Iccha Veg Biryani,100,['Biryani'],Agra,Sikandra,https://www.zomato.com/agra/iccha-veg-biryani-sikandra/info,Kiosk,3.5,22.0
+The Park Restaurant,1000,"['North Indian', 'Chinese', 'Continental', 'Mughlai']",Agra,Agra Cantt,https://www.zomato.com/agra/the-park-restaurant-agra-cantt/info,Casual Dining,3.6,77.0
+Agarsen Sweet,600,"['Mithai', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/agarsen-sweet-sikandra/info,Sweet Shop,3.4,14.0
+Chhabra Bakers and Confectioners,200,"['Bakery', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/chhabra-bakers-and-confectioners-shahganj/info,Confectionery,3.2,21.0
+Laxman Momo's Corner,100,['Momos'],Agra,Tajganj,https://www.zomato.com/agra/laxman-momos-corner-tajganj/info,Quick Bites,3.5,23.0
+Pracheen Petha,200,['Desserts'],Agra,Civil Lines,https://www.zomato.com/agra/pracheen-petha-3-civil-lines/info,Sweet Shop,0.0,0.0
+Bansal Sweets,100,"['Mithai', 'Street Food']",Agra,Shahganj,https://www.zomato.com/agra/bansal-sweets-shahganj/info,Sweet Shop,2.7,30.0
+AFC Kitchen,300,['Fast Food'],Agra,Tajganj,https://www.zomato.com/agra/afc-kitchen-tajganj/info,Quick Bites,3.3,23.0
+The Crispy Treat,150,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/the-crispy-treat-1-sikandra/info,Quick Bites,3.3,8.0
+Pranjal Food Court,300,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/pranjal-food-court-sikandra/info,Quick Bites,3.0,21.0
+Goli Vada Paav No.1,100,['Street Food'],Agra,Shahganj,https://www.zomato.com/agra/goli-vada-paav-no-1-shahganj/info,Quick Bites,3.2,20.0
+Giani,300,"['Beverages', 'Desserts', 'Ice Cream']",Agra,Civil Lines,https://www.zomato.com/agra/giani-civil-lines/info,Dessert Parlor,2.5,18.0
+Laxman Momo's Corner,100,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/laxman-momos-corner-agra-cantt/info,Quick Bites,3.8,20.0
+Shagun Cafe,100,"['Bakery', 'Cafe']",Agra,Khandari,https://www.zomato.com/agra/shagun-cafe-khandari/info,Quick Bites,3.4,12.0
+Cake & More,500,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/cake-more-kamla-nagar/info,Quick Bites,3.0,16.0
+Panchhi Petha Store,400,['Mithai'],Agra,Mantola,https://www.zomato.com/agra/panchhi-petha-store-mantola/info,Sweet Shop,3.4,12.0
+Mor Mukut Misthan Bhandar,400,"['Mithai', 'Desserts', 'Street Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/mor-mukut-misthan-bhandar-kamla-nagar/info,Sweet Shop,3.3,14.0
+Garg Dairy,200,"['Bakery', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/garg-dairy-1-kamla-nagar/info,Bakery,3.3,12.0
+Fauzi Dhaba,650,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/fauzi-dhaba-tajganj/info,Casual Dining,3.0,17.0
+Hungernomia,300,"['Wraps', 'Sandwich', 'Burger', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/hungernomia-civil-lines/info,Quick Bites,3.3,16.0
+Jugalbandi,250,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/jugalbandi-sikandra/info,Quick Bites,3.4,22.0
+Maya Restaurant,900,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/maya-restaurant-tajganj/info,Casual Dining,2.7,17.0
+Little N Chef,200,"['Chinese', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/little-n-chef-shahganj/info,Quick Bites,3.5,33.0
+Little Maggi Point,150,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/little-maggi-point-3-kamla-nagar/info,Quick Bites,3.2,11.0
+Cafe Coffee Day,500,"['Cafe', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/cafe-coffee-day-civil-lines/info,Café,3.9,96.0
+Swad Restaurant,500,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/swad-restaurant-agra-cantt/info,Casual Dining,0.0,0.0
+Yes Restaurant,300,"['North Indian', 'South Indian']",Agra,Tajganj,https://www.zomato.com/agra/yes-restaurant-1-tajganj/info,Unknown,3.4,13.0
+Hunger Target,200,['Chinese'],Agra,Agra Cantt,https://www.zomato.com/agra/hunger-target-1-agra-cantt/info,Quick Bites,0.0,0.0
+Hiralal Misthan Bhandar,250,['Mithai'],Agra,Civil Lines,https://www.zomato.com/agra/hiralal-misthan-bhandar-civil-lines/info,Sweet Shop,3.2,4.0
+Biryaniwala,200,['Biryani'],Agra,Mantola,https://www.zomato.com/agra/biryaniwala-1-mantola/info,Unknown,3.4,15.0
+Chinu Bakers,150,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/chinu-bakers-kamla-nagar/info,Unknown,3.5,10.0
+Thor The Party World,500,"['North Indian', 'Chinese', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/thor-the-party-world-2-tajganj/info,Lounge,4.0,44.0
+Jai Jhulelal Patties Corner,100,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/jai-jhulelal-patties-corner-shahganj/info,Quick Bites,3.6,24.0
+Shubham Restaurant,500,"['North Indian', 'Chinese', 'South Indian', 'Fast Food']",Agra,Arjun Nagar,https://www.zomato.com/agra/shubham-restaurant-arjun-nagar/info,Casual Dining,2.8,29.0
+Pizza Pasta Corner,250,['Pizza'],Agra,Shahganj,https://www.zomato.com/agra/pizza-pasta-corner-shahganj/info,Quick Bites,3.3,9.0
+Brownee,100,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/brownee-kamla-nagar/info,Quick Bites,3.3,25.0
+Vaishno Bhalla House,200,['Fast Food'],Agra,Rakabganj,https://www.zomato.com/agra/vaishno-bhalla-house-rakabganj/info,Quick Bites,3.4,20.0
+Aastha Family Dhaba,350,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/aastha-family-dhaba-tajganj/info,Quick Bites,3.2,7.0
+Me & My Choice,500,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/me-my-choice-shahganj/info,Quick Bites,3.4,11.0
+AJ's Cafe & Bakery,300,['Cafe'],Agra,Agra Cantt,https://www.zomato.com/agra/ajs-cafe-bakery-agra-cantt/info,Café,2.8,21.0
+Moti Mahal Restaurant,800,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/moti-mahal-restaurant-tajganj/info,Casual Dining,3.0,15.0
+Djlecious By Divya,400,['Bakery'],Agra,Mantola,https://www.zomato.com/agra/djlecious-by-divya-mantola/info,Unknown,0.0,0.0
+Bazaar Cafe,400,['Cafe'],Agra,Sikandra,https://www.zomato.com/agra/bazaar-cafe-sikandra/info,Café,3.4,7.0
+Royals Cafe Corner Restaurant,700,"['Cafe', 'North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/royals-cafe-corner-restaurant-tajganj/info,Café,3.2,22.0
+Choki Dhani - Rajasthani Bhojnalya,200,"['Rajasthani', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/choki-dhani-rajasthani-bhojnalya-sikandra/info,Quick Bites,3.1,8.0
+Ravi Fast Food,200,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/ravi-fast-food-civil-lines/info,Quick Bites,3.6,21.0
+Food Factory,100,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/food-factory-sikandra/info,Quick Bites,0.0,0.0
+Biryani Point,150,['Biryani'],Agra,Shahganj,https://www.zomato.com/agra/biryani-point-shahganj/info,Quick Bites,0.0,0.0
+Freshop,200,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/freshop-1-civil-lines/info,Quick Bites,3.4,12.0
+Ceezak Food Corner,350,"['Chinese', 'Fast Food']",Agra,Arjun Nagar,https://www.zomato.com/agra/ceezak-food-corner-arjun-nagar/info,Quick Bites,3.3,17.0
+China Town,200,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/china-town-shahganj/info,Quick Bites,3.3,8.0
+New Chetna Store Patties Hub,100,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/new-chetna-store-patties-hub-civil-lines/info,Quick Bites,3.4,16.0
+Burgero,400,"['Burger', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/burgero-shahganj/info,Quick Bites,2.8,18.0
+Sri Balaji Restaurant,500,"['South Indian', 'North Indian', 'Beverages']",Agra,Tajganj,https://www.zomato.com/agra/sri-balaji-restaurant-tajganj/info,Casual Dining,3.4,14.0
+Freaky Burger,200,['Burger'],Agra,Rakabganj,https://www.zomato.com/agra/freaky-burger-rakabganj/info,Quick Bites,3.1,9.0
+Sanjay Food Corner,100,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/sanjay-food-corner-sikandra/info,Quick Bites,3.2,6.0
+Punjabi Tadka,100,"['Fast Food', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/punjabi-tadka-1-sikandra/info,Quick Bites,3.3,8.0
+Thug Truck,150,"['Fast Food', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/thug-truck-khandari/info,Food Truck,3.4,13.0
+Shri Radhay Chaat Bhandar,150,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/shri-radhay-chaat-bhandar-kamla-nagar/info,Unknown,3.4,11.0
+the bollywood fries,200,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/the-bollywood-fries-1-kamla-nagar/info,Quick Bites,3.2,5.0
+Wow Vada Pav,200,"['Street Food', 'Wraps', 'Burger']",Agra,Sikandra,https://www.zomato.com/agra/wow-vada-pav-sikandra/info,Quick Bites,3.3,4.0
+Sprinkle Bakery And Fast Food,200,"['Bakery', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/sprinkle-bakery-and-fast-food-sikandra/info,Bakery,0.0,0.0
+Speise Restaurant,500,"['Biryani', 'Chinese', 'Mughlai', 'Indian']",Agra,Tajganj,https://www.zomato.com/agra/speise-restaurant-tajganj/info,Casual Dining,3.3,9.0
+Sagra,200,['Fast Food'],Agra,Agra Cantt,https://www.zomato.com/agra/sagra-agra-cantt/info,Quick Bites,3.4,13.0
+Dr Cake And Confectionery,150,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/dr-cake-and-confectionery-kamla-nagar/info,Quick Bites,3.3,9.0
+Isha Food Plaza,150,"['Fast Food', 'Bakery']",Agra,Dayal Bagh,https://www.zomato.com/agra/isha-food-plaza-dayal-bagh/info,Quick Bites,3.3,9.0
+Taste And Food,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/taste-and-food-sikandra/info,Quick Bites,0.0,0.0
+Food Paradise,200,"['Bakery', 'Desserts']",Agra,Sikandra,https://www.zomato.com/agra/food-paradise-sikandra/info,Bakery,3.1,4.0
+Club 2100,300,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/club-2100-kamla-nagar/info,Quick Bites,3.3,12.0
+FCB Fast Food Corner,300,['Fast Food'],Agra,Tajganj,https://www.zomato.com/agra/fcb-fast-food-corner-tajganj/info,Quick Bites,3.2,9.0
+Habova's BL Food Plaza,350,"['Chinese', 'Indian', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/habovas-bl-food-plaza-sikandra/info,Quick Bites,3.2,14.0
+Rola Wala,400,"['Rolls', 'Chinese', 'Momos']",Agra,Khandari,https://www.zomato.com/agra/rola-wala-1-khandari/info,Quick Bites,3.6,96.0
+Amartsari Naan Thali,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/amartsari-naan-thali-civil-lines/info,Quick Bites,3.0,6.0
+Chinu Restaurant,400,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/chinu-restaurant-kamla-nagar/info,Casual Dining,3.1,6.0
+Riya dairy & fast food,100,['Fast Food'],Agra,Dayal Bagh,https://www.zomato.com/agra/riya-dairy-fast-food-dayal-bagh/info,Quick Bites,3.3,12.0
+Tasty Bite Restaurant,800,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/tasty-bite-restaurant-tajganj/info,Casual Dining,2.9,5.0
+Indo American Foods,150,"['Fast Food', 'Italian']",Agra,Dayal Bagh,https://www.zomato.com/agra/indo-american-foods-1-dayal-bagh/info,Quick Bites,3.3,13.0
+JMB Bakery,350,"['Bakery', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/jmb-bakery-sikandra/info,Quick Bites,3.1,13.0
+Pracheen Petha,0,['Desserts'],Agra,Civil Lines,https://www.zomato.com/agra/pracheen-petha-2-civil-lines/info,Sweet Shop,0.0,0.0
+Anokhe Paratha,150,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/anokhe-paratha-tajganj/info,Quick Bites,3.3,10.0
+Yadav Dhaba Purana,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/yadav-dhaba-purana-civil-lines/info,Dhaba,3.9,225.0
+Mocha,1500,"['Cafe', 'Italian', 'Chinese', 'Continental', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/mocha-tajganj/info,Café,4.3,441.0
+Jahanpanah,850,"['North Indian', 'Mughlai']",Agra,Agra Cantt,https://www.zomato.com/agra/jahanpanah-agra-cantt/info,Casual Dining,3.9,270.0
+Subway,500,"['Healthy Food', 'Sandwich', 'Salad']",Agra,Khandari,https://www.zomato.com/agra/subway-khandari/info,Quick Bites,4.1,253.0
+Papa Ji Da Dhaba,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/papa-ji-da-dhaba-civil-lines/info,Dhaba,4.0,341.0
+Pind Balluchi,1000,"['North Indian', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/pind-balluchi-tajganj/info,Casual Dining,4.2,494.0
+Chapter 1 Cafe,1000,"['Cafe', 'Italian', 'Mexican', 'North Indian', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/chapter-1-cafe-tajganj/info,Café,4.2,263.0
+Sugar N Thyme,1000,"['Cafe', 'Chinese', 'Thai', 'Continental', 'Italian', 'Bakery', 'Desserts']",Agra,Tajganj,https://www.zomato.com/agra/sugar-n-thyme-tajganj/info,Café,4.3,261.0
+Amritsari Kulcha Junction,600,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/amritsari-kulcha-junction-civil-lines/info,Quick Bites,4.1,321.0
+G Thal,900,"['Rajasthani', 'Gujarati', 'Mughlai']",Agra,Khandari,https://www.zomato.com/agra/g-thal-khandari/info,Casual Dining,3.7,240.0
+D'Delicia,1600,"['North Indian', 'Chinese', 'Mexican', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/ddelicia-tajganj/info,Fine Dining,4.6,224.0
+Jain Restaurant,500,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/jain-restaurant-shahganj/info,Quick Bites,4.2,262.0
+Bhadawar Hotel,200,['North Indian'],Agra,Mantola,https://www.zomato.com/agra/bhadawar-hotel-mantola/info,Quick Bites,4.0,138.0
+Thaaliwala,700,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/thaaliwala-tajganj/info,Casual Dining,4.0,316.0
+The Forest,800,['Indian'],Agra,Sikandra,https://www.zomato.com/agra/the-forest-sikandra/info,Casual Dining,3.7,250.0
+Burger Panda,250,"['Burger', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/burger-panda-shahganj/info,Quick Bites,3.9,82.0
+Apollo Foods,400,['Bakery'],Agra,Civil Lines,https://www.zomato.com/agra/apollo-foods-1-civil-lines/info,Quick Bites,3.1,4.0
+Dear Shoppy,200,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/dear-shoppy-4-khandari/info,Quick Bites,3.3,8.0
+Shri Mahaveer Bakery And Confectionery,150,"['Desserts', 'Bakery']",Agra,Sikandra,https://www.zomato.com/agra/shri-mahaveer-bakery-and-confectionery-sikandra/info,Bakery,3.1,4.0
+Mr. Food,200,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/mr-food-shahganj/info,Quick Bites,0.0,0.0
+Chai Dose,100,['Tea'],Agra,Dayal Bagh,https://www.zomato.com/agra/chai-dose-dayal-bagh/info,Unknown,0.0,0.0
+Sukoon Restaurant,850,"['North Indian', 'Desserts', 'Chinese', 'Biryani']",Agra,Tajganj,https://www.zomato.com/agra/sukoon-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Agarwal Sweet House,300,['Mithai'],Agra,Khandari,https://www.zomato.com/agra/agarwal-sweet-house-khandari/info,Sweet Shop,0.0,0.0
+Foodie Bites,250,"['North Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/foodie-bites-sikandra/info,Unknown,3.1,6.0
+S.R Restaurant & Fast food,500,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/s-r-restaurant-fast-food-tajganj/info,Casual Dining,2.9,7.0
+Gravy Spicy Tasty,400,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/gravy-spicy-tasty-sikandra/info,Unknown,3.2,11.0
+Lick N Bite Bakers,300,['Bakery'],Agra,Sikandra,https://www.zomato.com/agra/lick-n-bite-bakers-sikandra/info,Bakery,2.9,6.0
+K.K Juice House,150,['Juices'],Agra,Lohamandi,https://www.zomato.com/agra/k-k-juice-house-lohamandi/info,Beverage Shop,0.0,0.0
+Munna Lal Sweets,150,['Mithai'],Agra,Mantola,https://www.zomato.com/agra/munna-lal-sweets-1-mantola/info,Sweet Shop,0.0,0.0
+Grilled And Chilled Cafe,100,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/grilled-and-chilled-cafe-sikandra/info,Unknown,0.0,0.0
+Prince Bakers,250,"['Bakery', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/prince-bakers-civil-lines/info,Bakery,3.2,10.0
+New Agarwal Sweet,250,"['Mithai', 'Street Food']",Agra,Shahganj,https://www.zomato.com/agra/new-agarwal-sweet-shahganj/info,Sweet Shop,0.0,0.0
+Cakeshh,800,['Bakery'],Agra,Dayal Bagh,https://www.zomato.com/agra/cakeshh-agra/info,Bakery,3.2,6.0
+K.D Bakers,200,['Bakery'],Agra,Sikandra,https://www.zomato.com/agra/k-d-bakers-sikandra/info,Dessert Parlor,3.0,4.0
+Indian Spice,450,"['North Indian', 'South Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/indian-spice-sikandra/info,Casual Dining,2.8,9.0
+Shivam Restaurant,250,"['North Indian', 'Chinese', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/shivam-restaurant-1-tajganj/info,Quick Bites,3.1,4.0
+Vintage House,900,"['North Indian', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/vintage-house-2-tajganj/info,Casual Dining,4.1,27.0
+Rajmahal Restaurant,1000,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/rajmahal-restaurant-tajganj/info,Casual Dining,2.8,7.0
+Naturelo,400,"['Ice Cream', 'Desserts', 'Beverages']",Agra,Civil Lines,https://www.zomato.com/agra/naturelo-civil-lines/info,Dessert Parlor,4.0,50.0
+Maruti Restaurant,700,"['North Indian', 'South Indian', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/maruti-restaurant-khandari/info,Casual Dining,3.2,7.0
+Maharaja Agrasen Confectionery,200,['Bakery'],Agra,Sikandra,https://www.zomato.com/agra/maharaja-agrasen-confectionery-sikandra/info,Bakery,0.0,0.0
+Shubhansh Eat And Treat Point,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/shubhansh-eat-and-treat-point-sikandra/info,Quick Bites,0.0,0.0
+Ram Shyam Pan Bhandar,100,['Paan'],Agra,Kamla Nagar,https://www.zomato.com/agra/ram-shyam-pan-bhandar-kamla-nagar/info,Paan Shop,0.0,0.0
+Unique Foodz & Bakez,300,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/unique-foodz-bakez-kamla-nagar/info,Quick Bites,3.2,5.0
+Shri Jagdamba Bakers,200,"['Fast Food', 'Bakery']",Agra,Kamla Nagar,https://www.zomato.com/agra/shri-jagdamba-bakers-kamla-nagar/info,Bakery,3.2,7.0
+Agarsen Sweets,400,['Mithai'],Agra,Civil Lines,https://www.zomato.com/agra/agarsen-sweets-civil-lines/info,Sweet Shop,3.2,5.0
+Indo Italian Street,200,['Street Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/indo-italian-street-kamla-nagar/info,Quick Bites,3.3,8.0
+Jain Food Court,300,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/jain-food-court-khandari/info,Quick Bites,3.1,4.0
+Cake Room,100,['Bakery'],Agra,Tajganj,https://www.zomato.com/agra/cake-room-tajganj/info,Bakery,0.0,0.0
+Imran Hot Roll Centre,100,['Rolls'],Agra,Shahganj,https://www.zomato.com/agra/imran-hot-roll-centre-shahganj/info,Kiosk,3.2,8.0
+Veg Express,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/veg-express-civil-lines/info,Unknown,3.1,5.0
+Hotel  Neelkanth,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/hotel-neelkanth-civil-lines/info,Quick Bites,0.0,0.0
+Govind Ji Sweets,200,"['Mithai', 'Street Food']",Agra,Sikandra,https://www.zomato.com/agra/govind-ji-sweets-sikandra/info,Sweet Shop,0.0,0.0
+Top'n'treat,150,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/topntreat-khandari/info,Quick Bites,3.1,4.0
+Brothers Bistro,500,['Cafe'],Agra,Kamla Nagar,https://www.zomato.com/agra/brothers-bistro-kamla-nagar/info,Café,3.5,55.0
+The Golden Grilled,400,"['North Indian', 'Fast Food']",Agra,Khandari,https://www.zomato.com/agra/the-golden-grilled-khandari/info,Casual Dining,3.2,5.0
+Novelty Restaurant,1000,"['North Indian', 'Mughlai']",Agra,Rakabganj,https://www.zomato.com/agra/novelty-restaurant-rakabganj/info,Casual Dining,2.8,5.0
+Gupta Bakery & Sweet Shop,250,['Bakery'],Agra,Tajganj,https://www.zomato.com/agra/gupta-bakery-sweet-shop-tajganj/info,Bakery,0.0,0.0
+Prasadam,100,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/prasadam-1-khandari/info,Quick Bites,3.2,6.0
+Yash Cafe,500,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/yash-cafe-tajganj/info,Casual Dining,0.0,0.0
+Rathi Ranchhod,200,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/rathi-ranchhod-sikandra/info,Sweet Shop,0.0,0.0
+Anant Krishna Foods,150,['Bakery'],Agra,Dayal Bagh,https://www.zomato.com/agra/anant-krishna-foods-dayal-bagh/info,Bakery,0.0,0.0
+Punjabi Van,250,"['North Indian', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/punjabi-van-kamla-nagar/info,Quick Bites,2.9,4.0
+Maggi Magic,200,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/maggi-magic-khandari/info,Quick Bites,0.0,0.0
+Gaurav Sweets,250,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/gaurav-sweets-1-sikandra/info,Sweet Shop,3.1,5.0
+Little Spice Restaurant,250,"['North Indian', 'South Indian', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/little-spice-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Ichchha Veg Briyani & Fast Food,200,"['Biryani', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/ichchha-veg-briyani-fast-food-sikandra/info,Quick Bites,3.2,4.0
+BUDDIE'S CAFE,0,['Cafe'],Agra,Kamla Nagar,https://www.zomato.com/agra/buddies-cafe-kamla-nagar/info,Café,0.0,0.0
+G Baba Francky Corner,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/g-baba-francky-corner-sikandra/info,Quick Bites,3.1,6.0
+Deshraj Ka Dhaba,150,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/deshraj-ka-dhaba-civil-lines/info,Quick Bites,0.0,0.0
+Y NOT Cafe and restaurant,350,['Cafe'],Agra,Sikandra,https://www.zomato.com/agra/y-not-cafe-and-restaurant-sikandra/info,Café,0.0,0.0
+Ahan Restaurant - Hotel Trisha Bhoomi Residency,850,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/ahan-restaurant-hotel-trisha-bhoomi-residency-tajganj/info,Casual Dining,0.0,0.0
+Bhimsain Baij Nath - Dalmoth Pehta Wala,200,"['Mithai', 'Desserts']",Agra,Civil Lines,https://www.zomato.com/agra/bhimsain-baij-nath-dalmoth-pehta-wala-civil-lines/info,Dessert Parlor,0.0,0.0
+Jyoti Family Restaurant,300,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/jyoti-family-restaurant-khandari/info,Quick Bites,0.0,0.0
+Ganga Khandvi Dhokla House,100,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/ganga-khandvi-dhokla-house-kamla-nagar/info,Quick Bites,0.0,0.0
+Abdul Sattar Nashte Wale,150,['Fast Food'],Agra,Mantola,https://www.zomato.com/agra/abdul-sattar-nashte-wale-mantola/info,Quick Bites,0.0,0.0
+New Riao Restaurant,1000,"['North Indian', 'Chinese', 'Mughlai', 'Continental']",Agra,Agra Cantt,https://www.zomato.com/agra/new-riao-restaurant-agra-cantt/info,Casual Dining,2.8,4.0
+Desi Masala,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/desi-masala-civil-lines/info,Quick Bites,3.2,5.0
+Girraj Restaurant,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/girraj-restaurant-civil-lines/info,Quick Bites,0.0,0.0
+Annapurna,500,"['Chinese', 'Fast Food', 'North Indian', 'South Indian']",Agra,Tajganj,https://www.zomato.com/agra/annapurna-tajganj/info,Quick Bites,0.0,0.0
+Anjali Sweet,200,"['Mithai', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/anjali-sweet-sikandra/info,Sweet Shop,0.0,0.0
+Bedweiser Cafe,350,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/bedweiser-cafe-tajganj/info,Quick Bites,3.2,5.0
+Gopal Juice Corner,100,['Juices'],Agra,Sikandra,https://www.zomato.com/agra/gopal-juice-corner-sikandra/info,Beverage Shop,0.0,0.0
+Relax He Relax Restaurant,800,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/relax-he-relax-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Thali Bhojnalaya,300,"['North Indian', 'South Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/thali-bhojnalaya-tajganj/info,Quick Bites,0.0,0.0
+Swad Thali,200,['North Indian'],Agra,Mantola,https://www.zomato.com/agra/swad-thali-mantola/info,Quick Bites,0.0,0.0
+Vidhi Foods,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/vidhi-foods-sikandra/info,Quick Bites,0.0,0.0
+Pandit Ji Sweets,200,['Mithai'],Agra,Shahganj,https://www.zomato.com/agra/pandit-ji-sweets-shahganj/info,Sweet Shop,0.0,0.0
+Jai Pepsi Cafe,100,['Street Food'],Agra,Dayal Bagh,https://www.zomato.com/agra/jai-pepsi-cafe-dayal-bagh/info,Quick Bites,0.0,0.0
+Gupta Ji Restaurant,100,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/gupta-ji-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Goyal Sweet,250,['Mithai'],Agra,Kamla Nagar,https://www.zomato.com/agra/goyal-sweet-kamla-nagar/info,Sweet Shop,0.0,0.0
+Jai Pratha King,100,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/jai-pratha-king-dayal-bagh/info,Quick Bites,0.0,0.0
+New Taj Darbar,900,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/new-taj-darbar-tajganj/info,Casual Dining,0.0,0.0
+Brijwasi Chat Bandar,100,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/brijwasi-chat-bandar-sikandra/info,Quick Bites,0.0,0.0
+Khan Baba Fruits And Juice Corner,100,['Juices'],Agra,Sikandra,https://www.zomato.com/agra/khan-baba-fruits-and-juice-corner-sikandra/info,Beverage Shop,0.0,0.0
+Eats And Treats,300,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/eats-and-treats-civil-lines/info,Unknown,0.0,0.0
+JMD Juice and Shakes,250,"['Beverages', 'Fast Food']",Agra,Agra Cantt,https://www.zomato.com/agra/jmd-juice-and-shakes-agra-cantt/info,Beverage Shop,0.0,0.0
+The Idea Inn,800,"['North Indian', 'Continental', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/the-idea-inn-tajganj/info,Casual Dining,0.0,0.0
+Karan Restaurant,1000,"['Chinese', 'North Indian', 'Fast Food']",Agra,Hotel Ganga Ratan-- Tajganj,https://www.zomato.com/agra/karan-restaurant-tajganj/info,Casual Dining,3.1,4.0
+Eggstroke,500,"['North Indian', 'Rolls', 'Sandwich']",Agra,Civil Lines,https://www.zomato.com/agra/eggstroke-civil-lines/info,Quick Bites,0.0,0.0
+Jain Sweet,200,"['Mithai', 'Desserts']",Agra,Sikandra,https://www.zomato.com/agra/jain-sweet-sikandra/info,Sweet Shop,0.0,0.0
+Pratap Restaurant,500,['Cuisine Varies'],Agra,Tajganj,https://www.zomato.com/agra/pratap-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Shree Dwarikadesh Dosa Corner,200,['South Indian'],Agra,Sikandra,https://www.zomato.com/agra/shree-dwarikadesh-dosa-corner-sikandra/info,Quick Bites,0.0,0.0
+Swad Sweets And Food Paradise,400,"['North Indian', 'South Indian', 'Chinese']",Agra,Shahganj,https://www.zomato.com/agra/swad-sweets-and-food-paradise-shahganj/info,Quick Bites,0.0,0.0
+Agra Prasadam,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/agra-prasadam-1-civil-lines/info,Quick Bites,0.0,0.0
+Bedariya Ram Gajak Wale,700,['Desserts'],Agra,Mantola,https://www.zomato.com/agra/bedariya-ram-gajak-wale-mantola/info,Quick Bites,0.0,0.0
+Food By Kilo,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/food-by-kilo-civil-lines/info,Quick Bites,0.0,0.0
+Rajput Food Corner,150,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/rajput-food-corner-civil-lines/info,Quick Bites,0.0,0.0
+Zaika's - The Taste,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/zaikas-the-taste-civil-lines/info,Quick Bites,0.0,0.0
+Green Park Restaurant,600,"['North Indian', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/green-park-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Star Chilli,1250,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/star-chilli-tajganj/info,Casual Dining,0.0,0.0
+The Glass Onion Cafe And Family Corner,250,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/the-glass-onion-cafe-and-family-corner-dayal-bagh/info,Quick Bites,0.0,0.0
+Bansal Sweets,200,['Mithai'],Agra,Rakabganj,https://www.zomato.com/agra/bansal-sweets-rakabganj/info,Sweet Shop,0.0,0.0
+Shree Krishna Murari Misthan Bhandar,200,"['Desserts', 'Street Food', 'Fast Food']",Agra,Dayal Bagh,https://www.zomato.com/agra/shree-krishna-murari-misthan-bhandar-dayal-bagh/info,Sweet Shop,0.0,0.0
+Tree House Cafe,500,"['Italian', 'Mexican', 'Chinese', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/tree-house-cafe-civil-lines/info,Food Court,0.0,0.0
+Mithaas Sweets & Snacks,200,['Mithai'],Agra,Tajganj,https://www.zomato.com/agra/mithaas-sweets-snacks-tajganj/info,Sweet Shop,0.0,0.0
+Aapki Rasoi,200,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/aapki-rasoi-dayal-bagh/info,Quick Bites,0.0,0.0
+Bhadawar Sweets,250,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/bhadawar-sweets-sikandra/info,Sweet Shop,0.0,0.0
+Prema Palace Hotel & Restaurant,1000,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/prema-palace-hotel-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Cafe Aim Korean Restaurant,350,['Korean'],Agra,Tajganj,https://www.zomato.com/agra/cafe-aim-korean-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Shri Parasnath Misthan Bhandar,300,"['Mithai', 'Street Food']",Agra,Mantola,https://www.zomato.com/agra/shri-parasnath-misthan-bhandar-mantola/info,Sweet Shop,0.0,0.0
+Shri Raj Bhojnalya,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/shri-raj-bhojnalya-civil-lines/info,Bhojanalya,0.0,0.0
+Anna Purna Canteen,250,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/anna-purna-canteen-civil-lines/info,Quick Bites,0.0,0.0
+Pracheen Petha,100,"['Desserts', 'Mithai']",Agra,Mantola,https://www.zomato.com/agra/pracheen-petha-1-mantola/info,Sweet Shop,0.0,0.0
+Radha Swami Chinese Fast Food,100,"['North Indian', 'Chinese', 'Street Food']",Agra,Tajganj,https://www.zomato.com/agra/radha-swami-chinese-fast-food-tajganj/info,Quick Bites,0.0,0.0
+Lucky's Cafe,400,"['Fast Food', 'Cafe', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/luckys-cafe-tajganj/info,Café,0.0,0.0
+Amrut Restaurant,300,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/amrut-restaurant-dayal-bagh/info,Quick Bites,0.0,0.0
+Gun - Gun Confectionery,100,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/gun-gun-confectionery-shahganj/info,Unknown,0.0,0.0
+Brijwasi Sweet House,400,"['Mithai', 'Desserts']",Agra,Dayal Bagh,https://www.zomato.com/agra/brijwasi-sweet-house-dayal-bagh/info,Sweet Shop,0.0,0.0
+Gupta Sweets,400,['Mithai'],Agra,Kamla Nagar,https://www.zomato.com/agra/gupta-sweets-kamla-nagar/info,Sweet Shop,0.0,0.0
+Shiva Bhojhnalaya,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/shiva-bhojhnalaya-sikandra/info,Quick Bites,0.0,0.0
+Gori Shankar Fruit &  Punchshake Corner,100,['Beverages'],Agra,Sikandra,https://www.zomato.com/agra/gori-shankar-fruit-punchshake-corner-sikandra/info,Beverage Shop,0.0,0.0
+Krishna Namkeen and Sweet,200,['Mithai'],Agra,Shahganj,https://www.zomato.com/agra/krishna-namkeen-and-sweet-shahganj/info,Sweet Shop,0.0,0.0
+Hiralal Food Corner,250,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/hiralal-food-corner-civil-lines/info,Quick Bites,0.0,0.0
+VR Food Zone,250,['Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/vr-food-zone-dayal-bagh/info,Quick Bites,0.0,0.0
+laxman Fast Food,200,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/laxman-fast-food-civil-lines/info,Quick Bites,0.0,0.0
+Chocolate Cafe,0,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/chocolate-cafe-kamla-nagar/info,Unknown,0.0,0.0
+Jodha Restaurant,800,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/jodha-restaurant-1-sikandra/info,Casual Dining,0.0,0.0
+Golden Grilled,400,['Mughlai'],Agra,Khandari,https://www.zomato.com/agra/golden-grilled-khandari/info,Quick Bites,0.0,0.0
+Apna Bhojnalaya,150,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/apna-bhojnalaya-shahganj/info,Quick Bites,0.0,0.0
+Mama  Bhojnalya,600,"['Healthy Food', 'North Indian', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/mama-bhojnalya-kamla-nagar/info,Quick Bites,0.0,0.0
+Moolchand Grocery And Bakery,200,['Bakery'],Agra,Sikandra,https://www.zomato.com/agra/moolchand-grocery-and-bakery-sikandra/info,Bakery,0.0,0.0
+Rajput Bakers,200,['Bakery'],Agra,Kuberpur,https://www.zomato.com/agra/rajput-bakers-kuberpur/info,Bakery,0.0,0.0
+Grace Rooftop Restaurant,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/grace-rooftop-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Hotel Taj Heights,700,"['North Indian', 'Chinese', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/hotel-taj-heights-tajganj/info,Casual Dining,0.0,0.0
+Krishna Namkeen and Sweets,200,['Mithai'],Agra,Shahganj,https://www.zomato.com/agra/krishna-namkeen-and-sweets-1-shahganj/info,Sweet Shop,0.0,0.0
+Harbour Delight - Hotel Light House,700,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/harbour-delight-hotel-light-house-tajganj/info,Casual Dining,0.0,0.0
+Rudra Fast Food,100,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/rudra-fast-food-shahganj/info,Quick Bites,0.0,0.0
+Pandit Ji Fast Food,200,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/pandit-ji-fast-food-shahganj/info,Quick Bites,0.0,0.0
+Mama Cake House,150,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/mama-cake-house-kamla-nagar/info,Quick Bites,0.0,0.0
+Gaurav Bakers,150,"['Bakery', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/gaurav-bakers-sikandra/info,Bakery,0.0,0.0
+China Town,200,"['Fast Food', 'Burger']",Agra,Shahganj,https://www.zomato.com/agra/china-town-2-shahganj/info,Unknown,0.0,0.0
+Blue Bird Bakers,250,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/blue-bird-bakers-kamla-nagar/info,Bakery,0.0,0.0
+Radhey govind bakery,250,"['Bakery', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/radhey-govind-bakery-shahganj/info,Bakery,0.0,0.0
+Hotel Atithi,600,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/hotel-atithi-tajganj/info,Casual Dining,0.0,0.0
+All About chocolat,500,['Desserts'],Agra,Khandari,https://www.zomato.com/agra/all-about-chocolat-khandari/info,Unknown,0.0,0.0
+Sri Sainath Food Service,250,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/sri-sainath-food-service-khandari/info,Quick Bites,0.0,0.0
+Radhika Sweet Corner,300,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/radhika-sweet-corner-sikandra/info,Sweet Shop,0.0,0.0
+Swaggy Cafe,100,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/swaggy-cafe-tajganj/info,Quick Bites,0.0,0.0
+Prem Confectionery,100,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/prem-confectionery-shahganj/info,Confectionery,0.0,0.0
+Rahul Bakers,200,"['Fast Food', 'Bakery']",Agra,Shahganj,https://www.zomato.com/agra/rahul-bakers-shahganj/info,Bakery,0.0,0.0
+Youngistan Cafe,400,['Cafe'],Agra,Civil Lines,https://www.zomato.com/agra/youngistan-cafe-civil-lines/info,Café,0.0,0.0
+Agra Coffee House,150,"['Coffee', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/agra-coffee-house-civil-lines/info,Quick Bites,0.0,0.0
+Shree Jee Sweets And Dairy,200,['Mithai'],Agra,Shahganj,https://www.zomato.com/agra/shree-jee-sweets-and-dairy-shahganj/info,Dessert Parlor,0.0,0.0
+Abhishek Restaurant,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/abhishek-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Bullet Adda,500,"['Cafe', 'Continental', 'Italian']",Agra,Sikandra,https://www.zomato.com/agra/bullet-adda-1-sikandra/info,Café,4.1,216.0
+Aromatic Nosh,700,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/aromatic-nosh-kamla-nagar/info,Quick Bites,4.1,100.0
+MKOP,200,"['Bakery', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/mkop-civil-lines/info,Dessert Parlor,4.4,228.0
+Pari Family Restaurant,400,"['North Indian', 'Fast Food', 'South Indian']",Agra,Sikandra,https://www.zomato.com/agra/pari-family-restaurant-sikandra/info,Quick Bites,3.8,231.0
+Social Attitude,600,"['Cafe', 'Chinese', 'Finger Food', 'North Indian']",Agra,Shahganj,https://www.zomato.com/agra/social-attitude-shahganj/info,Café,3.8,178.0
+Bercos,1000,"['Chinese', 'Thai']",Agra,Civil Lines,https://www.zomato.com/agra/bercos-5-civil-lines/info,Casual Dining,4.1,196.0
+Ram Babu Parathe Wale,700,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/ram-babu-parathe-wale-sikandra/info,Quick Bites,3.1,235.0
+Anant Restaurant,350,['South Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/anant-restaurant-kamla-nagar/info,Casual Dining,4.1,223.0
+The Momo Corner,200,"['Chinese', 'Momos', 'Wraps', 'Burger']",Agra,Kamla Nagar,https://www.zomato.com/agra/the-momo-corner-kamla-nagar/info,Quick Bites,4.2,147.0
+Grey House Cafe,1500,['Cafe'],Agra,Tajganj,https://www.zomato.com/agra/grey-house-cafe-tajganj/info,Café,4.1,197.0
+Dasaprakash Restaurant,550,"['South Indian', 'Desserts']",Agra,Rakabganj,https://www.zomato.com/agra/dasaprakash-restaurant-rakabganj/info,Casual Dining,4.1,211.0
+KFC,500,"['Burger', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/kfc-tajganj/info,Quick Bites,4.0,224.0
+Capri Restaurant,850,"['North Indian', 'Mughlai']",Agra,Civil Lines,https://www.zomato.com/agra/capri-restaurant-civil-lines/info,Casual Dining,3.5,200.0
+Campus Bakers,300,"['Fast Food', 'Bakery']",Agra,Sikandra,https://www.zomato.com/agra/campus-bakers-sikandra/info,Quick Bites,4.1,142.0
+The Rollings,700,"['North Indian', 'Chinese', 'Continental']",Agra,Khandari,https://www.zomato.com/agra/the-rollings-khandari/info,Lounge,3.9,146.0
+Agarwal Sweet House,250,"['Mithai', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/agarwal-sweet-house-kamla-nagar/info,Sweet Shop,0.0,0.0
+Jag Prem Restaurant,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/jag-prem-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Mama Mutton Chicken Bhandhar,200,"['Hyderabadi', 'Lucknowi', 'North Indian', 'Roast Chicken']",Agra,Sikandra,https://www.zomato.com/agra/mama-mutton-chicken-bhandhar-sikandra/info,Bhojanalya,0.0,0.0
+Mor Mukut Misthan Bhandar,150,['Mithai'],Agra,Civil Lines,https://www.zomato.com/agra/mor-mukut-misthan-bhandar-civil-lines/info,Sweet Shop,0.0,0.0
+Raj Milk Product And Sweets,350,"['Bakery', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/raj-milk-product-and-sweets-tajganj/info,Bakery,0.0,0.0
+RS Eating Hub,200,"['Bakery', 'Fast Food']",Agra,Mantola,https://www.zomato.com/agra/rs-eating-hub-1-mantola/info,Bakery,0.0,0.0
+Dayaram Sweets & Namkeen,100,"['Mithai', 'Street Food']",Agra,Mantola,https://www.zomato.com/agra/dayaram-sweets-namkeen-mantola/info,Unknown,0.0,0.0
+Al - Kareem restaurant,200,['Afghan'],Agra,Shahganj,https://www.zomato.com/agra/al-kareem-restaurant-1-shahganj/info,Casual Dining,0.0,0.0
+Friend's Adda,150,"['North Indian', 'South Indian', 'Chinese']",Agra,Dayal Bagh,https://www.zomato.com/agra/friends-adda-dayal-bagh/info,Quick Bites,0.0,0.0
+Goswami Restaurant,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/goswami-restaurant-sikandra/info,Quick Bites,0.0,0.0
+Ghatu Shyam Ji Sweets,100,['Mithai'],Agra,Civil Lines,https://www.zomato.com/agra/ghatu-shyam-ji-sweets-civil-lines/info,Sweet Shop,0.0,0.0
+Mom's Food,200,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/moms-food-kamla-nagar/info,Unknown,0.0,0.0
+House Of Cuisine,400,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/house-of-cuisine-civil-lines/info,Quick Bites,0.0,0.0
+Ganpati Bakers,150,"['Mithai', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/ganpati-bakers-shahganj/info,Quick Bites,0.0,0.0
+Punjabi Paratha,100,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/punjabi-paratha-tajganj/info,Casual Dining,0.0,0.0
+Pikipuu Agra,350,"['Desserts', 'Bakery']",Agra,Tajganj,https://www.zomato.com/agra/pikipuu-agra-tajganj/info,Dessert Parlor,0.0,0.0
+quality paratha,0,['North Eastern'],Agra,Agra Cantt,https://www.zomato.com/agra/quality-paratha-1-agra-cantt/info,Unknown,0.0,0.0
+Pandit-Nirmit,0,"['North Indian', 'South Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/pandit-nirmit-sikandra/info,Quick Bites,0.0,0.0
+Bread Roll HQ,250,['Fast Food'],Agra,Mantola,https://www.zomato.com/agra/bread-roll-hq-mantola/info,Quick Bites,0.0,0.0
+Sardari Chicken,300,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/sardari-chicken-sikandra/info,Unknown,0.0,0.0
+Gopaldas Pethe Wale,0,['Desserts'],Agra,Mantola,https://www.zomato.com/agra/gopaldas-pethe-wale-mantola/info,Sweet Shop,0.0,0.0
+Giani Ice Cream,200,['Ice Cream'],Agra,Agra Cantt,https://www.zomato.com/agra/giani-ice-cream-1-agra-cantt/info,Dessert Parlor,4.1,33.0
+Ultimate Pizza,400,['Fast Food'],Agra,Arjun Nagar,https://www.zomato.com/agra/ultimate-pizza-arjun-nagar/info,Quick Bites,3.7,62.0
+Marleys  The Milkshake,350,['Beverages'],Agra,Tajganj,https://www.zomato.com/agra/marleys-the-milkshake-tajganj/info,Beverage Shop,3.7,43.0
+Culinary Junction By Udupi,800,"['North Indian', 'South Indian', 'European', 'Chinese', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/culinary-junction-by-udupi-1-tajganj/info,Casual Dining,4.3,24.0
+Punjabi Swag,350,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/punjabi-swag-dayal-bagh/info,Quick Bites,3.8,83.0
+Hari Chatni Restaurant,650,"['North Indian', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/hari-chatni-restaurant-civil-lines/info,Casual Dining,3.7,82.0
+Pandit Bhojhnalaya,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/pandit-bhojhnalaya-sikandra/info,Bhojanalya,3.5,56.0
+Bhole Kona Grill,450,"['North Indian', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/bhole-kona-grill-1-shahganj/info,Quick Bites,3.5,81.0
+Indian Chicken Express,700,"['Mughlai', 'North Indian']",Agra,Shahganj,https://www.zomato.com/agra/indian-chicken-express-shahganj/info,Quick Bites,3.8,82.0
+Lovely Restaurant,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/lovely-restaurant-tajganj/info,Quick Bites,3.5,17.0
+The Greens Restaurant & Herbal Cafe,500,"['North Indian', 'South Indian', 'Chinese', 'Continental']",Agra,Rakabganj,https://www.zomato.com/agra/the-greens-restaurant-herbal-cafe-rakabganj/info,Casual Dining,3.9,50.0
+Club Rush,1100,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/club-rush-tajganj/info,Lounge,3.8,71.0
+Blue Coriander,800,"['North Indian', 'Continental', 'Cafe']",Agra,Civil Lines,https://www.zomato.com/agra/blue-coriander-civil-lines/info,Casual Dining,3.9,63.0
+Mama's Vegetarian Food Corner,200,"['Fast Food', 'South Indian']",Agra,Agra Cantt,https://www.zomato.com/agra/mamas-vegetarian-food-corner-agra-cantt/info,Quick Bites,3.6,62.0
+Shere Punjab Restaurant,500,"['North Indian', 'South Indian', 'Continental']",Agra,Kamla Nagar,https://www.zomato.com/agra/shere-punjab-restaurant-kamla-nagar/info,Casual Dining,3.8,57.0
+Sri Dauji's Chatpataa,500,"['North Indian', 'South Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/sri-daujis-chatpataa-kamla-nagar/info,Casual Dining,3.8,41.0
+Ashoka Bar,1000,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/ashoka-bar-civil-lines/info,Bar,3.7,51.0
+Spice Kitchen - The Sizzling Multi-Cuisine Restaurant,600,"['North Indian', 'South Indian', 'Chinese']",Agra,Rakabganj,https://www.zomato.com/agra/spice-kitchen-the-sizzling-multi-cuisine-restaurant-rakabganj/info,Casual Dining,3.5,35.0
+Shri Thakur Ji Bhojanalaya,150,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/shri-thakur-ji-bhojanalaya-civil-lines/info,Casual Dining,3.9,39.0
+Mercury Cafe,250,['Beverages'],Agra,Tajganj,https://www.zomato.com/agra/mercury-cafe-1-tajganj/info,Quick Bites,3.6,39.0
+Chhabra's Chicken Corner,300,"['North Indian', 'Biryani', 'Chinese', 'Rolls']",Agra,Shahganj,https://www.zomato.com/agra/chhabras-chicken-corner-shahganj/info,Quick Bites,3.7,64.0
+Satkar Pastries,500,"['Fast Food', 'Desserts']",Agra,Kamla Nagar,https://www.zomato.com/agra/satkar-pastries-kamla-nagar/info,Quick Bites,3.7,32.0
+Labbaik Chicken Corner,600,['Biryani'],Agra,Mantola,https://www.zomato.com/agra/labbaik-chicken-corner-mantola/info,Casual Dining,3.7,55.0
+Roadies,550,['Mughlai'],Agra,Sikandra,https://www.zomato.com/agra/roadies-sikandra/info,Quick Bites,3.5,67.0
+The London Bakery,500,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/the-london-bakery-kamla-nagar/info,Bakery,3.9,59.0
+Cafe Godfather,500,"['North Indian', 'Chinese', 'Italian', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/cafe-godfather-tajganj/info,Café,3.7,19.0
+Indian By Nature,1200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/indian-by-nature-civil-lines/info,Casual Dining,2.5,51.0
+Pankhuri Restaurant,1000,"['North Indian', 'Chinese', 'Continental', 'South Indian']",Agra,Rakabganj,https://www.zomato.com/agra/pankhuri-restaurant-rakabganj/info,Casual Dining,3.9,66.0
+Karims,1200,"['Mughlai', 'Kebab']",Agra,Tajganj,https://www.zomato.com/agra/karims-1-tajganj/info,Quick Bites,3.8,57.0
+Vaishno Bakery,300,"['Fast Food', 'Bakery']",Agra,Lohamandi,https://www.zomato.com/agra/vaishno-bakery-lohamandi/info,Quick Bites,3.5,27.0
+Gobhi.com,250,"['North Indian', 'Chinese']",Agra,Arjun Nagar,https://www.zomato.com/agra/gobhi-com-2-arjun-nagar/info,Quick Bites,3.8,56.0
+Aleem,500,"['Biryani', 'Mughlai', 'Kebab']",Agra,Tajganj,https://www.zomato.com/agra/aleem-tajganj/info,Quick Bites,3.8,69.0
+WOS Cafe - World of Spices,800,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/wos-cafe-world-of-spices-tajganj/info,Casual Dining,3.9,34.0
+Hungrill Cafe & Restaurant,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/hungrill-cafe-restaurant-sikandra/info,Quick Bites,3.6,57.0
+Shri Dharamraj Yadav Dhaba,200,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/shri-dharamraj-yadav-dhaba-civil-lines/info,Dhaba,3.6,65.0
+Hotel Solitaire,600,"['North Indian', 'South Indian', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/hotel-solitaire-civil-lines/info,Casual Dining,3.7,58.0
+Om Restaurant,400,"['North Indian', 'South Indian']",Agra,Agra Cantt,https://www.zomato.com/agra/om-restaurant-agra-cantt/info,Quick Bites,3.6,52.0
+Spicy Spoon,550,"['South Indian', 'Chinese', 'North Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/spicy-spoon-kamla-nagar/info,Casual Dining,3.6,59.0
+Pushpak Misthan Bhandar and Sweet,200,"['Mithai', 'Fast Food']",Agra,Mantola,https://www.zomato.com/agra/pushpak-misthan-bhandar-and-sweet-mantola/info,Sweet Shop,3.8,31.0
+Hotel Amar - Noorjahan Restaurant,900,"['North Indian', 'Chinese', 'Continental', 'South Indian']",Agra,Hotel Amar-- Tajganj,https://www.zomato.com/agra/hotel-amar-noorjahan-restaurant-tajganj/info,Casual Dining,3.7,42.0
+Gupta Ji Dhaba & Veg Briyani,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/gupta-ji-dhaba-veg-briyani-sikandra/info,Dhaba,3.7,36.0
+Green Veg Thali,300,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/green-veg-thali-tajganj/info,Quick Bites,2.9,44.0
+Dilli Darbar,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/dilli-darbar-civil-lines/info,Quick Bites,3.6,30.0
+Mama Franky House,200,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/mama-franky-house-shahganj/info,Kiosk,3.4,42.0
+Agra Zayka Family Restaurant,400,"['North Indian', 'Chinese', 'Continental']",Agra,Kamla Nagar,https://www.zomato.com/agra/agra-zayka-family-restaurant-kamla-nagar/info,Casual Dining,3.2,55.0
+Kings,600,"['Bakery', 'Continental']",Agra,Kamla Nagar,https://www.zomato.com/agra/kings-kamla-nagar/info,Quick Bites,3.6,56.0
+Sanjay Bakers & Confectioner,300,"['Bakery', 'Desserts']",Agra,Kamla Nagar,https://www.zomato.com/agra/sanjay-bakers-confectioner-kamla-nagar/info,Bakery,3.6,41.0
+Pandit Bhojnalaya,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/pandit-bhojnalaya-sikandra/info,Bhojanalya,3.1,16.0
+Dreams Bakers Paradise,200,['Bakery'],Agra,Civil Lines,https://www.zomato.com/agra/dreams-bakers-paradise-civil-lines/info,Bakery,3.6,66.0
+Glassy,1500,"['Cafe', 'Chinese', 'Continental', 'Indian']",Agra,Tajganj,https://www.zomato.com/agra/glassy-tajganj/info,Café,3.7,45.0
+Baba Chicken Mutton,300,"['Mughlai', 'Afghan']",Agra,Sikandra,https://www.zomato.com/agra/baba-chicken-mutton-sikandra/info,Quick Bites,3.3,27.0
+Hunger Point Cafe and Bakers,400,"['Cafe', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/hunger-point-cafe-and-bakers-tajganj/info,Quick Bites,2.8,57.0
+Masterchef,400,"['Italian', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/masterchef-sikandra/info,Quick Bites,3.5,45.0
+Hunger Bites,200,"['South Indian', 'Momos', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/hunger-bites-1-khandari/info,Quick Bites,0.0,0.0
+Cafe De Fusion,250,['Cafe'],Agra,Agra Cantt,https://www.zomato.com/agra/cafe-de-fusion-agra-cantt/info,Café,3.9,36.0
+Balaji Dosa Factory,250,"['South Indian', 'Street Food']",Agra,Khandari,https://www.zomato.com/agra/balaji-dosa-factory-khandari/info,Food Truck,3.3,56.0
+Sizzling Lounge,300,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/sizzling-lounge-khandari/info,Quick Bites,3.0,26.0
+Selfie Restaurant,400,['North Indian'],Agra,Lohamandi,https://www.zomato.com/agra/selfie-restaurant-lohamandi/info,Quick Bites,3.5,55.0
+Bhagat Food Court,500,"['Chinese', 'Street Food']",Agra,Civil Lines,https://www.zomato.com/agra/bhagat-food-court-civil-lines/info,Quick Bites,3.5,60.0
+Ohh..foodies,300,"['American', 'Beverages', 'Biryani', 'Continental', 'Indian', 'North Indian', 'Pizza']",Agra,Mantola,https://www.zomato.com/agra/ohh-foodies-mantola/info,Quick Bites,3.5,37.0
+European Bakery,300,"['Bakery', 'Desserts', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/european-bakery-civil-lines/info,Bakery,3.5,30.0
+Cafe Chilam,750,"['Cafe', 'Fast Food', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/cafe-chilam-tajganj/info,Café,3.5,48.0
+Chatpati Rasoi,350,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/chatpati-rasoi-tajganj/info,Dhaba,3.5,47.0
+Ravi Patties & Mocktail Point,100,['Street Food'],Agra,Shahganj,https://www.zomato.com/agra/ravi-patties-mocktail-point-shahganj/info,Quick Bites,3.8,38.0
+Mama Momos,400,"['Fast Food', 'Momos']",Agra,Agra Cantt,https://www.zomato.com/agra/mama-momos-agra-cantt/info,Quick Bites,3.5,53.0
+Munchies,500,"['Chinese', 'Fast Food']",Agra,Agra Cantt,https://www.zomato.com/agra/munchies-agra-cantt/info,Quick Bites,3.6,41.0
+Rasam,500,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/rasam-tajganj/info,Casual Dining,3.6,41.0
+DR Food Plaza,200,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/dr-food-plaza-kamla-nagar/info,Quick Bites,3.7,54.0
+Kings Spoon,500,"['North Indian', 'Chinese', 'Continental']",Agra,Sikandra,https://www.zomato.com/agra/kings-spoon-sikandra/info,Casual Dining,3.4,33.0
+Shyam Ji Restaurant,300,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/shyam-ji-restaurant-agra-cantt/info,Quick Bites,3.8,30.0
+Bhagwati Dhaba & Thali,200,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/bhagwati-dhaba-thali-kamla-nagar/info,Quick Bites,3.3,13.0
+V & S Maggie Point,150,"['Fast Food', 'Italian']",Agra,Shahganj,https://www.zomato.com/agra/v-s-maggie-point-shahganj/info,Quick Bites,3.7,32.0
+C-9 Restaurant,700,"['Chinese', 'Continental', 'Desserts', 'North Indian', 'Pizza', 'Rolls', 'Sandwich', 'South Indian']",Agra,Civil Lines,https://www.zomato.com/agra/c-9-restaurant-civil-lines/info,Quick Bites,3.5,46.0
+Tunda Kababi,500,"['North Indian', 'Mughlai']",Agra,Civil Lines,https://www.zomato.com/agra/tunda-kababi-civil-lines/info,Casual Dining,3.0,24.0
+Flavours Restaurant,850,"['North Indian', 'Chinese', 'Fast Food', 'South Indian']",Agra,Civil Lines,https://www.zomato.com/agra/flavours-restaurant-civil-lines/info,Casual Dining,3.9,52.0
+Sri Dauji Restaurant,100,['Desserts'],Agra,Kamla Nagar,https://www.zomato.com/agra/sri-dauji-restaurant-kamla-nagar/info,Dessert Parlor,3.3,36.0
+Labbaik Chicken Corner,600,"['Mughlai', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/labbaik-chicken-corner-civil-lines/info,Quick Bites,3.5,37.0
+Saket Restaurant,750,"['North Indian', 'Chinese', 'South Indian']",Agra,Khandari,https://www.zomato.com/agra/saket-restaurant-khandari/info,Casual Dining,3.1,41.0
+Level 4,700,['Continental'],Agra,Tajganj,https://www.zomato.com/agra/level-4-tajganj/info,Quick Bites,0.0,0.0
+Chef On Wheels,200,"['Chinese', 'Continental', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/chef-on-wheels-tajganj/info,Quick Bites,3.3,39.0
+Prem Bhalla Restaurant,650,"['North Indian', 'Chinese', 'Fast Food']",Agra,Arjun Nagar,https://www.zomato.com/agra/prem-bhalla-restaurant-arjun-nagar/info,Casual Dining,3.6,35.0
+Nandani Red Crystal Restaurant,250,"['South Indian', 'Pizza', 'Chinese', 'Desserts']",Agra,Sikandra,https://www.zomato.com/agra/nandani-red-crystal-restaurant-sikandra/info,Quick Bites,3.3,28.0
+The Master Chef Restaurant,400,"['Fast Food', 'Italian', 'Chinese']",Agra,Agra Cantt,https://www.zomato.com/agra/the-master-chef-restaurant-agra-cantt/info,Quick Bites,3.4,33.0
+Bhagwan Corner Cakes And Pastries,200,['Bakery'],Agra,Mantola,https://www.zomato.com/agra/bhagwan-corner-cakes-and-pastries-mantola/info,Bakery,3.3,15.0
+The Tounge,400,"['North Indian', 'South Indian', 'Chinese']",Agra,Kamla Nagar,https://www.zomato.com/agra/the-tounge-kamla-nagar/info,Casual Dining,3.6,32.0
+Panchratan Restaurant,900,"['North Indian', 'South Indian']",Agra,Civil Lines,https://www.zomato.com/agra/panchratan-restaurant-civil-lines/info,Casual Dining,3.6,42.0
+Shri Ambika Restaurant,850,"['North Indian', 'South Indian', 'Chinese']",Agra,Kamla Nagar,https://www.zomato.com/agra/shri-ambika-restaurant-kamla-nagar/info,Casual Dining,3.6,46.0
+Punjabi Hut,400,"['Indian', 'North Indian']",Agra,Shahganj,https://www.zomato.com/agra/punjabi-hut-shahganj/info,Quick Bites,2.8,37.0
+Sauma,1400,"['Chinese', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/sauma-tajganj/info,Casual Dining,3.8,26.0
+Dhaba Dictionary,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/dhaba-dictionary-tajganj/info,Quick Bites,3.1,6.0
+Twisters,500,"['Chinese', 'Fast Food', 'Mughlai', 'North Indian', 'Rolls']",Agra,Civil Lines,https://www.zomato.com/agra/twisters-civil-lines/info,Quick Bites,3.7,44.0
+Faluda Corner,200,['Ice Cream'],Agra,Agra Cantt,https://www.zomato.com/agra/faluda-corner-agra-cantt/info,Dessert Parlor,3.3,18.0
+Zam Zam Chicken Corner,300,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/zam-zam-chicken-corner-sikandra/info,Quick Bites,3.4,45.0
+Punjabi Grill,700,"['Mughlai', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/punjabi-grill-tajganj/info,Quick Bites,3.6,27.0
+Goldy Cool Cafe & Bakers,300,"['Bakery', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/goldy-cool-cafe-bakers-kamla-nagar/info,Quick Bites,0.0,0.0
+Ambience Restaurant,800,"['North Indian', 'Continental']",Agra,Kamla Nagar,https://www.zomato.com/agra/ambience-restaurant-kamla-nagar/info,Casual Dining,3.4,38.0
+Foyer Restaurant and Cafe,800,['Cafe'],Agra,Tajganj,https://www.zomato.com/agra/foyer-restaurant-and-cafe-tajganj/info,Quick Bites,2.9,15.0
+G Chakna- G Hotel,1000,"['Chinese', 'Continental', 'North Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/g-chakna-g-hotel-kamla-nagar/info,Casual Dining,3.6,28.0
+Thakur Ji Thaliwala,200,['Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/thakur-ji-thaliwala-kamla-nagar/info,Quick Bites,3.4,15.0
+Dasaprakash Restaurant,650,['South Indian'],Agra,Tajganj,https://www.zomato.com/agra/dasaprakash-restaurant-1-tajganj/info,Casual Dining,3.8,22.0
+Jain Bhojnalya,300,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/jain-bhojnalya-sikandra/info,Bhojanalya,3.5,29.0
+Shivam Restaurant,200,"['Fast Food', 'Desserts']",Agra,Agra Cantt,https://www.zomato.com/agra/shivam-restaurant-agra-cantt/info,Quick Bites,2.8,28.0
+Food Stock Xchange,500,"['North Indian', 'Chinese', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/food-stock-xchange-tajganj/info,Quick Bites,3.6,24.0
+The Culture Of Spices- Kitchen & Lounge,900,"['North Indian', 'Continental']",Agra,Sikandra,https://www.zomato.com/agra/the-culture-of-spices-kitchen-lounge-sikandra/info,Casual Dining,3.1,18.0
+Falahar,150,"['Fast Food', 'Street Food']",Agra,Khandari,https://www.zomato.com/agra/falahar-khandari/info,Unknown,0.0,0.0
+Waffled,200,['Desserts'],Agra,Tajganj,https://www.zomato.com/agra/waffled-tajganj/info,Dessert Parlor,3.4,20.0
+Login Restaurant & Rooftop Cafe,400,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/login-restaurant-rooftop-cafe-tajganj/info,Casual Dining,3.4,26.0
+The Silk Route Restaurant,1000,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/the-silk-route-restaurant-tajganj/info,Casual Dining,3.4,29.0
+Safarnama Cafe,400,"['Cafe', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/safarnama-cafe-tajganj/info,Café,0.0,0.0
+Jawahar Bhojnalay,400,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/jawahar-bhojnalay-dayal-bagh/info,Dhaba,3.6,29.0
+Abhishek Dhaba,350,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/abhishek-dhaba-tajganj/info,Dhaba,3.2,37.0
+Khanaa Khazanaa,400,"['North Indian', 'Continental', 'Fast Food']",Agra,Dayal Bagh,https://www.zomato.com/agra/khanaa-khazanaa-dayal-bagh/info,Quick Bites,3.4,22.0
+Navratan Fast Food & Restaurant,500,"['North Indian', 'South Indian', 'Fast Food']",Agra,Dayal Bagh,https://www.zomato.com/agra/navratan-fast-food-restaurant-dayal-bagh/info,Quick Bites,3.6,39.0
+Lal Tadka Restaurant,500,['North Indian'],Agra,Lohamandi,https://www.zomato.com/agra/lal-tadka-restaurant-lohamandi/info,Casual Dining,3.3,29.0
+The Chef's Club,600,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/the-chefs-club-tajganj/info,Casual Dining,3.5,26.0
+Anjali Restaurant,500,"['North Indian', 'Chinese', 'Continental', 'South Indian']",Agra,Shahganj,https://www.zomato.com/agra/anjali-restaurant-shahganj/info,Quick Bites,3.1,34.0
+Eating Meeting Restaurant,600,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/eating-meeting-restaurant-tajganj/info,Casual Dining,2.3,25.0
+Merry Go Round,1250,"['North Indian', 'Chinese', 'Continental']",Agra,Hotel Pushp Villa-- Tajganj,https://www.zomato.com/agra/merry-go-round-tajganj/info,Casual Dining,2.7,24.0
+Shake Adda,250,['Beverages'],Agra,Kamla Nagar,https://www.zomato.com/agra/shake-adda-kamla-nagar/info,Quick Bites,3.6,33.0
+Hotel Bengal Lodge Bar & Restaurant,650,['Finger Food'],Agra,Rakabganj,https://www.zomato.com/agra/hotel-bengal-lodge-bar-restaurant-rakabganj/info,Bar,0.0,0.0
+Lazeez Restaurant,600,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/lazeez-restaurant-tajganj/info,Casual Dining,3.2,9.0
+Mulla Ji Briyani Restaurant,200,['Biryani'],Agra,Sikandra,https://www.zomato.com/agra/mulla-ji-briyani-restaurant-sikandra/info,Unknown,3.4,9.0
+Hotel Poonam Plaza,700,"['North Indian', 'Chinese']",Agra,Dayal Bagh,https://www.zomato.com/agra/hotel-poonam-plaza-dayal-bagh/info,Casual Dining,3.5,24.0
+Goverdhan Bakery,300,"['Bakery', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/goverdhan-bakery-shahganj/info,Bakery,3.7,22.0
+Vishal Dhaba,150,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/vishal-dhaba-tajganj/info,Dhaba,0.0,0.0
+Orange Restaurant,1500,"['Chinese', 'Continental', 'Fast Food', 'Finger Food', 'North Indian']",Agra,Rakabganj,https://www.zomato.com/agra/orange-restaurant-rakabganj/info,Casual Dining,3.6,18.0
+Gyani Dhaba,150,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/gyani-dhaba-dayal-bagh/info,Dhaba,3.6,26.0
+Panchhi Petha Bhandar,200,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/panchhi-petha-bhandar-sikandra/info,Sweet Shop,3.5,21.0
+Family Zaika,1000,"['North Indian', 'South Indian']",Agra,Sikandra,https://www.zomato.com/agra/family-zaika-sikandra/info,Casual Dining,3.1,30.0
+What The Food,400,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/what-the-food-civil-lines/info,Quick Bites,3.8,217.0
+Atlantic Foods,400,"['Bakery', 'Desserts', 'Sandwich', 'Burger', 'Pizza', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/atlantic-foods-civil-lines/info,Dessert Parlor,4.0,134.0
+The Masterchef Restaurant,600,"['Cafe', 'Italian']",Agra,Kamla Nagar,https://www.zomato.com/agra/the-masterchef-restaurant-kamla-nagar/info,Café,3.9,206.0
+Udupi Brindavan,600,"['South Indian', 'North Indian', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/udupi-brindavan-khandari/info,Casual Dining,4.1,193.0
+Agra Chat House,150,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/agra-chat-house-agra-cantt/info,Quick Bites,4.2,161.0
+Dosa Plaza,300,"['South Indian', 'North Indian', 'Chinese']",Agra,Khandari,https://www.zomato.com/agra/dosa-plaza-1-khandari/info,Quick Bites,3.7,192.0
+The Chocolate Room,400,"['Desserts', 'Mexican', 'Italian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/the-chocolate-room-tajganj/info,Dessert Parlor,4.3,124.0
+CHHAT - Over The Top,800,"['North Indian', 'Chinese', 'Lebanese', 'Continental', 'Mediterranean', 'Mexican']",Agra,Tajganj,https://www.zomato.com/agra/chhat-over-the-top-tajganj/info,Quick Bites,4.0,51.0
+Jux Pux,300,"['Beverages', 'Juices', 'Fast Food']",Agra,Agra Cantt,https://www.zomato.com/agra/jux-pux-agra-cantt/info,Beverage Shop,4.1,151.0
+Achman Cafe,700,"['Cafe', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/achman-cafe-civil-lines/info,Café,4.1,228.0
+The Greener Side,300,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/the-greener-side-civil-lines/info,Quick Bites,4.4,410.0
+Sardarji Da Dhaba,400,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/sardarji-da-dhaba-agra-cantt/info,Casual Dining,3.8,140.0
+Chopstix,600,['Chinese'],Agra,Civil Lines,https://www.zomato.com/agra/chopstix-civil-lines/info,Quick Bites,3.8,169.0
+Cafe Kulhad,400,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/cafe-kulhad-civil-lines/info,Quick Bites,4.0,121.0
+Fruck,400,['Street Food'],Agra,Khandari,https://www.zomato.com/fruck-food-truck/info,Food Truck,4.0,116.0
+Bhai bhai,200,"['Chinese', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/bhai-bhai-civil-lines/info,Quick Bites,3.3,27.0
+Janta Khana Khazana,300,"['Fast Food', 'Bakery']",Agra,Shahganj,https://www.zomato.com/agra/janta-khana-khazana-shahganj/info,Quick Bites,3.5,25.0
+Crush Cafe,400,"['Chinese', 'Desserts', 'Fast Food', 'Sandwich']",Agra,Agra Cantt,https://www.zomato.com/agra/crush-cafe-agra-cantt/info,Café,2.6,25.0
+Tandoori Hut,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/tandoori-hut-tajganj/info,Quick Bites,3.2,24.0
+The Taste of Taj City,500,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/the-taste-of-taj-city-sikandra/info,Casual Dining,2.9,15.0
+Foodnary,300,"['North Indian', 'South Indian', 'Chinese']",Agra,Shahganj,https://www.zomato.com/agra/foodnary-shahganj/info,Quick Bites,3.3,10.0
+Om Sai Food Court,200,['Fast Food'],Agra,Dayal Bagh,https://www.zomato.com/agra/om-sai-food-court-dayal-bagh/info,Quick Bites,3.5,21.0
+Spice Treat Dhaba,350,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/spice-treat-dhaba-tajganj/info,Quick Bites,2.4,26.0
+Ohh.. Biryani,400,['Biryani'],Agra,Tajganj,https://www.zomato.com/agra/ohh-biryani-1-tajganj/info,Quick Bites,3.3,7.0
+Shree Ganesh South Indian Restaurant,200,['South Indian'],Agra,Sikandra,https://www.zomato.com/agra/shree-ganesh-south-indian-restaurant-sikandra/info,Quick Bites,3.6,28.0
+Dosa Kitchen,250,['South Indian'],Agra,Sikandra,https://www.zomato.com/agra/dosa-kitchen-sikandra/info,Food Truck,3.5,17.0
+Chinese Dhaba,150,['Chinese'],Agra,Sikandra,https://www.zomato.com/agra/chinese-dhaba-1-sikandra/info,Food Truck,3.0,23.0
+Chawla's Chic-Inn,400,"['Mughlai', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/chawlas-chic-inn-civil-lines/info,Quick Bites,3.6,38.0
+Tandoori Night,200,"['North Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/tandoori-night-sikandra/info,Quick Bites,3.3,10.0
+Punjabi Junction,600,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/punjabi-junction-sikandra/info,Casual Dining,2.7,21.0
+Chanchal Hotel,400,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/chanchal-hotel-agra-cantt/info,Dhaba,3.4,19.0
+Chowpaty By Captain,200,"['Fast Food', 'South Indian', 'Street Food']",Agra,Sikandra,https://www.zomato.com/agra/chowpaty-by-captain-sikandra/info,Quick Bites,3.4,12.0
+Pizza Delight Cafe,500,"['Italian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/pizza-delight-cafe-sikandra/info,Quick Bites,3.5,13.0
+Maan Singh Egg Corner,150,['Street Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/maan-singh-egg-corner-kamla-nagar/info,Quick Bites,3.3,23.0
+Tuk Tuk The Food Express,200,['Fast Food'],Agra,Agra Cantt,https://www.zomato.com/agra/tuk-tuk-the-food-express-agra-cantt/info,Quick Bites,2.9,22.0
+Maharaja Restaurant,800,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/maharaja-restaurant-tajganj/info,Casual Dining,2.8,14.0
+Maa Gayatri Bhojnalya,200,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/maa-gayatri-bhojnalya-kamla-nagar/info,Quick Bites,3.3,7.0
+Pandit Ji Bhojhnalaya,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/pandit-ji-bhojhnalaya-sikandra/info,Bhojanalya,3.6,23.0
+Skyline Lounge & Rooftop,500,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/skyline-lounge-rooftop-kamla-nagar/info,Casual Dining,3.3,16.0
+Agra Darbar,750,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/agra-darbar-rakabganj/info,Casual Dining,2.4,19.0
+Awadhi Foods,400,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/awadhi-foods-civil-lines/info,Quick Bites,3.6,24.0
+New Chinese King,300,"['Chinese', 'Momos']",Agra,Sikandra,https://www.zomato.com/agra/new-chinese-king-sikandra/info,Quick Bites,2.8,22.0
+Fry Cafe,250,"['Cafe', 'Fast Food', 'Beverages']",Agra,Kamla Nagar,https://www.zomato.com/agra/fry-cafe-kamla-nagar/info,Quick Bites,2.8,5.0
+Haveli Restaurant,1000,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/haveli-restaurant-tajganj/info,Casual Dining,2.4,16.0
+Dasaprakash Xpress,800,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/dasaprakash-xpress-tajganj/info,Casual Dining,2.8,15.0
+Babu Non Veg Punjabi Tadka,200,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/babu-non-veg-punjabi-tadka-kamla-nagar/info,Unknown,3.3,9.0
+Celebrations Foods,200,"['Fast Food', 'Bakery']",Agra,Sikandra,https://www.zomato.com/agra/celebrations-foods-sikandra/info,Quick Bites,3.6,8.0
+Happy Hours Restaurant,1000,"['North Indian', 'South Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/happy-hours-restaurant-tajganj/info,Casual Dining,3.3,16.0
+Tikka Town Restaurant,300,"['Chinese', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/tikka-town-restaurant-civil-lines/info,Quick Bites,3.3,23.0
+Vrindavan Pan Bhandar,100,['Paan'],Agra,Kamla Nagar,https://www.zomato.com/agra/vrindavan-pan-bhandar-kamla-nagar/info,Paan Shop,3.5,21.0
+Quality Restaurant,800,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/quality-restaurant-tajganj/info,Casual Dining,2.3,18.0
+Dreams Bakers Paradise,250,"['Fast Food', 'Bakery']",Agra,Sikandra,https://www.zomato.com/agra/dreams-bakers-paradise-sikandra/info,Bakery,2.9,26.0
+Brijwasi Sweet House,200,['Mithai'],Agra,Lohamandi,https://www.zomato.com/agra/brijwasi-sweet-house-lohamandi/info,Sweet Shop,3.3,21.0
+Panchhi Petha Dalmoth,200,['Mithai'],Agra,Khandari,https://www.zomato.com/agra/panchhi-petha-dalmoth-khandari/info,Sweet Shop,3.3,9.0
+The Mughal Darbar,800,"['North Indian', 'Chinese', 'Mughlai', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/the-mughal-darbar-1-tajganj/info,Casual Dining,3.3,15.0
+Gobhi.Com Tiffin Centre,200,['North Indian'],Agra,Arjun Nagar,https://www.zomato.com/agra/gobhi-com-tiffin-centre-arjun-nagar/info,Quick Bites,0.0,0.0
+Vaishno Balaji Dhaba,200,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/vaishno-balaji-dhaba-agra-cantt/info,Dhaba,2.8,20.0
+Bindhadi Ki Rasoi,500,"['Rajasthani', 'North Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/bindhadi-ki-rasoi-kamla-nagar/info,Quick Bites,3.2,17.0
+South Indian Corner,200,['South Indian'],Agra,Lohamandi,https://www.zomato.com/agra/south-indian-corner-lohamandi/info,Quick Bites,3.0,9.0
+Seven Hills Rooftop Restaurant,1500,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/seven-hills-rooftop-restaurant-tajganj/info,Casual Dining,3.4,18.0
+Gramma Food Zone,200,['South Indian'],Agra,Arjun Nagar,https://www.zomato.com/agra/gramma-food-zone-1-arjun-nagar/info,Quick Bites,3.3,15.0
+Bhawna Palace Hotel,600,"['North Indian', 'Chinese', 'South Indian']",Agra,Khandari,https://www.zomato.com/agra/bhawna-palace-hotel-khandari/info,Casual Dining,3.4,12.0
+Krishna Sweet House,200,"['Mithai', 'Fast Food']",Agra,Khandari,https://www.zomato.com/agra/krishna-sweet-house-khandari/info,Sweet Shop,3.3,9.0
+Manoj Bhojnalay,250,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/manoj-bhojnalay-agra-cantt/info,Dhaba,3.0,7.0
+Agra Petha And Dalmoth,200,['Mithai'],Agra,Tajganj,https://www.zomato.com/agra/agra-petha-and-dalmoth-tajganj/info,Sweet Shop,0.0,0.0
+Paris Bakery,350,"['Bakery', 'Desserts']",Agra,Sikandra,https://www.zomato.com/agra/paris-bakery-sikandra/info,Bakery,3.1,11.0
+Bushra KFB,200,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/bushra-kfb-khandari/info,Quick Bites,3.1,7.0
+Raj Darbar Restaurant,750,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/raj-darbar-restaurant-rakabganj/info,Casual Dining,2.6,13.0
+Sandeep Egg Centre,150,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/sandeep-egg-centre-sikandra/info,Quick Bites,3.5,19.0
+Spicy Tongue,700,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/spicy-tongue-sikandra/info,Casual Dining,3.0,12.0
+Salt - Pepper Restaurant,1100,"['North Indian', 'Chinese', 'Continental']",Agra,Hotel Royale Residency-- Tajganj,https://www.zomato.com/agra/salt-pepper-restaurant-tajganj/info,Casual Dining,3.4,10.0
+Patyali Tadka,500,"['North Indian', 'Rolls']",Agra,Kamla Nagar,https://www.zomato.com/agra/patyali-tadka-kamla-nagar/info,Quick Bites,3.0,21.0
+Brother Cafe,300,['Chinese'],Agra,Sikandra,https://www.zomato.com/agra/brother-cafe-sikandra/info,Quick Bites,0.0,0.0
+Beloved Bakers,300,['Bakery'],Agra,Khandari,https://www.zomato.com/agra/beloved-bakers-khandari/info,Bakery,3.3,8.0
+Zam Zam Chicken Corner,150,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/zam-zam-chicken-corner-tajganj/info,Quick Bites,3.1,11.0
+Jordan Restaurant,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/jordan-restaurant-tajganj/info,Casual Dining,3.2,9.0
+Kumaun Dhaba,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/kumaun-dhaba-tajganj/info,Dhaba,3.5,18.0
+Meals On Wheels,200,"['Fast Food', 'North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/meals-on-wheels-tajganj/info,Quick Bites,3.1,16.0
+Chinese Food Plaza,100,"['Chinese', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/chinese-food-plaza-1-shahganj/info,Quick Bites,0.0,0.0
+U & Me Cafe Family Restaurant,400,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/u-me-cafe-family-restaurant-tajganj/info,Casual Dining,2.9,15.0
+New Pushpak Misthan Bhandar,400,['Mithai'],Agra,Rakabganj,https://www.zomato.com/agra/new-pushpak-misthan-bhandar-rakabganj/info,Sweet Shop,3.4,11.0
+Shanti Sweets,600,['Mithai'],Agra,Kamla Nagar,https://www.zomato.com/agra/shanti-sweets-kamla-nagar/info,Sweet Shop,3.2,15.0
+Gup-Shup Food Point,200,"['Fast Food', 'Chinese']",Agra,Shahganj,https://www.zomato.com/agra/gup-shup-food-point-shahganj/info,Quick Bites,3.1,6.0
+Delicious Food Plaza,200,"['Fast Food', 'Bakery']",Agra,Shahganj,https://www.zomato.com/agra/delicious-food-plaza-shahganj/info,Confectionery,3.1,8.0
+Agarwal Food Corner,400,['North Eastern'],Agra,Tajganj,https://www.zomato.com/agra/agarwal-food-corner-tajganj/info,Quick Bites,3.2,12.0
+Qaisar Bagh Restaurant,800,"['North Indian', 'Mughlai', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/qaisar-bagh-restaurant-tajganj/info,Casual Dining,2.8,12.0
+Kulfi Heeralal -Tundla Wale,100,['Desserts'],Agra,Kamla Nagar,https://www.zomato.com/agra/kulfi-heeralal-tundla-wale-kamla-nagar/info,Dessert Parlor,0.0,0.0
+Same Place Food Court & Hukka Corner,750,"['North Indian', 'Chinese', 'South Indian']",Agra,Dayal Bagh,https://www.zomato.com/agra/same-place-food-court-hukka-corner-dayal-bagh/info,Casual Dining,3.3,19.0
+Kashish Restaurant,750,"['North Indian', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/kashish-restaurant-tajganj/info,Quick Bites,3.3,10.0
+Agra Mutton Chicken House,650,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/agra-mutton-chicken-house-civil-lines/info,Casual Dining,2.6,20.0
+Tiwari Bombay Style Bhel and Panipuri,100,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/tiwari-bombay-style-bhel-and-panipuri-agra-cantt/info,Quick Bites,3.4,15.0
+King of Spice,700,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/king-of-spice-tajganj/info,Casual Dining,2.8,13.0
+Chatori Gali,300,"['Chinese', 'North Indian', 'South Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/chatori-gali-kamla-nagar/info,Quick Bites,2.7,20.0
+Shree Ganesh Chowemin and Fast Food,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/shree-ganesh-chowemin-and-fast-food-sikandra/info,Quick Bites,3.0,5.0
+Thali Master,400,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/thali-master-agra-cantt/info,Quick Bites,2.9,8.0
+Sikander Restaurant,300,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/sikander-restaurant-sikandra/info,Quick Bites,3.2,9.0
+Jalsa Restaurant,400,"['North Indian', 'Italian']",Agra,Sikandra,https://www.zomato.com/agra/jalsa-restaurant-sikandra/info,Casual Dining,3.5,14.0
+Kohinoor Bar & Restaurant,800,"['North Indian', 'Continental', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/kohinoor-bar-restaurant-civil-lines/info,Casual Dining,2.9,11.0
+Deep Corner,300,['Bakery'],Agra,Shahganj,https://www.zomato.com/agra/deep-corner-shahganj/info,Bakery,3.3,11.0
+Baskin Robin,500,"['Desserts', 'Ice Cream']",Agra,Civil Lines,https://www.zomato.com/agra/baskin-robin-civil-lines/info,Quick Bites,3.5,14.0
+Good Friend Cafe,400,['Fast Food'],Agra,Tajganj,https://www.zomato.com/agra/good-friend-cafe-tajganj/info,Quick Bites,2.9,16.0
+Taj Juice And Ice- Cream Parlour,200,"['Juices', 'Ice Cream']",Agra,Shahganj,https://www.zomato.com/agra/taj-juice-and-ice-cream-parlour-shahganj/info,Beverage Shop,3.1,10.0
+Spice Darbar Family Restaurant,500,"['North Indian', 'Chinese', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/spice-darbar-family-restaurant-tajganj/info,Quick Bites,3.3,7.0
+Thikana,800,"['Cafe', 'Italian', 'Mexican', 'Continental', 'North Indian']",Agra,Kuberpur,https://www.zomato.com/agra/thikana-kuberpur/info,Casual Dining,3.0,7.0
+Ravi Dosa Corner,150,['South Indian'],Agra,Arjun Nagar,https://www.zomato.com/agra/ravi-dosa-corner-1-arjun-nagar/info,Quick Bites,3.3,16.0
+Shri Krishna Vaishno Bhojanalaya,350,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/shri-krishna-vaishno-bhojanalaya-civil-lines/info,Casual Dining,3.4,13.0
+The Zest Restaurant,500,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/the-zest-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Kela Devi Patties,250,"['Fast Food', 'Desserts']",Agra,Kamla Nagar,https://www.zomato.com/agra/kela-devi-patties-kamla-nagar/info,Quick Bites,3.2,6.0
+Zero Degree - Pio,150,"['Beverages', 'Desserts']",Agra,Tajganj,https://www.zomato.com/agra/zero-degree-pio-1-tajganj/info,Beverage Shop,3.5,12.0
+Mama's Egg Corner,200,['Lebanese'],Agra,Agra Cantt,https://www.zomato.com/agra/mamas-egg-corner-agra-cantt/info,Quick Bites,3.1,7.0
+Teekha Meetha Cafe,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/teekha-meetha-cafe-sikandra/info,Quick Bites,0.0,0.0
+B.G foods,300,"['Rolls', 'Sandwich', 'Burger', 'Pizza', 'Bakery']",Agra,Mantola,https://www.zomato.com/agra/b-g-foods-1-mantola/info,Quick Bites,3.2,5.0
+Shanti Food Court,400,"['North Indian', 'South Indian', 'Continental', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/shanti-food-court-sikandra/info,Quick Bites,2.8,12.0
+Shri Giriraj Bhojanalaya,400,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/shri-giriraj-bhojanalaya-1-tajganj/info,Bhojanalya,3.2,6.0
+Sagar Chowmein,100,['Chinese'],Agra,Kamla Nagar,https://www.zomato.com/agra/sagar-chowmein-kamla-nagar/info,Unknown,3.3,7.0
+Kadeer Restaurant,200,['Biryani'],Agra,Sikandra,https://www.zomato.com/agra/kadeer-restaurant-sikandra/info,Quick Bites,0.0,0.0
+Jain Confectionery,200,"['Cafe', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/jain-confectionery-sikandra/info,Quick Bites,0.0,0.0
+Shanti Sweets,400,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/shanti-sweets-sikandra/info,Sweet Shop,3.0,10.0
+Agarwal Dairy And Sweet,200,['Mithai'],Agra,Shahganj,https://www.zomato.com/agra/agarwal-dairy-and-sweet-shahganj/info,Sweet Shop,0.0,0.0
+Shree Chhappan Bhog,200,"['Mithai', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/shree-chhappan-bhog-civil-lines/info,Sweet Shop,0.0,0.0
+Punjabi Grill,500,"['North Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/punjabi-grill-sikandra/info,Kiosk,3.4,11.0
+Tiwari Bombay Food Court,100,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/tiwari-bombay-food-court-sikandra/info,Quick Bites,3.2,7.0
+Brother Fast Food Corner,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/brother-fast-food-corner-sikandra/info,Quick Bites,0.0,0.0
+Chef On Call,300,['Fast Food'],Agra,Tajganj,https://www.zomato.com/agra/chef-on-call-1-tajganj/info,Quick Bites,3.0,10.0
+Avalon Taj,450,"['North Indian', 'Chinese']",Agra,Agra Cantt,https://www.zomato.com/agra/avalon-taj-agra-cantt/info,Casual Dining,2.9,10.0
+Darbar,600,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/darbar-tajganj/info,Casual Dining,3.2,8.0
+Apollo Restaurant,300,"['North Indian', 'South Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/apollo-restaurant-tajganj/info,Casual Dining,2.7,10.0
+Agra Food Court,200,['North Indian'],Agra,Arjun Nagar,https://www.zomato.com/agra/agra-food-court-arjun-nagar/info,Quick Bites,2.8,11.0
+Bambino cafe,250,"['North Indian', 'Beverages', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/bambino-cafe-tajganj/info,Quick Bites,2.8,8.0
+Brijwasi Petha,200,['Mithai'],Agra,Rakabganj,https://www.zomato.com/agra/brijwasi-petha-rakabganj/info,Sweet Shop,0.0,0.0
+Fireside,300,"['North Indian', 'Chinese', 'Italian']",Agra,Agra Cantt,https://www.zomato.com/agra/fireside-agra-cantt/info,Quick Bites,3.3,9.0
+Gazal Bar,1000,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/gazal-bar-shahganj/info,Bar,3.2,8.0
+Banarsi Pan,500,"['Paan', 'Desserts']",Agra,Civil Lines,https://www.zomato.com/agra/banarsi-pan-civil-lines/info,Paan Shop,0.0,0.0
+Roots Cafe,200,"['North Indian', 'Fast Food']",Agra,Khandari,https://www.zomato.com/agra/roots-cafe-khandari/info,Unknown,3.0,6.0
+Sethi Ji Hotel,250,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/sethi-ji-hotel-agra-cantt/info,Dhaba,2.8,9.0
+Chilly Chatkara,850,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/chilly-chatkara-tajganj/info,Casual Dining,3.3,12.0
+Brij Bakers,150,"['Bakery', 'Desserts']",Agra,Kamla Nagar,https://www.zomato.com/agra/brij-bakers-kamla-nagar/info,Bakery,2.9,7.0
+Pehalwan Biryani Food Truck,350,['Biryani'],Agra,Tajganj,https://www.zomato.com/agra/pehalwan-biryani-food-truck-tajganj/info,Food Truck,3.3,8.0
+Masala Indian Fast Food,200,"['North Indian', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/masala-indian-fast-food-civil-lines/info,Quick Bites,0.0,0.0
+Moti Palace Restaurant and Bar,1000,"['North Indian', 'Chinese']",Agra,Rakabganj,https://www.zomato.com/agra/moti-palace-restaurant-and-bar-rakabganj/info,Casual Dining,3.0,10.0
+Hunger Grill,700,"['North Indian', 'Chinese', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/hunger-grill-sikandra/info,Casual Dining,3.4,12.0
+FCB Fast Food Corner,300,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/fcb-fast-food-corner-kamla-nagar/info,Quick Bites,3.2,6.0
+Shri Bikaner Sweets,200,"['Fast Food', 'Mithai']",Agra,Khandari,https://www.zomato.com/agra/shri-bikaner-sweets-khandari/info,Quick Bites,3.2,7.0
+Punjabi Chula,250,['North Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/punjabi-chula-kamla-nagar/info,Quick Bites,0.0,0.0
+Dana Pani restaurant,350,"['North Indian', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/dana-pani-restaurant-kamla-nagar/info,Quick Bites,3.0,4.0
+Apna Dhabha,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/apna-dhabha-sikandra/info,Dhaba,2.9,7.0
+Shri Mohan Hotel,200,"['North Indian', 'Indian', 'Desserts']",Agra,Rakabganj,https://www.zomato.com/agra/shri-mohan-hotel-rakabganj/info,Quick Bites,0.0,0.0
+Kela Ji Bhel Puri And Shev Puri Corner,150,['Fast Food'],Agra,Agra Cantt,https://www.zomato.com/agra/kela-ji-bhel-puri-and-shev-puri-corner-agra-cantt/info,Quick Bites,0.0,0.0
+Relish Restaurant,1000,"['Chinese', 'Continental', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/relish-restaurant-3-tajganj/info,Casual Dining,3.1,7.0
+Mast Banarsi Paan,60,['Paan'],Agra,Kamla Nagar,https://www.zomato.com/agra/mast-banarsi-paan-kamla-nagar/info,Paan Shop,0.0,0.0
+Garam masala,400,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/garam-masala-dayal-bagh/info,Quick Bites,0.0,0.0
+Maa Vaishno Dhaba,150,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/maa-vaishno-dhaba-tajganj/info,Dhaba,0.0,0.0
+Nawabi Non Veg,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/nawabi-non-veg-tajganj/info,Quick Bites,0.0,0.0
+Om Sai Ram Bhojhnalaya,250,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/om-sai-ram-bhojhnalaya-sikandra/info,Bhojanalya,0.0,0.0
+Dosa Hub,350,['South Indian'],Agra,Lohamandi,https://www.zomato.com/agra/dosa-hub-lohamandi/info,Quick Bites,0.0,0.0
+Pandit Ji Dhaba,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/pandit-ji-dhaba-sikandra/info,Quick Bites,0.0,0.0
+Ghar Ki Rasoi,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/ghar-ki-rasoi-tajganj/info,Quick Bites,0.0,0.0
+Dauji Chaat Bhandar,150,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/dauji-chaat-bhandar-sikandra/info,Quick Bites,3.2,4.0
+The Signature,400,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/the-signature-1-tajganj/info,Casual Dining,0.0,0.0
+Pizza Hub,400,"['Pizza', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/pizza-hub-shahganj/info,Quick Bites,0.0,0.0
+Milan Restaurant,700,"['North Indian', 'Finger Food']",Agra,Sikandra,https://www.zomato.com/agra/milan-restaurant-sikandra/info,Casual Dining,3.0,4.0
+Punjabi Food Corner,200,"['Fast Food', 'North Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/punjabi-food-corner-kamla-nagar/info,Quick Bites,0.0,0.0
+Jhalak Restaurant,500,"['Mughlai', 'Indian']",Agra,Civil Lines,https://www.zomato.com/agra/jhalak-restaurant-civil-lines/info,Casual Dining,0.0,0.0
+Fresh Snacks Cafe,100,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/fresh-snacks-cafe-agra-cantt/info,Quick Bites,0.0,0.0
+Elleven To 11,300,"['North Indian', 'Chinese']",Agra,Kamla Nagar,https://www.zomato.com/agra/elleven-to-11-kamla-nagar/info,Quick Bites,3.2,5.0
+Ratan Pizza,500,"['Pizza', 'Fast Food', 'Bakery']",Agra,Civil Lines,https://www.zomato.com/agra/ratan-pizza-civil-lines/info,Quick Bites,3.8,94.0
+Captain's Cafe,500,"['Cafe', 'North Indian', 'Mughlai', 'Italian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/captains-cafe-sikandra/info,Café,4.0,156.0
+Chokho Jeeman Marwari Jain Bhojanalya,400,['Rajasthani'],Agra,Civil Lines,https://www.zomato.com/agra/chokho-jeeman-marwari-jain-bhojanalya-civil-lines/info,Casual Dining,4.2,447.0
+Shri Tirupati No.1 Family Restaurant,300,"['North Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/shri-tirupati-no-1-family-restaurant-sikandra/info,Quick Bites,3.8,121.0
+Chaat Chowpaati,150,['Street Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/chaat-chowpaati-kamla-nagar/info,Quick Bites,3.8,137.0
+Sattolala Food Court,200,"['North Indian', 'Desserts']",Agra,Shahganj,https://www.zomato.com/agra/sattolala-food-court-shahganj/info,Quick Bites,3.5,158.0
+Q'sinn,1000,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/qsinn-2-civil-lines/info,Casual Dining,4.1,115.0
+Chimmanlal Puri Wale,150,"['North Indian', 'Street Food', 'Mithai']",Agra,Mantola,https://www.zomato.com/agra/chimmanlal-puri-wale-mantola/info,Quick Bites,4.0,155.0
+Sizzling Salt,800,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/sizzling-salt-1-khandari/info,Casual Dining,4.1,138.0
+Chainess,200,"['Tea', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/chainess-civil-lines/info,Quick Bites,4.2,105.0
+The Big Bun,250,"['Burger', 'Sandwich', 'Fast Food', 'Pizza', 'Rolls', 'Bakery']",Agra,Civil Lines,https://www.zomato.com/agra/the-big-bun-civil-lines/info,Quick Bites,4.4,155.0
+Family Zaika Restro & Lounge,800,"['North Indian', 'South Indian', 'Chinese']",Agra,Kamla Nagar,https://www.zomato.com/agra/family-zaika-restro-lounge-kamla-nagar/info,Casual Dining,3.7,110.0
+Sheroes Hangout,200,"['Cafe', 'North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/sheroes-hangout-tajganj/info,Café,4.9,253.0
+The Grand Gopika Thaal By GMB,800,"['North Indian', 'Rajasthani', 'Gujarati']",Agra,Tajganj,https://www.zomato.com/agra/the-grand-gopika-thaal-by-gmb-tajganj/info,Casual Dining,4.2,27.0
+New Moon Light Restaurant,350,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/new-moon-light-restaurant-civil-lines/info,Dhaba,3.7,115.0
+Gulab Snacks Parlour,200,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/gulab-snacks-parlour-khandari/info,Quick Bites,3.2,6.0
+Chunar Chicken,500,['Mughlai'],Agra,Mantola,https://www.zomato.com/agra/chunar-chicken-mantola/info,Quick Bites,3.2,6.0
+Chotu Puri Wale,100,"['North Indian', 'Beverages']",Agra,Tajganj,https://www.zomato.com/agra/chotu-puri-wale-tajganj/info,Quick Bites,0.0,0.0
+Four Seasons Fun & Food Village,500,"['Chinese', 'North Indian']",Agra,Dayal Bagh,https://www.zomato.com/agra/four-seasons-fun-food-village-dayal-bagh/info,Quick Bites,3.2,8.0
+Shri Giraj Chaat Bhandaar,100,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/shri-giraj-chaat-bhandaar-agra-cantt/info,Quick Bites,0.0,0.0
+Jack N Jill,200,['Fast Food'],Agra,Arjun Nagar,https://www.zomato.com/agra/jack-n-jill-arjun-nagar/info,Quick Bites,3.0,4.0
+RS Crazy Bites,100,"['Sandwich', 'Burger']",Agra,Civil Lines,https://www.zomato.com/agra/rs-crazy-bites-civil-lines/info,Quick Bites,3.1,5.0
+Maa Vaishno Pizza & Burger,150,"['Fast Food', 'Pizza']",Agra,Kuberpur,https://www.zomato.com/agra/maa-vaishno-pizza-burger-kuberpur/info,Quick Bites,0.0,0.0
+Anjana Restaurant,500,"['Chinese', 'Fast Food', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/anjana-restaurant-tajganj/info,Quick Bites,3.1,8.0
+Hangout- The Lounge Bar,600,['Finger Food'],Agra,Lohamandi,https://www.zomato.com/agra/hangout-the-lounge-bar-lohamandi/info,Bar,3.1,4.0
+Jawahar Bhojnalya,200,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/jawahar-bhojnalya-dayal-bagh/info,Quick Bites,3.2,4.0
+Idli.com,150,['South Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/idli-com-agra-cantt/info,Quick Bites,0.0,0.0
+Ice Cream Factory,150,"['Ice Cream', 'Beverages']",Agra,Civil Lines,https://www.zomato.com/agra/ice-cream-factory-civil-lines/info,Unknown,0.0,0.0
+Hashim Restaurant,250,"['Biryani', 'North Indian']",Agra,Shahganj,https://www.zomato.com/agra/hashim-restaurant-shahganj/info,Quick Bites,3.1,4.0
+Chef Signature - Kabab Factory,250,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/chef-signature-kabab-factory-tajganj/info,Unknown,0.0,0.0
+The Chamber,1500,"['North Indian', 'Mughlai', 'Continental', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/the-chamber-tajganj/info,Quick Bites,3.1,4.0
+Cottage Cafe,100,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/cottage-cafe-civil-lines/info,Quick Bites,3.1,4.0
+Hotel Ganpati,250,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/hotel-ganpati-tajganj/info,Quick Bites,3.0,4.0
+Tikka Factory,400,"['Kebab', 'North Indian', 'Rolls', 'Chinese', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/tikka-factory-sikandra/info,Casual Dining,0.0,0.0
+Ganpati Hotel and Restaurant,350,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/ganpati-hotel-and-restaurant-sikandra/info,Quick Bites,3.0,4.0
+Desi Tadka Restaurant,800,"['North Indian', 'Italian']",Agra,Lohamandi,https://www.zomato.com/agra/desi-tadka-restaurant-lohamandi/info,Casual Dining,3.2,6.0
+SR CHICKEN CORNER & RESTAURANT,0,"['Biryani', 'Charcoal Chicken', 'Hyderabadi']",Agra,Tajganj,https://www.zomato.com/agra/sr-chicken-corner-restaurant-tajganj/info,Unknown,0.0,0.0
+Chick Chick Corner,500,['Mughlai'],Agra,Kamla Nagar,https://www.zomato.com/agra/chick-chick-corner-kamla-nagar/info,Quick Bites,2.8,8.0
+Jain Sweet And Milk Corner,150,"['Mithai', 'Street Food']",Agra,Sikandra,https://www.zomato.com/agra/jain-sweet-and-milk-corner-sikandra/info,Sweet Shop,0.0,0.0
+Devil Disc & Restaurant,600,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/devil-disc-restaurant-sikandra/info,Casual Dining,3.1,4.0
+Ram Cafe & Bakers,100,"['Fast Food', 'Desserts']",Agra,Sikandra,https://www.zomato.com/agra/ram-cafe-bakers-sikandra/info,Unknown,0.0,0.0
+Krishna Dosa Factory,200,['South Indian'],Agra,Sikandra,https://www.zomato.com/agra/krishna-dosa-factory-sikandra/info,Quick Bites,0.0,0.0
+Haji Ji Restaurant,200,['North Indian'],Agra,Mantola,https://www.zomato.com/agra/haji-ji-restaurant-mantola/info,Quick Bites,0.0,0.0
+Shiv Sweet,200,"['Mithai', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/shiv-sweet-sikandra/info,Sweet Shop,0.0,0.0
+Vansiwala Family Restaurant,300,"['North Indian', 'South Indian', 'Chinese']",Agra,Shahganj,https://www.zomato.com/agra/vansiwala-family-restaurant-shahganj/info,Quick Bites,0.0,0.0
+Prince Of Spice,750,"['North Indian', 'Mughlai', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/prince-of-spice-tajganj/info,Casual Dining,3.1,7.0
+Al Baik Restaurant,350,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/al-baik-restaurant-civil-lines/info,Quick Bites,3.0,4.0
+Shri Mangalam Dhabha,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/shri-mangalam-dhabha-sikandra/info,Dhaba,0.0,0.0
+Chacha Ji Ka Dhaba,600,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/chacha-ji-ka-dhaba-civil-lines/info,Casual Dining,0.0,0.0
+Aggarwal Fast Food & Restaurant,200,['Fast Food'],Agra,Mantola,https://www.zomato.com/agra/aggarwal-fast-food-restaurant-mantola/info,Quick Bites,3.1,6.0
+Chatkara Restaurant,400,"['Chinese', 'Indian', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/chatkara-restaurant-tajganj/info,Quick Bites,3.1,6.0
+B K Hotel,250,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/b-k-hotel-rakabganj/info,Quick Bites,0.0,0.0
+Kulfiano,200,['Ice Cream'],Agra,Agra Cantt,https://www.zomato.com/agra/kulfiano-agra-cantt/info,Dessert Parlor,3.1,5.0
+Apni Rasoi,250,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/apni-rasoi-tajganj/info,Quick Bites,0.0,0.0
+New Vrindavan Pan Bhandar,100,['Paan'],Agra,Kamla Nagar,https://www.zomato.com/agra/new-vrindavan-pan-bhandar-kamla-nagar/info,Paan Shop,0.0,0.0
+Tammana bhojnalya,150,['Indian'],Agra,Kamla Nagar,https://www.zomato.com/agra/tammana-bhojnalya-kamla-nagar/info,Bhojanalya,0.0,0.0
+Saffron Restaurant,800,"['Beverages', 'Chinese', 'Continental', 'North Indian', 'South Indian']",Agra,Rakabganj,https://www.zomato.com/agra/saffron-restaurant-rakabganj/info,Casual Dining,3.1,5.0
+Open Affaire - Siris 18,800,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/open-affaire-siris-18-tajganj/info,Casual Dining,0.0,0.0
+Shree Shayam Ji Bhojnalaya,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/shree-shayam-ji-bhojnalaya-sikandra/info,Bhojanalya,3.0,6.0
+Panchhi Petha Namkeen,200,['Mithai'],Agra,Tajganj,https://www.zomato.com/agra/panchhi-petha-namkeen-tajganj/info,Sweet Shop,0.0,0.0
+R.D. Food Centre,200,"['North Indian', 'Chinese']",Agra,Dayal Bagh,https://www.zomato.com/agra/r-d-food-centre-dayal-bagh/info,Unknown,3.2,5.0
+Chirag Flavours,300,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/chirag-flavours-tajganj/info,Quick Bites,0.0,0.0
+Shri Vrindavan Sweet,400,['Mithai'],Agra,Dayal Bagh,https://www.zomato.com/agra/shri-vrindavan-sweet-dayal-bagh/info,Quick Bites,0.0,0.0
+Surbhi Bar & Restaurant,800,"['North Indian', 'Chinese', 'Fast Food']",Agra,Mantola,https://www.zomato.com/agra/surbhi-bar-restaurant-mantola/info,Casual Dining,0.0,0.0
+Parantha Factory,150,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/parantha-factory-agra-cantt/info,Unknown,0.0,0.0
+Uncle Cakes And Bakes,250,"['Fast Food', 'Desserts']",Agra,Shahganj,https://www.zomato.com/agra/uncle-cakes-and-bakes-shahganj/info,Quick Bites,0.0,0.0
+"Hotel Nuova, Udarpoorti Pure Veg Family Restaurant",500,"['Chinese', 'Continental', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/hotel-nuova-udarpoorti-pure-veg-family-restaurant-civil-lines/info,Casual Dining,0.0,0.0
+Shri Kanha Foods,300,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/shri-kanha-foods-agra-cantt/info,Quick Bites,0.0,0.0
+A.V Food Court,400,"['Mithai', 'North Indian', 'South Indian', 'Fast Food']",Agra,Sikandra,https://www.zomato.com/agra/a-v-food-court-sikandra/info,Quick Bites,3.0,4.0
+Go 69 Pizza,250,['Pizza'],Agra,Kamla Nagar,https://www.zomato.com/agra/go-69-pizza-kamla-nagar/info,Quick Bites,0.0,0.0
+Dawat Restaurant,400,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/dawat-restaurant-2-sikandra/info,Casual Dining,0.0,0.0
+Yash Paties And Juice Corner,100,"['Street Food', 'Juices']",Agra,Shahganj,https://www.zomato.com/agra/yash-paties-and-juice-corner-shahganj/info,Unknown,0.0,0.0
+Flower Nest,500,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/flower-nest-tajganj/info,Casual Dining,0.0,0.0
+Girraj Dhaba,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/girraj-dhaba-sikandra/info,Dhaba,0.0,0.0
+Gyani's Snacks Corner,300,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/gyanis-snacks-corner-kamla-nagar/info,Quick Bites,3.1,5.0
+Little India,300,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/little-india-shahganj/info,Quick Bites,0.0,0.0
+The K.S. Royal Restaurant,700,"['North Indian', 'South Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/the-k-s-royal-restaurant-sikandra/info,Casual Dining,0.0,0.0
+Family Foods,100,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/family-foods-shahganj/info,Quick Bites,0.0,0.0
+Hare Krishna Sweets And Restaurant,250,"['North Indian', 'Mithai']",Agra,Tajganj,https://www.zomato.com/agra/hare-krishna-sweets-and-restaurant-tajganj/info,Quick Bites,0.0,0.0
+The Tequila - Mansingh Palace,2000,['Finger Food'],Agra,Mansingh Palace-- Tajganj,https://www.zomato.com/agra/the-tequila-mansingh-palace-tajganj/info,Bar,0.0,0.0
+Taj Galaxy,500,"['North Indian', 'Chinese', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/taj-galaxy-tajganj/info,Casual Dining,0.0,0.0
+The Pavillion,800,"['North Indian', 'Chinese', 'Continental']",Agra,Hotel Atulyaa Taj-- Tajganj,https://www.zomato.com/agra/the-pavillion-tajganj/info,Casual Dining,0.0,0.0
+Golden Street Restaurant,800,"['North Indian', 'South Indian']",Agra,Tajganj,https://www.zomato.com/agra/golden-street-restaurant-tajganj/info,Casual Dining,3.1,4.0
+Shiv Bhojhnalaya,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/shiv-bhojhnalaya-sikandra/info,Quick Bites,0.0,0.0
+Laziz Restaurant,400,"['North Indian', 'Chinese']",Agra,Rakabganj,https://www.zomato.com/agra/laziz-restaurant-rakabganj/info,Quick Bites,0.0,0.0
+Shri Anand  Sakahari Bhojan,350,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/shri-anand-sakahari-bhojan-civil-lines/info,Dhaba,3.1,4.0
+In Dish,750,"['North Indian', 'Mughlai', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/in-dish-tajganj/info,Casual Dining,0.0,0.0
+Spice Garden,800,"['North Indian', 'Chinese', 'Continental']",Agra,Hotel Crystal Inn-- Tajganj,https://www.zomato.com/agra/spice-garden-tajganj/info,Casual Dining,0.0,0.0
+Spicy Food Restaurant,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/spicy-food-restaurant-sikandra/info,Quick Bites,0.0,0.0
+The Food Factory,300,"['South Indian', 'Chinese']",Agra,Rakabganj,https://www.zomato.com/agra/the-food-factory-rakabganj/info,Quick Bites,0.0,0.0
+Swad Restaurant,500,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/swad-restaurant-shahganj/info,Casual Dining,0.0,0.0
+Sharma & Sharma,600,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/sharma-sharma-tajganj/info,Casual Dining,0.0,0.0
+Swagat Restaurant,300,"['Fast Food', 'Beverages']",Agra,Tajganj,https://www.zomato.com/agra/swagat-restaurant-1-tajganj/info,Quick Bites,0.0,0.0
+Kaila Ji Coffee House,50,['Tea'],Agra,Agra Cantt,https://www.zomato.com/agra/kaila-ji-coffee-house-agra-cantt/info,Beverage Shop,0.0,0.0
+Swachand,400,['Mughlai'],Agra,Khandari,https://www.zomato.com/agra/swachand-khandari/info,Quick Bites,0.0,0.0
+Baba Mutton & Chicken Food Corner,200,"['Fast Food', 'North Indian']",Agra,Tajganj,https://www.zomato.com/agra/baba-mutton-chicken-food-corner-tajganj/info,Unknown,0.0,0.0
+Soup Centre,100,"['Beverages', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/soup-centre-kamla-nagar/info,Beverage Shop,0.0,0.0
+Indraprasth Restaurant,600,"['North Indian', 'Fast Food', 'American', 'Continental']",Agra,Arjun Nagar,https://www.zomato.com/agra/indraprasth-restaurant-arjun-nagar/info,Casual Dining,0.0,0.0
+Shri Ram Restaurant,250,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/shri-ram-restaurant-rakabganj/info,Quick Bites,0.0,0.0
+Ambika Restaurant,300,['Chinese'],Agra,Tajganj,https://www.zomato.com/agra/ambika-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Curry Kitchen,250,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/curry-kitchen-agra-cantt/info,Quick Bites,0.0,0.0
+Dauji Chat Bhandhar,150,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/dauji-chat-bhandhar-sikandra/info,Quick Bites,0.0,0.0
+Agra Puri Bhandar,100,"['North Indian', 'Mithai']",Agra,Tajganj,https://www.zomato.com/agra/agra-puri-bhandar-tajganj/info,Unknown,0.0,0.0
+Jalsa Ice Cream And Faluda,100,['Beverages'],Agra,Sikandra,https://www.zomato.com/agra/jalsa-ice-cream-and-faluda-sikandra/info,Food Truck,0.0,0.0
+Udarpoorti Restaurant,500,"['North Indian', 'Continental', 'Chinese']",Agra,Shahganj,https://www.zomato.com/agra/udarpoorti-restaurant-shahganj/info,Quick Bites,0.0,0.0
+R.K. Bhojnalya,500,"['North Indian', 'Arabian', 'Asian', 'Assamese']",Agra,Agra Cantt,https://www.zomato.com/agra/r-k-bhojnalya-agra-cantt/info,Quick Bites,0.0,0.0
+Horizon,800,"['North Indian', 'Chinese', 'Continental']",Agra,Hotel Crystal Inn-- Tajganj,https://www.zomato.com/agra/horizon-tajganj/info,Casual Dining,0.0,0.0
+Kuch Bhi - Siri 18,1100,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/kuch-bhi-siri-18-tajganj/info,Casual Dining,0.0,0.0
+Punjabi Grillz,200,['Fast Food'],Agra,Sikandra,https://www.zomato.com/agra/punjabi-grillz-2-sikandra/info,Quick Bites,0.0,0.0
+Punjabi Tadka - Y R Foods,300,"['Chinese', 'North Indian']",Agra,Agra Cantt,https://www.zomato.com/agra/punjabi-tadka-y-r-foods-agra-cantt/info,Quick Bites,0.0,0.0
+Jalsa - Ice Cream & Faluda Corner,200,"['Ice Cream', 'Beverages', 'Juices']",Agra,Tajganj,https://www.zomato.com/agra/jalsa-ice-cream-faluda-corner-tajganj/info,Dessert Parlor,0.0,0.0
+DR Food,200,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/dr-food-rakabganj/info,Quick Bites,0.0,0.0
+Astha Family Dhaba,150,['Chinese'],Agra,Tajganj,https://www.zomato.com/agra/astha-family-dhaba-tajganj/info,Quick Bites,0.0,0.0
+Dr Food Plaza,200,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/dr-food-plaza-shahganj/info,Quick Bites,0.0,0.0
+The Swaad Restaurant,300,"['North Indian', 'Mughlai']",Agra,Sikandra,https://www.zomato.com/agra/the-swaad-restaurant-sikandra/info,Quick Bites,0.0,0.0
+Chaatwala,150,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/chaatwala-agra-cantt/info,Quick Bites,0.0,0.0
+Jax Ambya Khaza Pizza Corner,200,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/jax-ambya-khaza-pizza-corner-shahganj/info,Quick Bites,0.0,0.0
+Curry house Restaurant,300,"['North Indian', 'South Indian', 'Italian']",Agra,Tajganj,https://www.zomato.com/agra/curry-house-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Sheetal Restaurant,300,"['North Indian', 'Chinese']",Agra,Agra Cantt,https://www.zomato.com/agra/sheetal-restaurant-agra-cantt/info,Quick Bites,0.0,0.0
+Indian Accent,500,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/indian-accent-tajganj/info,Casual Dining,0.0,0.0
+Hotel S.R Palace & Restaurant,400,"['North Indian', 'Chinese', 'Continental']",Agra,Sikandra,https://www.zomato.com/agra/hotel-s-r-palace-restaurant-sikandra/info,Casual Dining,0.0,0.0
+Gopal Dosa Corner,200,['South Indian'],Agra,Lohamandi,https://www.zomato.com/agra/gopal-dosa-corner-lohamandi/info,Quick Bites,0.0,0.0
+Salim Hotel,200,['North Indian'],Agra,Mantola,https://www.zomato.com/agra/salim-hotel-mantola/info,Casual Dining,0.0,0.0
+Porwal Bhojhnalaya,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/porwal-bhojhnalaya-sikandra/info,Quick Bites,0.0,0.0
+Captain Burger,300,"['Burger', 'Cafe']",Agra,Sikandra,https://www.zomato.com/agra/captain-burger-sikandra/info,Quick Bites,0.0,0.0
+Priya Hotel,600,"['North Indian', 'Chinese', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/priya-hotel-tajganj/info,Quick Bites,0.0,0.0
+Sizzler,1000,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/sizzler-tajganj/info,Casual Dining,0.0,0.0
+Ck Family restaurant,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/ck-family-restaurant-sikandra/info,Quick Bites,0.0,0.0
+Punjabi Rasoi,300,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/punjabi-rasoi-agra-cantt/info,Unknown,0.0,0.0
+Maple Grand,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/maple-grand-tajganj/info,Quick Bites,0.0,0.0
+Zaika Restaurant,400,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/zaika-restaurant-agra-cantt/info,Casual Dining,0.0,0.0
+Maa Vaishno Fast Food & Restaurant,200,['South Indian'],Agra,Kuberpur,https://www.zomato.com/agra/maa-vaishno-fast-food-restaurant-kuberpur/info,Quick Bites,0.0,0.0
+Prem Sagar Restaurant,300,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/prem-sagar-restaurant-agra-cantt/info,Quick Bites,0.0,0.0
+Khushi Bhojhnalaya,150,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/khushi-bhojhnalaya-sikandra/info,Bhojanalya,0.0,0.0
+Pandit Ji Chat Bhandaar,100,['Street Food'],Agra,Agra Cantt,https://www.zomato.com/agra/pandit-ji-chat-bhandaar-agra-cantt/info,Quick Bites,0.0,0.0
+Nice Taj View Point,450,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/nice-taj-view-point-tajganj/info,Casual Dining,0.0,0.0
+Taste of India,700,"['North Indian', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/taste-of-india-2-tajganj/info,Casual Dining,0.0,0.0
+Aashadeep Restaurant,300,['North Indian'],Agra,Dayal Bagh,https://www.zomato.com/agra/aashadeep-restaurant-dayal-bagh/info,Quick Bites,0.0,0.0
+Hotel King Park Avenue,350,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/hotel-king-park-avenue-civil-lines/info,Quick Bites,0.0,0.0
+Shelter Restaurant,600,"['North Indian', 'Continental', 'South Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/shelter-restaurant-sikandra/info,Casual Dining,0.0,0.0
+Hasty Tasty,200,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/hasty-tasty-tajganj/info,Quick Bites,0.0,0.0
+: Panchhi petha,250,['Desserts'],Agra,Agra Cantt,https://www.zomato.com/agra/panchhi-petha-agra-cantt/info,Sweet Shop,0.0,0.0
+Dipu Dhabha,200,['Mithai'],Agra,Sikandra,https://www.zomato.com/agra/dipu-dhabha-sikandra/info,Sweet Shop,0.0,0.0
+Hotel Eastlite Bar And Restaurant,700,"['North Indian', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/hotel-eastlite-bar-and-restaurant-civil-lines/info,Casual Dining,0.0,0.0
+Jain Petha,250,"['Fast Food', 'Bakery']",Agra,Kamla Nagar,https://www.zomato.com/agra/jain-petha-kamla-nagar/info,Bakery,0.0,0.0
+Yadav Misthan Bhandar,200,"['Mithai', 'Fast Food']",Agra,Shahganj,https://www.zomato.com/agra/yadav-misthan-bhandar-shahganj/info,Sweet Shop,0.0,0.0
+Energy tandoori chai.com,150,['Healthy Food'],Agra,Sikandra,https://www.zomato.com/agra/energy-tandoori-chai-com-sikandra/info,Quick Bites,0.0,0.0
+Shake Valley,100,['Beverages'],Agra,Sikandra,https://www.zomato.com/agra/shake-valley-sikandra/info,Beverage Shop,0.0,0.0
+Biryaniwala,200,['Biryani'],Agra,Shahganj,https://www.zomato.com/agra/biryaniwala-shahganj/info,Unknown,0.0,0.0
+Punjabi Dhaba,250,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/punjabi-dhaba-tajganj/info,Quick Bites,0.0,0.0
+Hungry Birds,250,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/hungry-birds-2-tajganj/info,Quick Bites,0.0,0.0
+Pizzeria,200,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/pizzeria-1-kamla-nagar/info,Quick Bites,0.0,0.0
+Jain Fast Food,200,"['South Indian', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/jain-fast-food-kamla-nagar/info,Quick Bites,0.0,0.0
+Fitoor,300,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/fitoor-tajganj/info,Quick Bites,0.0,0.0
+Tapasya Restaurant,250,['North Indian'],Agra,Trans Yamuna,https://www.zomato.com/agra/tapasya-restaurant-trans-yamuna/info,Quick Bites,0.0,0.0
+The Turban Master Chef Street Food,200,"['Fast Food', 'Street Food']",Agra,Agra Cantt,https://www.zomato.com/agra/the-turban-master-chef-street-food-agra-cantt/info,Quick Bites,0.0,0.0
+Mugal Rasoi,200,['Fast Food'],Agra,Agra Cantt,https://www.zomato.com/agra/mugal-rasoi-agra-cantt/info,Quick Bites,0.0,0.0
+Mehfil Restaurant,600,"['North Indian', 'Chinese', 'Continental']",Agra,Tajganj,https://www.zomato.com/agra/mehfil-restaurant-1-tajganj/info,Casual Dining,0.0,0.0
+THE CLOVE,600,"['North Indian', 'Chinese', 'Biryani']",Agra,Tajganj,https://www.zomato.com/agra/the-clove-tajganj/info,Casual Dining,0.0,0.0
+Periwinkle Multicuisine Restaurant,900,"['North Indian', 'Continental', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/periwinkle-multicuisine-restaurant-tajganj/info,Casual Dining,0.0,0.0
+Super Hemant Petha Store Sweets And Namkeen,300,['Mithai'],Agra,Arjun Nagar,https://www.zomato.com/agra/super-hemant-petha-store-sweets-and-namkeen-arjun-nagar/info,Sweet Shop,0.0,0.0
+Hotel Taj Prince,500,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/hotel-taj-prince-tajganj/info,Casual Dining,0.0,0.0
+Flower of Heaven,400,"['North Indian', 'South Indian']",Agra,Tajganj,https://www.zomato.com/agra/flower-of-heaven-tajganj/info,Quick Bites,0.0,0.0
+Peshwa Family Restaurant,600,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/peshwa-family-restaurant-1-tajganj/info,Casual Dining,0.0,0.0
+Deviram Food Circle,200,"['Mithai', 'Fast Food', 'Street Food']",Agra,Lohamandi,https://www.zomato.com/agra/deviram-food-circle-lohamandi/info,Sweet Shop,4.0,207.0
+D Jail House- Hungry Slurp,300,"['Awadhi', 'Chinese', 'Mughlai', 'North Indian']",Agra,Sikandra,https://www.zomato.com/agra/d-jail-house-hungry-slurp-sikandra/info,Unknown,4.0,146.0
+Rohit Cakes And Bakes,350,['Bakery'],Agra,Kamla Nagar,https://www.zomato.com/agra/rohit-cakes-and-bakes-kamla-nagar/info,Bakery,4.0,349.0
+The Ccharcoal Chimney,1500,"['North Indian', 'Chinese', 'Continental', 'Mughlai']",Agra,Tajganj,https://www.zomato.com/agra/the-ccharcoal-chimney-tajganj/info,Casual Dining,3.9,117.0
+New Punjabi Dhaba,450,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/new-punjabi-dhaba-khandari/info,Dhaba,3.3,145.0
+Unlimited Pizza,400,"['Ice Cream', 'Desserts', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/unlimited-pizza-1-civil-lines/info,Dessert Parlor,3.6,55.0
+Shan E Hind,450,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/shan-e-hind-2-agra-cantt/info,Casual Dining,3.6,91.0
+Cake House,500,"['Bakery', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/cake-house-2-civil-lines/info,Bakery,3.7,127.0
+Mothers Milkshakes,220,"['Italian', 'Fast Food', 'Beverages']",Agra,Civil Lines,https://www.zomato.com/agra/mothers-milkshakes-civil-lines/info,Quick Bites,3.7,140.0
+Agarwal Restaurant Sweets And Dairy,300,"['North Indian', 'Beverages', 'South Indian', 'Fast Food', 'Pizza']",Agra,Shahganj,https://www.zomato.com/agra/agarwal-restaurant-sweets-and-dairy-shahganj/info,Quick Bites,3.8,96.0
+Ek Number cafe,500,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/ek-number-cafe-civil-lines/info,Café,0.0,0.0
+Shree Bankey Bihari Misthan Bhandar,300,"['Mithai', 'Street Food', 'South Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/shree-bankey-bihari-misthan-bhandar-sikandra/info,Sweet Shop,4.3,93.0
+Chef at Home Bakery,150,"['Bakery', 'Fast Food']",Agra,Civil Lines,https://www.zomato.com/agra/chef-at-home-bakery-civil-lines/info,Bakery,3.2,97.0
+Annjal Restaurant,600,"['North Indian', 'Rajasthani']",Agra,Civil Lines,https://www.zomato.com/agra/annjal-restaurant-civil-lines/info,Casual Dining,4.5,51.0
+Daddy's Burger Bar (Hungernomia),300,"['Beverages', 'Burger', 'Fast Food', 'Pizza', 'Sandwich', 'Wraps']",Agra,Civil Lines,https://www.zomato.com/agra/daddys-burger-bar-hungernomia-civil-lines/info,Quick Bites,3.9,161.0
+AFC Food,400,"['North Indian', 'South Indian', 'Chinese']",Agra,Civil Lines,https://www.zomato.com/agra/afc-food-civil-lines/info,Quick Bites,0.0,0.0
+Vianjan Restaurant,500,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/vianjan-restaurant-tajganj/info,Quick Bites,0.0,0.0
+Heartbeat Lounge,300,['North Indian'],Agra,Tajganj,https://www.zomato.com/agra/heartbeat-lounge-tajganj/info,Quick Bites,0.0,0.0
+India spice,500,"['North Indian', 'Chinese', 'South Indian']",Agra,Sikandra,https://www.zomato.com/agra/india-spice-sikandra/info,Casual Dining,0.0,0.0
+Bhaiya Ji Family Dhaba,250,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/bhaiya-ji-family-dhaba-sikandra/info,Dhaba,0.0,0.0
+Zigzag Cafe,400,"['North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/zigzag-cafe-tajganj/info,Quick Bites,0.0,0.0
+Hotel City Square,1200,"['Asian', 'North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/hotel-city-square-tajganj/info,Casual Dining,0.0,0.0
+Siddharth Fast Food & Drinks,0,"['Chinese', 'Fast Food']",Agra,Mantola,https://www.zomato.com/agra/siddharth-fast-food-drinks-mantola/info,Quick Bites,0.0,0.0
+Guru Kripa Yadav Dhaba,150,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/guru-kripa-yadav-dhaba-civil-lines/info,Dhaba,3.9,50.0
+Bhagwati Dhaba,200,['North Indian'],Agra,Sikandra,https://www.zomato.com/agra/bhagwati-dhaba-sikandra/info,Dhaba,3.9,117.0
+Bhawna Sweets,300,"['Mithai', 'Desserts']",Agra,Civil Lines,https://www.zomato.com/agra/bhawna-sweets-civil-lines/info,Sweet Shop,3.9,86.0
+Goli Vada Pav No. 1,150,['Street Food'],Agra,Sikandra,https://www.zomato.com/agra/goli-vada-pav-no-1-sikandra/info,Quick Bites,4.1,159.0
+Chaska Restaurant,800,"['North Indian', 'Chinese', 'South Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/chaska-restaurant-kamla-nagar/info,Casual Dining,3.3,134.0
+Master Chef Italian Fast Food Corner,400,['Fast Food'],Agra,Khandari,https://www.zomato.com/agra/master-chef-italian-fast-food-corner-khandari/info,Quick Bites,2.8,147.0
+Gurgaonwala,300,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/gurgaonwala-shahganj/info,Quick Bites,4.0,192.0
+Roofmates,1000,"['North Indian', 'Chinese']",Agra,Sikandra,https://www.zomato.com/agra/roofmates-sikandra/info,Casual Dining,0.0,0.0
+Yo Yo Foods,300,"['Chinese', 'South Indian']",Agra,Khandari,https://www.zomato.com/agra/yo-yo-foods-khandari/info,Quick Bites,3.8,124.0
+Dosa Factory,500,['South Indian'],Agra,Sikandra,https://www.zomato.com/agra/dosa-factory-sikandra/info,Quick Bites,3.8,97.0
+The Indian Chaska,600,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/the-indian-chaska-1-civil-lines/info,Casual Dining,3.6,103.0
+Jux Pux,200,['Cafe'],Agra,Khandari,https://www.zomato.com/agra/jux-pux-khandari/info,Café,3.9,95.0
+Tealogy,250,"['Sandwich', 'Beverages', 'Continental']",Agra,Civil Lines,https://www.zomato.com/agra/tealogy-civil-lines/info,Quick Bites,4.3,41.0
+Filmy Zayka - Hotel Alleviate,700,"['Chinese', 'North Indian']",Agra,Civil Lines,https://www.zomato.com/agra/filmy-zayka-hotel-alleviate-civil-lines/info,Casual Dining,4.1,86.0
+Dasaprakash Restaurant,700,"['South Indian', 'North Indian']",Agra,Hotel Dasaprakash-- Tajganj,https://www.zomato.com/agra/dasaprakash-restaurant-tajganj/info,Casual Dining,4.0,140.0
+Pizza Inn,500,"['Fast Food', 'Pizza']",Agra,Sikandra,https://www.zomato.com/agra/pizza-inn-sikandra/info,Quick Bites,3.6,107.0
+Grill Inn,500,['Fast Food'],Agra,Dayal Bagh,https://www.zomato.com/agra/grill-inn-dayal-bagh/info,Casual Dining,3.9,75.0
+Om Bhojanalaya,500,['North Indian'],Agra,Agra Cantt,https://www.zomato.com/agra/om-bhojanalaya-agra-cantt/info,Casual Dining,3.7,145.0
+Tirupati's Dosa Factory,200,['South Indian'],Agra,Civil Lines,https://www.zomato.com/agra/tirupatis-dosa-factory-civil-lines/info,Quick Bites,4.0,69.0
+DECHEN CAFE LOUNGE,300,"['Fast Food', 'Beverages']",Agra,Sikandra,https://www.zomato.com/agra/dechen-cafe-lounge-1-sikandra/info,Café,3.9,78.0
+Twist and taste,250,"['North Indian', 'Chinese', 'South Indian']",Agra,Kamla Nagar,https://www.zomato.com/agra/twist-and-taste-kamla-nagar/info,Quick Bites,3.4,67.0
+Rangrezz Restaurant,700,"['North Indian', 'Mughlai']",Agra,Agra Cantt,https://www.zomato.com/agra/rangrezz-restaurant-agra-cantt/info,Casual Dining,3.3,95.0
+Daddy's Burger Bar,300,['Fast Food'],Agra,Kamla Nagar,https://www.zomato.com/agra/daddys-burger-bar-kamla-nagar/info,Quick Bites,3.8,140.0
+GreeNox,200,"['Fast Food', 'Bakery']",Agra,Shahganj,https://www.zomato.com/agra/greenox-shahganj/info,Quick Bites,3.7,74.0
+Celebration  Foods,200,"['Bakery', 'Fast Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/celebration-foods-kamla-nagar/info,Bakery,3.4,62.0
+Wai Wai City,400,"['Asian', 'Chinese', 'Momos']",Agra,Civil Lines,https://www.zomato.com/agra/wai-wai-city-1-civil-lines/info,Quick Bites,3.4,75.0
+Master Chef,250,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/master-chef-shahganj/info,Quick Bites,3.8,94.0
+Gopaldas Pethe Wale,400,"['Mithai', 'Street Food']",Agra,Civil Lines,https://www.zomato.com/agra/gopaldas-pethe-wale-civil-lines/info,Sweet Shop,4.4,40.0
+Gulati Bar-Be-Que,500,['North Indian'],Agra,Shahganj,https://www.zomato.com/agra/gulati-bar-be-que-shahganj/info,Casual Dining,3.7,115.0
+The Dhaba Cafe,350,"['Continental', 'North Indian', 'Chinese']",Agra,Tajganj,https://www.zomato.com/agra/the-dhaba-cafe-tajganj/info,Quick Bites,4.0,81.0
+Love Restaurant,300,"['North Indian', 'Fast Food', 'Beverages']",Agra,Tajganj,https://www.zomato.com/agra/love-restaurant-tajganj/info,Quick Bites,3.7,36.0
+WatchMeWhip,250,"['Bakery', 'Desserts']",Agra,Mantola,https://www.zomato.com/agra/watchmewhip-mantola/info,Bakery,3.6,44.0
+UP 80,700,"['North Indian', 'Chinese']",Agra,Dayal Bagh,https://www.zomato.com/agra/up-80-dayal-bagh/info,Casual Dining,3.7,111.0
+Potato Planet,400,['Fast Food'],Agra,Civil Lines,https://www.zomato.com/agra/potato-planet-1-civil-lines/info,Quick Bites,3.8,113.0
+Anand He Anand Bhojanalaya,300,['North Indian'],Agra,Civil Lines,https://www.zomato.com/agra/anand-he-anand-bhojanalaya-civil-lines/info,Casual Dining,3.7,98.0
+Brijwasi Sweet House & Restaurant,500,"['Desserts', 'North Indian', 'South Indian', 'Chinese', 'Fast Food', 'Street Food']",Agra,Agra Cantt,https://www.zomato.com/agra/brijwasi-sweet-house-restaurant-agra-cantt/info,Casual Dining,3.7,87.0
+Downtown Cafe & Lounge,800,['North Indian'],Agra,Rakabganj,https://www.zomato.com/agra/downtown-cafe-lounge-rakabganj/info,Lounge,4.0,24.0
+Sri Dauji Mishthan Bhandar,300,"['Desserts', 'Fast Food', 'Street Food']",Agra,Kamla Nagar,https://www.zomato.com/agra/sri-dauji-mishthan-bhandar-kamla-nagar/info,Quick Bites,3.6,89.0
+New Vishal Restaurant,400,['North Indian'],Agra,Khandari,https://www.zomato.com/agra/new-vishal-restaurant-khandari/info,Dhaba,3.6,84.0
+Ravi Patties Corner,100,"['Fast Food', 'Desserts']",Agra,Dayal Bagh,https://www.zomato.com/agra/ravi-patties-corner-1-dayal-bagh/info,Confectionery,3.9,68.0
+China Town,200,['Fast Food'],Agra,Shahganj,https://www.zomato.com/agra/china-town-1-shahganj/info,Quick Bites,3.9,70.0
+Hungernomia,500,"['Pizza', 'Burger', 'Fast Food']",Agra,Tajganj,https://www.zomato.com/agra/hungernomia-tajganj/info,Quick Bites,3.9,36.0
+Healthmafia,100,['Healthy Food'],Agra,Civil Lines,https://www.zomato.com/agra/healthmafia-civil-lines/info,Quick Bites,3.9,48.0
+What The Food,500,"['Burger', 'Chinese', 'Rolls']",Agra,Kamla Nagar,https://www.zomato.com/agra/what-the-food-kamla-nagar/info,Quick Bites,3.5,123.0
+Cake & More,200,"['Desserts', 'Bakery']",Agra,Tajganj,https://www.zomato.com/agra/cake-more-tajganj/info,Dessert Parlor,3.8,55.0

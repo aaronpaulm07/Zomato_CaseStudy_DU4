@@ -1,0 +1,282 @@
+2024-02-21 16:50:01,847 - INFO - Executing merge.py...
+2024-02-21 16:50:04,316 - INFO - Count of records: 893
+2024-02-21 16:50:04,317 - INFO - Merging completed. Merged data saved to 'merged_data.csv' in the specified directory.
+2024-02-21 16:50:04,421 - INFO - Executing get_coordinates.py...
+2024-02-21 16:50:05,887 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-21 16:50:05,888 - INFO - Initial dataset - number of records : 892
+2024-02-21 16:50:05,894 - INFO - Records that need coordinates : 3
+2024-02-21 16:50:05,918 - INFO - Processing URL: https://www.zomato.com/agra/sheroes-hangout-tajganj/info
+2024-02-21 16:50:26,233 - INFO - Processing URL: https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info
+2024-02-21 16:50:26,233 - INFO - Processing URL: https://www.zomato.com/agra/tease-me-rooftop-tea-boutique-tajganj/info
+2024-02-21 16:51:29,435 - INFO - Count of records with coordinates: 2
+2024-02-21 16:51:29,451 - INFO - DataFrame with coordinates saved to: Datass\coordinates_scrapped_dataset.csv
+2024-02-21 16:51:29,451 - INFO - Count of records : 815
+2024-02-21 16:51:29,451 - INFO - Scrapping Completed!!!
+2024-02-21 16:51:29,568 - INFO - Executing SQL_Load.py...
+2024-02-21 16:51:29,568 - INFO - Pipeline execution completed successfully.
+2024-02-21 16:51:29,574 - INFO - Total Runtime: 0.0 hours, 1.0 minutes, 27.800379000000007 seconds
+2024-02-21 16:55:55,390 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-21 16:55:55,390 - INFO - records in intermediate 3
+2024-02-21 16:55:55,390 - INFO - records in intermediate without coordinates : 1
+2024-02-21 16:55:55,406 - INFO - Count of records with no coordinates in intermediate file: 1
+2024-02-21 16:56:18,039 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-21 16:56:18,067 - INFO - records in intermediate 3
+2024-02-21 16:56:18,068 - INFO - records in intermediate without coordinates : 1
+2024-02-21 16:56:18,084 - INFO - Count of records with no coordinates in intermediate file: 1
+2024-02-21 16:56:18,102 - INFO - Records that need coordinates : 1
+2024-02-21 16:56:18,121 - INFO - Processing URL: https://www.zomato.com/agra/tease-me-rooftop-tea-boutique-tajganj/info
+2024-02-21 16:56:34,673 - INFO - Count of records with coordinates: 1
+2024-02-21 16:56:34,687 - INFO - DataFrame with coordinates saved to: Datass\coordinates_scrapped_dataset.csv
+2024-02-21 16:56:34,687 - INFO - Count of records : 892
+2024-02-21 16:56:34,687 - INFO - Scrapping Completed!!!
+2024-02-23 09:50:03,343 - INFO - Executing merge.py...
+2024-02-23 09:50:03,381 - INFO - Executing get_coordinates.py...
+2024-02-23 09:50:03,417 - INFO - Executing SQL_Load.py...
+2024-02-23 09:50:03,417 - INFO - Pipeline execution completed successfully.
+2024-02-23 09:50:03,431 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.15936 seconds
+2024-02-23 09:51:09,959 - INFO - Executing merge.py...
+2024-02-23 09:51:12,135 - INFO - Executing get_coordinates.py...
+2024-02-23 09:51:13,582 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 09:51:13,694 - INFO - Executing SQL_Load.py...
+2024-02-23 09:51:13,694 - INFO - Pipeline execution completed successfully.
+2024-02-23 09:51:13,707 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 3.780324 seconds
+2024-02-23 09:53:58,143 - INFO - Executing merge.py...
+2024-02-23 09:53:58,834 - INFO - Executing get_coordinates.py...
+2024-02-23 09:53:59,866 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 09:53:59,940 - INFO - Executing SQL_Load.py...
+2024-02-23 09:53:59,940 - INFO - Pipeline execution completed successfully.
+2024-02-23 09:53:59,942 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 1.842413 seconds
+2024-02-23 09:59:01,968 - INFO - Executing merge.py...
+2024-02-23 09:59:05,422 - INFO - Executing get_coordinates.py...
+2024-02-23 09:59:06,228 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 09:59:06,301 - INFO - Executing SQL_Load.py...
+2024-02-23 09:59:06,301 - INFO - Pipeline execution completed successfully.
+2024-02-23 09:59:06,303 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 4.375486 seconds
+2024-02-23 10:00:14,404 - INFO - Executing merge.py...
+2024-02-23 10:00:15,223 - INFO - Executing get_coordinates.py...
+2024-02-23 10:00:16,056 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 10:00:16,134 - INFO - Executing SQL_Load.py...
+2024-02-23 10:00:16,134 - INFO - Pipeline execution completed successfully.
+2024-02-23 10:00:16,136 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 1.773011 seconds
+2024-02-23 10:01:17,866 - INFO - Executing merge.py...
+2024-02-23 10:01:21,325 - INFO - Executing get_coordinates.py...
+2024-02-23 10:01:22,081 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 10:01:22,154 - INFO - Executing SQL_Load.py...
+2024-02-23 10:01:22,154 - INFO - Pipeline execution completed successfully.
+2024-02-23 10:01:22,158 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 4.335443 seconds
+2024-02-23 10:03:54,047 - INFO - Executing merge.py...
+2024-02-23 10:03:54,815 - INFO - Executing get_coordinates.py...
+2024-02-23 10:03:55,567 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 10:03:55,643 - INFO - Executing SQL_Load.py...
+2024-02-23 10:03:55,644 - INFO - Pipeline execution completed successfully.
+2024-02-23 10:03:55,646 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 1.636806 seconds
+2024-02-23 10:04:34,859 - INFO - Executing merge.py...
+2024-02-23 10:04:35,758 - INFO - Executing get_coordinates.py...
+2024-02-23 10:04:36,523 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 10:04:36,604 - INFO - Executing SQL_Load.py...
+2024-02-23 10:04:36,604 - INFO - Pipeline execution completed successfully.
+2024-02-23 10:04:36,606 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 1.786928 seconds
+2024-02-23 10:04:46,017 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-23 10:05:17,329 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-23 10:05:17,330 - INFO - Initial dataset - number of records : 892
+2024-02-23 10:05:17,338 - INFO - Records that need coordinates : 50
+2024-02-23 10:05:17,416 - INFO - Processing URL: https://www.zomato.com/agra/sheroes-hangout-tajganj/info
+2024-02-23 10:05:32,101 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:05:32,166 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:05:32,167 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:05:32,212 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:05:32,312 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/12930612cd3d9b8fb074a1a50654ecd1
+2024-02-23 10:05:38,382 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:05:45,557 - ERROR - An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-02-23 10:28:44,424 - INFO - Executing merge.py...
+2024-02-23 10:28:45,409 - INFO - Executing get_coordinates.py...
+2024-02-23 10:28:46,456 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-23 10:28:46,457 - INFO - Initial dataset - number of records : 892
+2024-02-23 10:28:46,460 - INFO - Records that need coordinates : 50
+2024-02-23 10:28:46,522 - INFO - Processing URL: https://www.zomato.com/agra/sheroes-hangout-tajganj/info
+2024-02-23 10:28:54,750 - ERROR - An error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD845E42+3538674]
+	(No symbol) [0x00007FF6DD464C02]
+	(No symbol) [0x00007FF6DD315AEB]
+	(No symbol) [0x00007FF6DD304784]
+	(No symbol) [0x00007FF6DD303CD3]
+	(No symbol) [0x00007FF6DD302EFC]
+	(No symbol) [0x00007FF6DD302E9F]
+	(No symbol) [0x00007FF6DD3024B3]
+	(No symbol) [0x00007FF6DD321953]
+	(No symbol) [0x00007FF6DD39C13E]
+	(No symbol) [0x00007FF6DD37EE53]
+	(No symbol) [0x00007FF6DD34F514]
+	(No symbol) [0x00007FF6DD350631]
+	GetHandleVerifier [0x00007FF6DD876CAD+3738973]
+	GetHandleVerifier [0x00007FF6DD8CC506+4089270]
+	GetHandleVerifier [0x00007FF6DD8C4823+4057299]
+	GetHandleVerifier [0x00007FF6DD595C49+720121]
+	(No symbol) [0x00007FF6DD47126F]
+	(No symbol) [0x00007FF6DD46C304]
+	(No symbol) [0x00007FF6DD46C432]
+	(No symbol) [0x00007FF6DD45BD04]
+	BaseThreadInitThunk [0x00007FFC9A667344+20]
+	RtlUserThreadStart [0x00007FFC9B2226B1+33]
+
+2024-02-23 10:28:54,905 - ERROR - An error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD845E42+3538674]
+	(No symbol) [0x00007FF6DD464C02]
+	(No symbol) [0x00007FF6DD315AEB]
+	(No symbol) [0x00007FF6DD304784]
+	(No symbol) [0x00007FF6DD303CD3]
+	(No symbol) [0x00007FF6DD302EFC]
+	(No symbol) [0x00007FF6DD302E9F]
+	(No symbol) [0x00007FF6DD3024B3]
+	(No symbol) [0x00007FF6DD321953]
+	(No symbol) [0x00007FF6DD39C13E]
+	(No symbol) [0x00007FF6DD37EE53]
+	(No symbol) [0x00007FF6DD34F514]
+	(No symbol) [0x00007FF6DD350631]
+	GetHandleVerifier [0x00007FF6DD876CAD+3738973]
+	GetHandleVerifier [0x00007FF6DD8CC506+4089270]
+	GetHandleVerifier [0x00007FF6DD8C4823+4057299]
+	GetHandleVerifier [0x00007FF6DD595C49+720121]
+	(No symbol) [0x00007FF6DD47126F]
+	(No symbol) [0x00007FF6DD46C304]
+	(No symbol) [0x00007FF6DD46C432]
+	(No symbol) [0x00007FF6DD45BD04]
+	BaseThreadInitThunk [0x00007FFC9A667344+20]
+	RtlUserThreadStart [0x00007FFC9B2226B1+33]
+
+2024-02-23 10:28:55,041 - ERROR - An error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD845E42+3538674]
+	(No symbol) [0x00007FF6DD464C02]
+	(No symbol) [0x00007FF6DD315AEB]
+	(No symbol) [0x00007FF6DD304784]
+	(No symbol) [0x00007FF6DD303CD3]
+	(No symbol) [0x00007FF6DD302EFC]
+	(No symbol) [0x00007FF6DD302E9F]
+	(No symbol) [0x00007FF6DD3024B3]
+	(No symbol) [0x00007FF6DD321953]
+	(No symbol) [0x00007FF6DD39C13E]
+	(No symbol) [0x00007FF6DD37EE53]
+	(No symbol) [0x00007FF6DD34F514]
+	(No symbol) [0x00007FF6DD350631]
+	GetHandleVerifier [0x00007FF6DD876CAD+3738973]
+	GetHandleVerifier [0x00007FF6DD8CC506+4089270]
+	GetHandleVerifier [0x00007FF6DD8C4823+4057299]
+	GetHandleVerifier [0x00007FF6DD595C49+720121]
+	(No symbol) [0x00007FF6DD47126F]
+	(No symbol) [0x00007FF6DD46C304]
+	(No symbol) [0x00007FF6DD46C432]
+	(No symbol) [0x00007FF6DD45BD04]
+	BaseThreadInitThunk [0x00007FFC9A667344+20]
+	RtlUserThreadStart [0x00007FFC9B2226B1+33]
+
+2024-02-23 10:28:55,112 - ERROR - An error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD845E42+3538674]
+	(No symbol) [0x00007FF6DD464C02]
+	(No symbol) [0x00007FF6DD315AEB]
+	(No symbol) [0x00007FF6DD304784]
+	(No symbol) [0x00007FF6DD303CD3]
+	(No symbol) [0x00007FF6DD302EFC]
+	(No symbol) [0x00007FF6DD302E9F]
+	(No symbol) [0x00007FF6DD3024B3]
+	(No symbol) [0x00007FF6DD321953]
+	(No symbol) [0x00007FF6DD39C13E]
+	(No symbol) [0x00007FF6DD37EE53]
+	(No symbol) [0x00007FF6DD34F514]
+	(No symbol) [0x00007FF6DD350631]
+	GetHandleVerifier [0x00007FF6DD876CAD+3738973]
+	GetHandleVerifier [0x00007FF6DD8CC506+4089270]
+	GetHandleVerifier [0x00007FF6DD8C4823+4057299]
+	GetHandleVerifier [0x00007FF6DD595C49+720121]
+	(No symbol) [0x00007FF6DD47126F]
+	(No symbol) [0x00007FF6DD46C304]
+	(No symbol) [0x00007FF6DD46C432]
+	(No symbol) [0x00007FF6DD45BD04]
+	BaseThreadInitThunk [0x00007FFC9A667344+20]
+	RtlUserThreadStart [0x00007FFC9B2226B1+33]
+
+2024-02-23 10:28:55,146 - ERROR - An error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD845E42+3538674]
+	(No symbol) [0x00007FF6DD464C02]
+	(No symbol) [0x00007FF6DD315AEB]
+	(No symbol) [0x00007FF6DD304784]
+	(No symbol) [0x00007FF6DD303CD3]
+	(No symbol) [0x00007FF6DD302EFC]
+	(No symbol) [0x00007FF6DD302E9F]
+	(No symbol) [0x00007FF6DD3024B3]
+	(No symbol) [0x00007FF6DD321953]
+	(No symbol) [0x00007FF6DD39C13E]
+	(No symbol) [0x00007FF6DD37EE53]
+	(No symbol) [0x00007FF6DD34F514]
+	(No symbol) [0x00007FF6DD350631]
+	GetHandleVerifier [0x00007FF6DD876CAD+3738973]
+	GetHandleVerifier [0x00007FF6DD8CC506+4089270]
+	GetHandleVerifier [0x00007FF6DD8C4823+4057299]
+	GetHandleVerifier [0x00007FF6DD595C49+720121]
+	(No symbol) [0x00007FF6DD47126F]
+	(No symbol) [0x00007FF6DD46C304]
+	(No symbol) [0x00007FF6DD46C432]
+	(No symbol) [0x00007FF6DD45BD04]
+	BaseThreadInitThunk [0x00007FFC9A667344+20]
+	RtlUserThreadStart [0x00007FFC9B2226B1+33]
+
+2024-02-23 10:29:19,028 - INFO - Executing merge.py...
+2024-02-23 10:29:19,808 - INFO - Executing get_coordinates.py...
+2024-02-23 10:29:19,809 - INFO - Executing SQL_Load.py...
+2024-02-23 10:29:19,809 - INFO - Pipeline execution completed successfully.
+2024-02-23 10:29:19,813 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.826713 seconds
+2024-02-23 11:02:19,555 - INFO - Executing merge.py...
+2024-02-23 11:02:20,196 - INFO - Executing get_coordinates.py...
+2024-02-23 11:02:20,197 - INFO - Executing SQL_Load.py...
+2024-02-23 11:02:20,198 - INFO - Pipeline execution completed successfully.
+2024-02-23 11:02:20,201 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.687957 seconds
+2024-02-23 11:06:45,516 - INFO - Executing merge.py...
+2024-02-23 11:06:46,438 - INFO - Executing get_coordinates.py...
+2024-02-23 11:06:46,439 - INFO - Executing SQL_Load.py...
+2024-02-23 11:06:46,439 - INFO - Pipeline execution completed successfully.
+2024-02-23 11:06:46,441 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.970357 seconds
+2024-02-23 11:09:09,696 - INFO - Executing merge.py...
+2024-02-23 11:09:13,212 - INFO - Executing get_coordinates.py...
+2024-02-23 11:09:13,213 - INFO - Executing SQL_Load.py...
+2024-02-23 11:09:13,213 - INFO - Pipeline execution completed successfully.
+2024-02-23 11:09:13,215 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 3.557086 seconds
+2024-02-23 11:12:27,631 - INFO - Executing merge.py...
+2024-02-23 11:12:28,408 - ERROR - Pipeline execution failed.
+2024-02-23 11:16:25,262 - INFO - Executing merge.py...
+2024-02-23 11:16:25,968 - ERROR - Pipeline execution failed.
+2024-02-23 11:16:41,852 - INFO - Executing merge.py...
+2024-02-23 11:16:42,546 - ERROR - Pipeline execution failed.
+2024-02-23 11:19:03,246 - INFO - Executing merge.py...
+2024-02-23 11:19:03,970 - ERROR - Pipeline execution failed.
+2024-02-23 11:20:06,968 - INFO - Executing merge.py...
+2024-02-23 11:20:15,745 - INFO - Executing merge.py...
+2024-02-23 11:20:16,432 - ERROR - Pipeline execution failed.
+2024-02-23 11:21:03,348 - INFO - Executing merge.py...
+2024-02-23 11:23:27,691 - INFO - Executing merge.py...
+2024-02-23 11:24:12,667 - INFO - Executing merge.py...
+2024-02-23 11:24:13,382 - ERROR - Pipeline execution failed.
+2024-02-23 11:24:49,826 - INFO - Executing merge.py...
+2024-02-23 11:24:50,671 - ERROR - Pipeline execution failed.
+2024-02-23 11:25:15,689 - INFO - Executing merge.py...
+2024-02-23 11:25:18,795 - ERROR - Pipeline execution failed.
+2024-02-23 11:26:23,486 - INFO - Executing merge.py...
+2024-02-23 11:26:24,215 - ERROR - Pipeline execution failed.
+2024-02-23 11:26:36,502 - INFO - Executing merge.py...
+2024-02-23 11:26:39,734 - INFO - Executing get_coordinates.py...
+2024-02-23 11:26:39,734 - INFO - Executing SQL_Load.py...
+2024-02-23 11:26:39,734 - INFO - Pipeline execution completed successfully.
+2024-02-23 11:26:39,738 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 3.281651 seconds

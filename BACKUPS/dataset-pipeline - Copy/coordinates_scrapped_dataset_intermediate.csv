@@ -1,0 +1,4 @@
+NAME,PRICE,CUSINE_CATEGORY,CITY,REGION,URL,CUSINE TYPE,RATING,VOTES,Latitude,Longitude
+Kerala Flood Relief,100,['Indian'],Kochi,Angamali,https://www.zomato.com/kochi/kerala-flood-relief-angamali/info,Quick Bites,4.9,302.0,,
+CTR,150,['South Indian'],Bengaluru,Malleshwaram,https://www.zomato.com/bangalore/ctr-malleshwaram-bangalore/info,Quick Bites,4.8,4490.0,,
+Royal China,2500,"['Chinese', 'Cantonese']",Pune,Mundhwa,https://www.zomato.com/pune/royal-china-mundhwa/info,Fine Dining,4.8,401.0,,

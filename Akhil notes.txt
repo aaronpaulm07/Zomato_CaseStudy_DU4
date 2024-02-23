@@ -1,0 +1,9 @@
+pandas- merge files   //done
+delimiter vech seperate    //done
+lattitude -scrap - beautifulsoup  
+load into table
+single file
+cleaning - remove ,minof()
+load into sql - also log
+sql to tableau connect
+
