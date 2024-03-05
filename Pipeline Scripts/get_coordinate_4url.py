@@ -10,7 +10,6 @@ log_file = r"Pipeline Scripts\Log\LOG-Pipeline.txt"
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-
 def coordinates_extractor(website_url):
     chrome_options = Options()
     chrome_options.add_argument('--ignore-ssl-errors=yes')
@@ -46,10 +45,10 @@ def coordinates_extractor(website_url):
                 if matches:
                     # Print the coordinates found
                     lat, lon = matches[0].split(',')
-                    if (lat, lon) not in found_coordinates:
-                        found_coordinates.add((lat, lon))
+                    # if (lat, lon) not in found_coordinates:
+                    #     found_coordinates.add((lat, lon))
                         # print(lat,',',lon)
-                        return lat, lon
+                    return lat, lon
                         # Stop after finding the first unique set of coordinates
     except Exception as e:
         logging.error(f"An error occurred: {e}")

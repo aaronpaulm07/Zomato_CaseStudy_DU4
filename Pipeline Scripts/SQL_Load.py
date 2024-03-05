@@ -4,10 +4,10 @@ from SQL_connection import connect_to_database,log_subprocess_message
 from datetime import datetime
 import logging
 
-log_file = r"Pipeline Scripts\Log\LOG-Pipeline.txt"
+log_file = r"Log\LOG-Pipeline.txt"
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-filename = r"Pipeline Scripts\Datass\coordinates_scrapped_dataset.csv"
+filename = r"Datass\coordinates_scrapped_dataset.csv"
 connection = connect_to_database()
 
 def insert_into_restaurants(connection, data):
@@ -24,8 +24,8 @@ def insert_into_restaurants(connection, data):
             latitude = None
             longitude = None
 
-        if latitude is not None:
-          print(latitude, longitude)
+        # if latitude is not None:
+        #   print(latitude, longitude)
         # Convert Price to integer
         price = int(data[1])
         votes = int(float(data[8]))
@@ -36,7 +36,7 @@ def insert_into_restaurants(connection, data):
 
         # Insert into Restaurants table
         cursor.execute("""
-            INSERT INTO Restaurants (Name, Price, City, Region, URL, CuisineType, Rating, Latitude, Longitude, Votes)
+            INSERT INTO Restaurants (Name, Price, City, Region, URL, Cuisine_Type, Rating, Latitude, Longitude, Votes)
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             RETURNING ID
         """, (data[0], price, data[3], data[4], data[5], data[6], rating, latitude, longitude, votes))
@@ -104,6 +104,7 @@ def clear_tables(connection):
 # Insert data into Restaurants table
 if connection:
     clear_tables(connection)
+    print("tables cleared")
     start_time = datetime.now()
     count=0
     error_rows=0
@@ -116,6 +117,7 @@ if connection:
            try:
                insert_into_restaurants(connection, row)
                count+=1
+            #    print(count)
            except Exception as e:
                print(f"Error inserting row: {e}")
                error_rows+=1    

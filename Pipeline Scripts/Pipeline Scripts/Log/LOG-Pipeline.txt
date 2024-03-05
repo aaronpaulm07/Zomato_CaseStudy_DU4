@@ -1,0 +1,1491 @@
+2024-02-27 15:40:58,291 - INFO - Executing merge.py...
+2024-02-27 15:40:58,340 - ERROR - Pipeline execution failed.
+2024-02-27 15:48:53,014 - INFO - Executing merge.py...
+2024-02-27 15:48:53,055 - ERROR - Pipeline execution failed.
+2024-02-27 15:49:20,463 - INFO - Executing merge.py...
+2024-02-27 15:49:21,218 - INFO - Executing get_coordinates.py...
+2024-02-27 15:49:21,218 - INFO - Executing SQL_Load.py...
+2024-02-27 15:49:21,218 - INFO - Pipeline execution completed successfully.
+2024-02-27 15:49:21,221 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.801578 seconds
+2024-02-27 16:07:37,161 - INFO - Executing merge.py...
+2024-02-27 16:07:37,981 - INFO - Executing get_coordinates.py...
+2024-02-27 16:07:39,606 - ERROR - Scrapping - CSV file not found at: Pipeline Scripts\Datass\merged_dataset.csv
+2024-02-27 16:07:39,702 - ERROR - Pipeline execution failed.
+2024-02-27 16:08:56,141 - INFO - Executing merge.py...
+2024-02-27 16:08:57,076 - INFO - Executing get_coordinates.py...
+2024-02-27 16:08:57,992 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-27 16:08:57,993 - INFO - Initial dataset - number of records : 892
+2024-02-27 16:08:58,002 - INFO - Records that need coordinates : 50
+2024-02-27 16:08:58,074 - INFO - Processing URL: https://www.zomato.com/agra/sheroes-hangout-tajganj/info
+2024-02-27 16:09:28,545 - INFO - Processing URL: https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info
+2024-02-27 16:09:41,767 - INFO - Processing URL: https://www.zomato.com/agra/tease-me-rooftop-tea-boutique-tajganj/info
+2024-02-27 16:09:41,768 - INFO - Processing URL: https://www.zomato.com/agra/cafe-turquoise-cottage-tajganj/info
+2024-02-27 16:09:41,768 - INFO - Processing URL: https://www.zomato.com/agra/ddelicia-tajganj/info
+2024-02-27 16:09:41,770 - INFO - Processing URL: https://www.zomato.com/agra/amritsari-tandoori-kulcha-wa-choor-choor-naan-civil-lines/info
+2024-02-27 16:09:49,558 - INFO - Processing URL: https://www.zomato.com/agra/grey-house-cafe-tajganj/info
+2024-02-27 16:09:49,559 - INFO - Processing URL: https://www.zomato.com/agra/pracheen-petha-3-civil-lines/info
+2024-02-27 16:09:49,559 - INFO - Processing URL: https://www.zomato.com/agra/zam-zam-chicken-corner-sikandra/info
+2024-02-27 16:09:51,170 - INFO - Processing URL: https://www.zomato.com/agra/the-culture-of-spices-kitchen-lounge-sikandra/info
+2024-02-27 16:09:57,352 - INFO - Progress saved. Processed 10 URLs.
+2024-02-27 16:09:57,353 - INFO - Processing URL: https://www.zomato.com/agra/rajput-bakers-kuberpur/info
+2024-02-27 16:09:58,686 - INFO - Processing URL: https://www.zomato.com/agra/jux-pux-agra-cantt/info
+2024-02-27 16:09:58,717 - INFO - Processing URL: https://www.zomato.com/agra/prasadam-1-khandari/info
+2024-02-27 16:09:59,218 - INFO - Processing URL: https://www.zomato.com/agra/hare-krishna-sweets-and-restaurant-tajganj/info
+2024-02-27 16:10:02,805 - INFO - Processing URL: https://www.zomato.com/agra/kohinoor-bar-restaurant-civil-lines/info
+2024-02-27 16:10:02,807 - INFO - Processing URL: https://www.zomato.com/agra/punjabi-tadka-1-sikandra/info
+2024-02-27 16:12:29,887 - INFO - Processing URL: https://www.zomato.com/agra/crazy-burger-sikandra/info
+2024-02-27 16:12:29,888 - INFO - Processing URL: https://www.zomato.com/agra/shanti-sweets-kamla-nagar/info
+2024-02-27 16:12:29,889 - INFO - Processing URL: https://www.zomato.com/agra/surbhi-bar-restaurant-mantola/info
+2024-02-27 16:12:29,890 - INFO - Processing URL: https://www.zomato.com/agra/brijwasi-bhojnalaya-rakabganj/info
+2024-02-27 16:12:58,931 - INFO - Progress saved. Processed 20 URLs.
+2024-02-27 16:12:58,931 - INFO - Processing URL: https://www.zomato.com/agra/apna-bhojnalaya-shahganj/info
+2024-02-27 16:12:58,934 - INFO - Processing URL: https://www.zomato.com/agra/jain-sweet-and-milk-corner-sikandra/info
+2024-02-27 16:12:58,937 - INFO - Processing URL: https://www.zomato.com/agra/captains-cafe-sikandra/info
+2024-02-27 16:12:58,937 - INFO - Processing URL: https://www.zomato.com/agra/pari-family-restaurant-sikandra/info
+2024-02-27 16:12:58,938 - INFO - Processing URL: https://www.zomato.com/agra/raj-milk-product-and-sweets-tajganj/info
+2024-02-27 16:12:58,938 - INFO - Processing URL: https://www.zomato.com/agra/anil-gajak-palace-civil-lines/info
+2024-02-27 16:12:58,939 - INFO - Processing URL: https://www.zomato.com/agra/ram-babu-parathe-wale-sikandra/info
+2024-02-27 16:12:58,941 - INFO - Processing URL: https://www.zomato.com/agra/agra-food-court-arjun-nagar/info
+2024-02-27 16:12:58,941 - INFO - Processing URL: https://www.zomato.com/agra/ajs-cafe-bakery-agra-cantt/info
+2024-02-27 16:12:58,942 - INFO - Processing URL: https://www.zomato.com/agra/kesar-restaurant-tajganj/info
+2024-02-27 16:12:58,946 - INFO - Progress saved. Processed 30 URLs.
+2024-02-27 16:12:58,946 - INFO - Processing URL: https://www.zomato.com/agra/ghatu-shyam-ji-sweets-civil-lines/info
+2024-02-27 16:12:58,948 - INFO - Processing URL: https://www.zomato.com/agra/baba-chicken-mutton-sikandra/info
+2024-02-27 16:12:58,950 - INFO - Processing URL: https://www.zomato.com/agra/abdul-sattar-nashte-wale-mantola/info
+2024-02-27 16:12:58,951 - INFO - Processing URL: https://www.zomato.com/agra/mkop-civil-lines/info
+2024-02-27 16:13:27,757 - INFO - Processing URL: https://www.zomato.com/agra/sadar-wala-shahganj/info
+2024-02-27 16:13:51,494 - INFO - Processing URL: https://www.zomato.com/agra/shri-thakur-ji-misthan-bhandar-1-kamla-nagar/info
+2024-02-27 16:13:51,496 - INFO - Processing URL: https://www.zomato.com/agra/sugar-n-thyme-tajganj/info
+2024-02-27 16:13:51,500 - INFO - Processing URL: https://www.zomato.com/agra/taj-galaxy-tajganj/info
+2024-02-27 16:13:51,505 - INFO - Processing URL: https://www.zomato.com/agra/kings-pizza-and-burger-rakabganj/info
+2024-02-27 16:14:02,221 - INFO - Processing URL: https://www.zomato.com/agra/chhabras-chicken-corner-shahganj/info
+2024-02-27 16:14:02,229 - INFO - Progress saved. Processed 40 URLs.
+2024-02-27 16:14:02,230 - INFO - Processing URL: https://www.zomato.com/agra/pind-balluchi-sikandra/info
+2024-02-27 16:14:02,231 - INFO - Processing URL: https://www.zomato.com/agra/sri-dauji-restaurant-kamla-nagar/info
+2024-02-27 16:14:02,233 - INFO - Processing URL: https://www.zomato.com/agra/ravi-patties-mocktail-point-shahganj/info
+2024-02-27 16:14:35,130 - INFO - Processing URL: https://www.zomato.com/agra/punjabi-rasoi-agra-cantt/info
+2024-02-27 16:14:35,132 - INFO - Processing URL: https://www.zomato.com/agra/wow-vada-pav-sikandra/info
+2024-02-27 16:14:35,133 - INFO - Processing URL: https://www.zomato.com/agra/agra-darbar-rakabganj/info
+2024-02-27 16:14:35,135 - INFO - Processing URL: https://www.zomato.com/agra/spice-treat-dhaba-tajganj/info
+2024-02-27 16:14:35,136 - INFO - Processing URL: https://www.zomato.com/agra/delhi-darbar-restaurant-rakabganj/info
+2024-02-27 16:14:35,139 - INFO - Processing URL: https://www.zomato.com/agra/quality-restaurant-tajganj/info
+2024-02-27 16:14:35,140 - INFO - Processing URL: https://www.zomato.com/agra/eating-meeting-restaurant-tajganj/info
+2024-02-27 16:14:35,147 - INFO - Progress saved. Processed 50 URLs.
+2024-02-27 16:14:35,477 - INFO - Count of records with coordinates: 43
+2024-02-27 16:14:35,501 - INFO - DataFrame with coordinates saved to: Datass\coordinates_scrapped_dataset.csv
+2024-02-27 16:14:35,501 - INFO - Count of records : 892
+2024-02-27 16:14:35,502 - INFO - Scrapping Completed!!!
+2024-02-27 16:14:35,672 - INFO - Executing SQL_Load.py...
+2024-02-27 16:29:32,225 - ERROR - Scrapping - CSV file not found at: Datass\merged_dataset.csv
+2024-02-27 16:34:22,083 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-27 16:34:22,084 - INFO - Initial dataset - number of records : 103132
+2024-02-27 16:34:22,174 - INFO - Records that need coordinates : 1000
+2024-02-27 16:34:22,367 - INFO - Processing URL: https://www.zomato.com/mangalore/pabbas-lalbagh/info
+2024-02-27 16:34:47,615 - INFO - Processing URL: https://www.zomato.com/la-kheer-deli-food-truck/info
+2024-02-27 16:34:48,795 - INFO - Processing URL: https://www.zomato.com/nagpur/falani-mastani-dharampeth/info
+2024-02-27 16:34:52,879 - INFO - Processing URL: https://www.zomato.com/pune/asia-kitchen-by-mainland-china-dhole-patil-road/info
+2024-02-27 16:34:52,880 - INFO - Processing URL: https://www.zomato.com/hyderabad/trio-la-patisserie-bowenpally-secunderabad/info
+2024-02-27 16:34:52,882 - INFO - Processing URL: https://www.zomato.com/hyderabad/natural-ice-cream-jubilee-hills/info
+2024-02-27 16:34:52,885 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-badshah-connaught-place-new-delhi/info
+2024-02-27 16:35:08,979 - INFO - Processing URL: https://www.zomato.com/raipur/cafe-junoon-civil-lines/info
+2024-02-27 16:35:08,980 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/chilis-grill-bar-sahid-nagar-bhubaneshwar/info
+2024-02-27 16:35:31,532 - INFO - Processing URL: https://www.zomato.com/bhopal/moshiks-homemade-chocolates-gulmohar-colony/info
+2024-02-27 16:35:31,567 - INFO - Progress saved. Processed 10 URLs.
+2024-02-27 16:35:31,567 - INFO - Processing URL: https://www.zomato.com/hyderabad/euphoria-sainikpuri-secunderabad/info
+2024-02-27 16:35:31,568 - INFO - Processing URL: https://www.zomato.com/bangalore/byg-brewski-brewing-company-sarjapur-road-bangalore/info
+2024-02-27 16:35:31,569 - INFO - Processing URL: https://www.zomato.com/pune/sentosa-multicuisine-restaurant-ravet/info
+2024-02-27 16:35:31,570 - INFO - Processing URL: https://www.zomato.com/vadodara/cafe-fitoor-vadiwadi/info
+2024-02-27 16:35:31,572 - INFO - Processing URL: https://www.zomato.com/kolkata/naturals-ice-cream-park-street-area/info
+2024-02-27 16:35:31,572 - INFO - Processing URL: https://www.zomato.com/mumbai/hitchki-bandra-kurla-complex/info
+2024-02-27 16:35:31,573 - INFO - Processing URL: https://www.zomato.com/coimbatore/the-chocolate-room-rs-puram/info
+2024-02-27 16:35:31,574 - INFO - Processing URL: https://www.zomato.com/vadodara/indish-lounge-1-gotri/info
+2024-02-27 16:35:31,575 - INFO - Processing URL: https://www.zomato.com/mysore/onesta-gokulam/info
+2024-02-27 16:35:31,579 - INFO - Processing URL: https://www.zomato.com/ncr/scene-high-bar-1-sohna-road-gurgaon/info
+2024-02-27 16:35:36,620 - INFO - Progress saved. Processed 20 URLs.
+2024-02-27 16:35:36,620 - INFO - Processing URL: https://www.zomato.com/coimbatore/burger-ka-baap-peelamedu/info
+2024-02-27 16:35:36,623 - INFO - Processing URL: https://www.zomato.com/kolkata/the-cake-story-by-ocean-grill-sector-5-salt-lake/info
+2024-02-27 16:36:08,364 - INFO - Processing URL: https://www.zomato.com/hoglatto/info
+2024-02-27 16:36:08,365 - INFO - Processing URL: https://www.zomato.com/rajkot/la-pinoz-pizza-150-feet-ring-road/info
+2024-02-27 16:36:08,371 - INFO - Processing URL: https://www.zomato.com/kochi/kerala-flood-relief-angamali/info
+2024-02-27 16:36:08,372 - INFO - Processing URL: https://www.zomato.com/kolkata/land-of-cakes-baguihati/info
+2024-02-27 16:36:08,374 - INFO - Processing URL: https://www.zomato.com/pune/level-5-bistro-and-bar-erandwane/info
+2024-02-27 16:36:08,375 - INFO - Processing URL: https://www.zomato.com/jodhpur/cafe--sardarpura/info
+2024-02-27 16:36:08,378 - INFO - Processing URL: https://www.zomato.com/amritsar/la-roma-pizzeria-ranjit-avenue/info
+2024-02-27 16:36:08,384 - INFO - Processing URL: https://www.zomato.com/lucknow/sharma-ji-ki-chai-lalbagh/info
+2024-02-27 16:36:08,420 - INFO - Progress saved. Processed 30 URLs.
+2024-02-27 16:36:08,421 - INFO - Processing URL: https://www.zomato.com/chennai/bhangra-kanathur/info
+2024-02-27 16:36:08,424 - INFO - Processing URL: https://www.zomato.com/agra/sheroes-hangout-tajganj/info
+2024-02-27 16:36:08,426 - INFO - Processing URL: https://www.zomato.com/mumbai/trumpet-sky-lounge-andheri-lokhandwala/info
+2024-02-27 16:36:43,737 - INFO - Processing URL: https://www.zomato.com/surat/level-5-terrace-restro-cafe-adajan-gam/info
+2024-02-27 16:36:43,738 - INFO - Processing URL: https://www.zomato.com/ncr/hudson-oven-delhi-university-gtb-nagar-new-delhi/info
+2024-02-27 16:37:51,961 - INFO - Processing URL: https://www.zomato.com/ncr/the-hook-sector-29-gurgaon/info
+2024-02-27 16:37:51,963 - INFO - Processing URL: https://www.zomato.com/bhopal/the-public-house-café-n-restaurant-maharana-pratap-nagar/info
+2024-02-27 16:37:51,964 - INFO - Processing URL: https://www.zomato.com/chandigarh/nandos-chandigarh-industrial-area/info
+2024-02-27 16:37:51,965 - INFO - Processing URL: https://www.zomato.com/meerut/the-yellow-chilli-shastri-nagar/info
+2024-02-27 16:37:51,965 - INFO - Processing URL: https://www.zomato.com/jaipur/zolocrust-hotel-clarks-amer-malviya-nagar/info
+2024-02-27 16:37:51,998 - INFO - Progress saved. Processed 40 URLs.
+2024-02-27 16:37:51,998 - INFO - Processing URL: https://www.zomato.com/ncr/indian-grill-room-golf-course-road-gurgaon/info
+2024-02-27 16:37:51,999 - INFO - Processing URL: https://www.zomato.com/bangalore/belgian-waffle-factory-brigade-road/info
+2024-02-27 16:37:52,001 - INFO - Processing URL: https://www.zomato.com/jaipur/tapri-central-c-scheme/info
+2024-02-27 16:37:52,001 - INFO - Processing URL: https://www.zomato.com/ranchi/kaveri-restaurant-main-road-hindpiri/info
+2024-02-27 16:37:52,002 - INFO - Processing URL: https://www.zomato.com/pune/santè-spa-cuisine-koregaon-park/info
+2024-02-27 16:37:52,016 - INFO - Processing URL: https://www.zomato.com/allahabad/eat-on-civil-lines/info
+2024-02-27 16:37:52,017 - INFO - Processing URL: https://www.zomato.com/ncr/sanadige-chanakyapuri-new-delhi/info
+2024-02-27 16:37:52,018 - INFO - Processing URL: https://www.zomato.com/ncr/ustad-greater-kailash-gk-1-new-delhi/info
+2024-02-27 16:37:52,020 - INFO - Processing URL: https://www.zomato.com/ncr/cia-call-it-asiian-greater-kailash-gk-2-new-delhi/info
+2024-02-27 16:37:52,020 - INFO - Processing URL: https://www.zomato.com/ncr/cafe-pasticcino-dlf-phase-1-gurgaon/info
+2024-02-27 16:37:52,050 - INFO - Progress saved. Processed 50 URLs.
+2024-02-27 16:37:52,050 - INFO - Processing URL: https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info
+2024-02-27 16:38:05,396 - INFO - Processing URL: https://www.zomato.com/mumbai/dessertino-kandivali-west/info
+2024-02-27 16:38:05,397 - INFO - Processing URL: https://www.zomato.com/pune/chilis-american-grill-bar-viman-nagar/info
+2024-02-27 16:38:05,399 - INFO - Processing URL: https://www.zomato.com/varanasi/kashi-chat-bhandar-godaulia/info
+2024-02-27 16:38:05,399 - INFO - Processing URL: https://www.zomato.com/madurai/hotel-sree-sabarees-southern-railway-colony/info
+2024-02-27 16:38:05,400 - INFO - Processing URL: https://www.zomato.com/nagpur/barbecue-restaurant-sadar/info
+2024-02-27 16:39:49,660 - INFO - Processing URL: https://www.zomato.com/pune/onesta-kalyani-nagar/info
+2024-02-27 16:39:49,661 - INFO - Processing URL: https://www.zomato.com/pune/pop-tates-viman-nagar/info
+2024-02-27 16:40:58,767 - INFO - Processing URL: https://www.zomato.com/pune/gong-baner/info
+2024-02-27 16:40:58,768 - INFO - Processing URL: https://www.zomato.com/ncr/fourty-four-sector-44-noida/info
+2024-02-27 16:40:58,797 - INFO - Progress saved. Processed 60 URLs.
+2024-02-27 16:40:58,798 - INFO - Processing URL: https://www.zomato.com/ludhiana/ice-cream-studio-sarabha-nagar/info
+2024-02-27 16:40:58,798 - INFO - Processing URL: https://www.zomato.com/aurangabad/green-leaf-cidco/info
+2024-02-27 16:40:58,800 - INFO - Processing URL: https://www.zomato.com/madurai/zaitoon-sathamangalam/info
+2024-02-27 16:40:58,801 - INFO - Processing URL: https://www.zomato.com/pune/drink-your-selfie-viman-nagar/info
+2024-02-27 16:42:09,612 - INFO - Processing URL: https://www.zomato.com/ncr/housefull-cafe-lounge-delhi-university-gtb-nagar-new-delhi/info
+2024-02-27 16:42:09,617 - INFO - Processing URL: https://www.zomato.com/ncr/dutch-oven-1-malviya-nagar-new-delhi/info
+2024-02-27 16:42:09,622 - INFO - Processing URL: https://www.zomato.com/jodhpur/khaas-bagh-ratanada/info
+2024-02-27 16:42:09,623 - INFO - Processing URL: https://www.zomato.com/kanpur/mocha-mall-road/info
+2024-02-27 16:42:09,624 - INFO - Processing URL: https://www.zomato.com/chennai/abs-absolute-barbecues-velachery/info
+2024-02-27 16:42:09,625 - INFO - Processing URL: https://www.zomato.com/chennai/milkshake-and-co-besant-nagar/info
+2024-02-27 16:42:09,661 - INFO - Progress saved. Processed 70 URLs.
+2024-02-27 16:42:09,661 - INFO - Processing URL: https://www.zomato.com/kanpur/busy-beans-arya-nagar/info
+2024-02-27 16:42:09,667 - INFO - Processing URL: https://www.zomato.com/chandigarh/chilis-chandigarh-industrial-area/info
+2024-02-27 16:42:09,672 - INFO - Processing URL: https://www.zomato.com/chennai/bombay-lassi-1-triplicane/info
+2024-02-27 16:42:09,673 - INFO - Processing URL: https://www.zomato.com/ahmedabad/huber-holly-1-bodakdev/info
+2024-02-27 16:42:09,675 - INFO - Processing URL: https://www.zomato.com/udaipur/kabab-mistri-fateh-sagar/info
+2024-02-27 16:42:09,676 - INFO - Processing URL: https://www.zomato.com/siliguri/dhaba-by-amber-khalpara/info
+2024-02-27 16:42:09,676 - INFO - Processing URL: https://www.zomato.com/jabalpur/best-choice-napier-town/info
+2024-02-27 16:42:09,678 - INFO - Processing URL: https://www.zomato.com/kochi/nasi-and-mee-mg-road/info
+2024-02-27 16:42:09,682 - INFO - Processing URL: https://www.zomato.com/indore/sd-21-hotel-somdeep-palace-vijay-nagar/info
+2024-02-27 16:42:09,686 - INFO - Processing URL: https://www.zomato.com/indore/mustang-hotel-somdeep-palace-vijay-nagar/info
+2024-02-27 16:42:09,711 - INFO - Progress saved. Processed 80 URLs.
+2024-02-27 16:42:09,711 - INFO - Processing URL: https://www.zomato.com/vadodara/jassi-de-parathe-alkapuri/info
+2024-02-27 16:42:09,723 - INFO - Processing URL: https://www.zomato.com/kolhapur/dehaati-shahupuri/info
+2024-02-27 16:42:09,727 - INFO - Processing URL: https://www.zomato.com/mumbai/the-northern-vibe-powai/info
+2024-02-27 16:42:09,729 - INFO - Processing URL: https://www.zomato.com/hyderabad/chilis-american-grill-bar-banjara-hills/info
+2024-02-27 16:42:30,851 - INFO - Processing URL: https://www.zomato.com/mumbai/downtown-china-andheri-lokhandwala/info
+2024-02-27 16:42:43,272 - INFO - Processing URL: https://www.zomato.com/bangalore/ctr-malleshwaram-bangalore/info
+2024-02-27 16:42:43,272 - INFO - Processing URL: https://www.zomato.com/hyderabad/the-roastery-coffee-house-banjara-hills/info
+2024-02-27 16:42:43,277 - INFO - Processing URL: https://www.zomato.com/gwalior/masala-darbar-naya-bazaar/info
+2024-02-27 16:42:43,278 - INFO - Processing URL: https://www.zomato.com/pune/sentosa-highway-ravet/info
+2024-02-27 16:42:43,279 - INFO - Processing URL: https://www.zomato.com/guwahati/mocha-christian-basti/info
+2024-02-27 16:42:43,300 - INFO - Progress saved. Processed 90 URLs.
+2024-02-27 16:42:43,300 - INFO - Processing URL: https://www.zomato.com/mumbai/rajdhani-ghatkopar-west/info
+2024-02-27 16:42:43,302 - INFO - Processing URL: https://www.zomato.com/ncr/chilis-grill-bar-vasant-kunj-new-delhi/info
+2024-02-27 16:42:43,306 - INFO - Processing URL: https://www.zomato.com/pune/royal-china-mundhwa/info
+2024-02-27 16:42:43,308 - INFO - Processing URL: https://www.zomato.com/ncr/phonebooth-express-delhi-university-gtb-nagar/info
+2024-02-27 16:42:43,393 - INFO - Processing URL: https://www.zomato.com/jamshedpur/charcoal-eats-bistupur/info
+2024-02-27 16:42:43,395 - INFO - Processing URL: https://www.zomato.com/bangalore/punjab-grill-malleshwaram/info
+2024-02-27 16:42:43,397 - INFO - Processing URL: https://www.zomato.com/lucknow/bombay-brasserie-gomti-nagar/info
+2024-02-27 16:42:43,398 - INFO - Processing URL: https://www.zomato.com/ncr/38-barracks-connaught-place-new-delhi/info
+2024-02-27 16:42:43,398 - INFO - Processing URL: https://www.zomato.com/bangalore/punjab-grill-whitefield-bangalore/info
+2024-02-27 16:42:43,401 - INFO - Processing URL: https://www.zomato.com/ncr/the-chinese-vs-north-kitchen-sector-62-noida/info
+2024-02-27 16:44:19,401 - INFO - Progress saved. Processed 100 URLs.
+2024-02-27 16:44:19,401 - INFO - Processing URL: https://www.zomato.com/ncr/chaska-express-sector-86-faridabad/info
+2024-02-27 16:44:19,403 - INFO - Processing URL: https://www.zomato.com/ahmedabad/n-r-kitchen-naroda/info
+2024-02-27 16:44:19,403 - INFO - Processing URL: https://www.zomato.com/udaipur/shree-ashapura-restaurant-chandpole/info
+2024-02-27 16:44:19,404 - INFO - Processing URL: https://www.zomato.com/crazy-tawaz/info
+2024-02-27 16:44:19,404 - INFO - Processing URL: https://www.zomato.com/hyderabad/froozo-1-banjara-hills/info
+2024-02-27 16:44:19,405 - INFO - Processing URL: https://www.zomato.com/ludhiana/bakes-n-flakes-dugri/info
+2024-02-27 16:45:15,891 - INFO - Processing URL: https://www.zomato.com/pune/aaditya-dosa-house-sinhgad-road/info
+2024-02-27 16:45:15,894 - INFO - Processing URL: https://www.zomato.com/chandigarh/firangi-takeout-chandigarh-road-zirakpur/info
+2024-02-27 16:45:15,896 - INFO - Processing URL: https://www.zomato.com/jodhpur/jodhpuri-tadka-restaurant-sardarpura/info
+2024-02-27 16:45:15,902 - INFO - Processing URL: https://www.zomato.com/rajkot/ganesh-food-zone-150-feet-ring-road/info
+2024-02-27 16:45:15,929 - INFO - Progress saved. Processed 110 URLs.
+2024-02-27 16:45:15,930 - INFO - Processing URL: https://www.zomato.com/jaipur/motu-ke-samose-vaishali-nagar/info
+2024-02-27 16:45:44,733 - INFO - Processing URL: https://www.zomato.com/jaipur/bk-restaurant-malviya-nagar/info
+2024-02-27 16:45:44,740 - INFO - Processing URL: https://www.zomato.com/chennai/chappatikings-com-ambattur/info
+2024-02-27 16:45:44,743 - INFO - Processing URL: https://www.zomato.com/kota/romys-dine-1-chawani/info
+2024-02-27 16:45:44,745 - INFO - Processing URL: https://www.zomato.com/bhopal/jhama-jham-fast-food-kolar/info
+2024-02-27 16:45:44,746 - INFO - Processing URL: https://www.zomato.com/chennai/red-snappers-anna-nagar-east/info
+2024-02-27 16:45:44,747 - INFO - Processing URL: https://www.zomato.com/bangalore/epic-biryani-whitefield-bangalore/info
+2024-02-27 16:45:44,750 - INFO - Processing URL: https://www.zomato.com/mumbai/being-hungry-khar/info
+2024-02-27 16:45:44,751 - INFO - Processing URL: https://www.zomato.com/ncr/the-tandoor-hut-preet-vihar-new-delhi/info
+2024-02-27 16:45:44,759 - INFO - Processing URL: https://www.zomato.com/chandigarh/all-meals-kitchen-phase-7-mohali/info
+2024-02-27 16:45:44,799 - INFO - Progress saved. Processed 120 URLs.
+2024-02-27 16:45:44,800 - INFO - Processing URL: https://www.zomato.com/kolkata/iceberg-golpark/info
+2024-02-27 16:45:44,804 - INFO - Processing URL: https://www.zomato.com/patna/biryani-shop-golambar/info
+2024-02-27 16:45:44,808 - INFO - Processing URL: https://www.zomato.com/jhansi/chhavi-fast-foods-corner-bundelkhand-university/info
+2024-02-27 16:45:44,810 - INFO - Processing URL: https://www.zomato.com/ludhiana/the-four-legends-brs-nagar/info
+2024-02-27 16:45:44,812 - INFO - Processing URL: https://www.zomato.com/bangalore/the-shawarma-more-new-bel-road-bangalore/info
+2024-02-27 16:45:44,813 - INFO - Processing URL: https://www.zomato.com/bangalore/sri-udupi-veg-jayanagar-bangalore/info
+2024-02-27 16:46:10,351 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-darbaar-east-of-kailash-new-delhi/info
+2024-02-27 16:48:16,381 - INFO - Processing URL: https://www.zomato.com/kochi/arabian-food-court-kacherippady/info
+2024-02-27 16:48:16,382 - INFO - Processing URL: https://www.zomato.com/mumbai/kebabia-oshiwara/info
+2024-02-27 16:48:16,383 - INFO - Processing URL: https://www.zomato.com/agra/new-vishal-restaurant-khandari/info
+2024-02-27 16:48:16,425 - INFO - Progress saved. Processed 130 URLs.
+2024-02-27 16:48:16,426 - INFO - Processing URL: https://www.zomato.com/guntur/the-bread-basket-1-brodipet/info
+2024-02-27 16:48:16,428 - INFO - Processing URL: https://www.zomato.com/roll-xpress/info
+2024-02-27 16:48:16,429 - INFO - Processing URL: https://www.zomato.com/chandigarh/guruz-restaurant-kharar-road-mohali/info
+2024-02-27 16:48:16,432 - INFO - Processing URL: https://www.zomato.com/mumbai/sai-food-palace-kharghar-navi-mumbai/info
+2024-02-27 16:48:16,435 - INFO - Processing URL: https://www.zomato.com/ajmer/swami-foods-bakers-ana-sagar-lake/info
+2024-02-27 16:48:16,436 - INFO - Processing URL: https://www.zomato.com/goa/star-light-anjuna/info
+2024-02-27 16:48:16,438 - INFO - Processing URL: https://www.zomato.com/pune/food-365-sinhgad-road/info
+2024-02-27 16:48:16,441 - INFO - Processing URL: https://www.zomato.com/kota/al-haq-non-veg-ladpura/info
+2024-02-27 16:48:16,444 - INFO - Processing URL: https://www.zomato.com/guntur/sri-kaveri-tiffins-brodipet/info
+2024-02-27 16:48:16,446 - INFO - Processing URL: https://www.zomato.com/guwahati/d-foodie-ulubari/info
+2024-02-27 16:48:16,478 - INFO - Progress saved. Processed 140 URLs.
+2024-02-27 16:48:16,478 - INFO - Processing URL: https://www.zomato.com/nagpur/nandankar-saoji-pachpaoli/info
+2024-02-27 16:48:16,481 - INFO - Processing URL: https://www.zomato.com/pune/the-irani-cafe-restaurant-2-viman-nagar/info
+2024-02-27 16:48:16,481 - INFO - Processing URL: https://www.zomato.com/mumbai/renault-bar-restaurant-byculla/info
+2024-02-27 16:48:16,484 - INFO - Processing URL: https://www.zomato.com/bangalore/divina-eden-park-restaurants-jayanagar-bangalore/info
+2024-02-27 16:48:16,484 - INFO - Processing URL: https://www.zomato.com/meerut/hunger-ganga-nagar/info
+2024-02-27 16:48:16,485 - INFO - Processing URL: https://www.zomato.com/pune/chinese-mania-pimpri/info
+2024-02-27 16:49:18,799 - INFO - Processing URL: https://www.zomato.com/mumbai/yuvi-fine-dine-kopar-khairane-navi-mumbai/info
+2024-02-27 16:49:18,801 - INFO - Processing URL: https://www.zomato.com/bangalore/pet-full-@-99-sarjapur-road-bangalore/info
+2024-02-27 16:49:18,802 - INFO - Processing URL: https://www.zomato.com/ncr/duke-of-food-malviya-nagar-new-delhi/info
+2024-02-27 16:49:18,803 - INFO - Processing URL: https://www.zomato.com/bangalore/kababish-sizzler-electronic-city-bangalore/info
+2024-02-27 16:49:18,834 - INFO - Progress saved. Processed 150 URLs.
+2024-02-27 16:49:18,834 - INFO - Processing URL: https://www.zomato.com/jaipur/jaipuri-kalewa-adarsh-nagar/info
+2024-02-27 16:49:18,835 - INFO - Processing URL: https://www.zomato.com/chennai/veg-expresso-selaiyur/info
+2024-02-27 16:49:18,836 - INFO - Processing URL: https://www.zomato.com/hyderabad/marsala-food-company-gachibowli/info
+2024-02-27 16:49:18,837 - INFO - Processing URL: https://www.zomato.com/madurai/vilakkuthoon-hanifa-jigarthanda-ss-colony/info
+2024-02-27 16:49:18,838 - INFO - Processing URL: https://www.zomato.com/ncr/teddy-choco-studio-sushant-lok-gurgaon/info
+2024-02-27 16:49:18,839 - INFO - Processing URL: https://www.zomato.com/surat/crysttal-palace-piplod/info
+2024-02-27 16:49:18,845 - INFO - Processing URL: https://www.zomato.com/bangalore/kias-kitchen-hsr/info
+2024-02-27 16:49:18,849 - INFO - Processing URL: https://www.zomato.com/bangalore/taste-of-india-family-restaurant-whitefield/info
+2024-02-27 16:49:18,851 - INFO - Processing URL: https://www.zomato.com/ncr/pizza-zoo-sector-41-noida/info
+2024-02-27 16:50:21,786 - INFO - Processing URL: https://www.zomato.com/ncr/gofoodizz-golf-course-road-gurgaon/info
+2024-02-27 16:50:40,845 - INFO - Progress saved. Processed 160 URLs.
+2024-02-27 16:50:40,845 - INFO - Processing URL: https://www.zomato.com/hyderabad/beer-house-restaurant-and-bar-saroor-nagar/info
+2024-02-27 16:50:40,846 - INFO - Processing URL: https://www.zomato.com/mumbai/creamy-hustle-ghatkopar-east/info
+2024-02-27 16:50:40,850 - INFO - Processing URL: https://www.zomato.com/pune/anus-chinese-centre-hinjawadi/info
+2024-02-27 16:50:40,852 - INFO - Processing URL: https://www.zomato.com/bangalore/chutney-chang-church-street/info
+2024-02-27 16:50:40,855 - INFO - Processing URL: https://www.zomato.com/vadodara/gokulesh-restaurant-gotri/info
+2024-02-27 16:50:40,856 - INFO - Processing URL: https://www.zomato.com/patiala/chaurasia-pan-parlour-model-town/info
+2024-02-27 16:50:40,858 - INFO - Processing URL: https://www.zomato.com/pune/sairus-cafe-kitchen-wakad/info
+2024-02-27 16:50:40,859 - INFO - Processing URL: https://www.zomato.com/bangalore/ashirvaad-grand-btm/info
+2024-02-27 16:50:40,862 - INFO - Processing URL: https://www.zomato.com/kolkata/brojonath-grand-sons-shibpur-howrah/info
+2024-02-27 16:51:20,011 - INFO - Processing URL: https://www.zomato.com/pune/mamta-cafe-pimpri/info
+2024-02-27 16:51:20,044 - INFO - Progress saved. Processed 170 URLs.
+2024-02-27 16:51:20,045 - INFO - Processing URL: https://www.zomato.com/ncr/ahaar-food-service-sector-62-noida/info
+2024-02-27 16:51:20,046 - INFO - Processing URL: https://www.zomato.com/agra/punjabi-food-corner-kamla-nagar/info
+2024-02-27 16:51:20,047 - INFO - Processing URL: https://www.zomato.com/pune/raag-cafe-karve-nagar/info
+2024-02-27 16:51:20,049 - INFO - Processing URL: https://www.zomato.com/ncr/maa-vaishno-shudh-bhojnalaya-sector-27-noida/info
+2024-02-27 16:51:20,050 - INFO - Processing URL: https://www.zomato.com/ranchi/italian-pizza-hub-lalpur/info
+2024-02-27 16:51:20,052 - INFO - Processing URL: https://www.zomato.com/bangalore/still-sipping-hsr-bangalore/info
+2024-02-27 16:51:20,055 - INFO - Processing URL: https://www.zomato.com/mumbai/joshi-buddhakaka-mahim-halwawala-mahim/info
+2024-02-27 16:51:20,062 - INFO - Processing URL: https://www.zomato.com/udaipur/chaska-fast-food-ashok-nagar/info
+2024-02-27 16:51:20,063 - INFO - Processing URL: https://www.zomato.com/pune/manna-the-cake-house-1-pune-solapur-road/info
+2024-02-27 16:51:20,065 - INFO - Processing URL: https://www.zomato.com/mangalore/delhi-aroma-kodailbail/info
+2024-02-27 16:51:20,091 - INFO - Progress saved. Processed 180 URLs.
+2024-02-27 16:51:20,091 - INFO - Processing URL: https://www.zomato.com/bangalore/northern-route-st-marks-road/info
+2024-02-27 16:51:20,093 - INFO - Processing URL: https://www.zomato.com/chennai/sathyam-vegetarian-restaurant-1-gst-road/info
+2024-02-27 16:51:20,094 - INFO - Processing URL: https://www.zomato.com/ahmedabad/dakshinayan-satellite/info
+2024-02-27 16:51:20,095 - INFO - Processing URL: https://www.zomato.com/ncr/thebakers-in-mg-road-gurgaon/info
+2024-02-27 16:51:20,097 - INFO - Processing URL: https://www.zomato.com/udaipur/twenty-nine-panchwati/info
+2024-02-27 16:51:20,097 - INFO - Processing URL: https://www.zomato.com/chennai/soya-swag-perungudi/info
+2024-02-27 16:51:20,099 - INFO - Processing URL: https://www.zomato.com/ncr/madira-bar-tughlakabad-new-delhi/info
+2024-02-27 16:51:20,111 - INFO - Processing URL: https://www.zomato.com/ncr/chinese-point-shastri-nagar-ghaziabad/info
+2024-02-27 16:51:20,114 - INFO - Processing URL: https://www.zomato.com/guwahati/needs-beltola/info
+2024-02-27 16:51:20,116 - INFO - Processing URL: https://www.zomato.com/visakhapatnam/sizzlers-tiffins-mvp-colony-vizag/info
+2024-02-27 16:51:20,155 - INFO - Progress saved. Processed 190 URLs.
+2024-02-27 16:51:20,155 - INFO - Processing URL: https://www.zomato.com/kochi/super-bakers-kaloor/info
+2024-02-27 16:52:14,104 - INFO - Processing URL: https://www.zomato.com/puducherry/sri-raghavendra-iyengars-bakery-white-town/info
+2024-02-27 16:52:14,107 - INFO - Processing URL: https://www.zomato.com/pune/sharma-ice-cream-pav-bhaji-chinchwad/info
+2024-02-27 16:52:14,109 - INFO - Processing URL: https://www.zomato.com/jalandhar/yo-pizza-model-town/info
+2024-02-27 16:52:14,111 - INFO - Processing URL: https://www.zomato.com/ncr/indian-craves-uttam-nagar-new-delhi/info
+2024-02-27 16:52:14,113 - INFO - Processing URL: https://www.zomato.com/chennai/getty-chutney-porur/info
+2024-02-27 16:54:01,497 - INFO - Processing URL: https://www.zomato.com/pune/alok-restaurant-bar-shivaji-nagar/info
+2024-02-27 16:54:01,500 - INFO - Processing URL: https://www.zomato.com/udaipur/hungry-swag-panchwati/info
+2024-02-27 16:54:01,503 - INFO - Processing URL: https://www.zomato.com/gorakhpur/cafeshala-1-hussain-nagar/info
+2024-02-27 16:54:08,625 - INFO - Processing URL: https://www.zomato.com/mumbai/su-casa-reclamation-bandra-west/info
+2024-02-27 16:54:08,661 - INFO - Progress saved. Processed 200 URLs.
+2024-02-27 16:54:08,661 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-cave-sector-51-noida/info
+2024-02-27 16:54:08,663 - INFO - Processing URL: https://www.zomato.com/hyderabad/alain-bakers-kondapur/info
+2024-02-27 16:54:08,665 - INFO - Processing URL: https://www.zomato.com/hyderabad/roll-on-tolichowki/info
+2024-02-27 16:54:08,668 - INFO - Processing URL: https://www.zomato.com/mangalore/rubys-cream-parlour-surathkal/info
+2024-02-27 16:54:08,671 - INFO - Processing URL: https://www.zomato.com/ajmer/deepak-restaurant-ana-sagar-lake/info
+2024-02-27 16:54:08,675 - INFO - Processing URL: https://www.zomato.com/ncr/kartar-da-dhaba-sector-9-faridabad/info
+2024-02-27 16:54:08,678 - INFO - Processing URL: https://www.zomato.com/ludhiana/hello-food-model-town/info
+2024-02-27 16:54:08,678 - INFO - Processing URL: https://www.zomato.com/ncr/mr-pizza-chander-nagar-new-delhi/info
+2024-02-27 16:54:08,680 - INFO - Processing URL: https://www.zomato.com/surat/hanumante-ice-cream-utran/info
+2024-02-27 16:54:08,681 - INFO - Processing URL: https://www.zomato.com/jabalpur/crystal-rampur/info
+2024-02-27 16:54:08,720 - INFO - Progress saved. Processed 210 URLs.
+2024-02-27 16:54:08,720 - INFO - Processing URL: https://www.zomato.com/chennai/fatoosh-alwarpet/info
+2024-02-27 16:54:08,723 - INFO - Processing URL: https://www.zomato.com/udaipur/bombay-pav-bhaji-panchwati/info
+2024-02-27 16:54:08,725 - INFO - Processing URL: https://www.zomato.com/jaipur/smokes-barbecue-sindhi-camp/info
+2024-02-27 16:54:08,726 - INFO - Processing URL: https://www.zomato.com/ncr/new-khalsa-restaurant-mayapuri-phase-2-new-delhi/info
+2024-02-27 16:54:08,728 - INFO - Processing URL: https://www.zomato.com/pune/chefs-kitchen-mundhwa/info
+2024-02-27 16:54:08,729 - INFO - Processing URL: https://www.zomato.com/mumbai/poovas-airoli-navi-mumbai/info
+2024-02-27 16:54:08,730 - INFO - Processing URL: https://www.zomato.com/ncr/flora-bakery-jama-masjid-new-delhi/info
+2024-02-27 16:54:08,731 - INFO - Processing URL: https://www.zomato.com/mumbai/udta-punjab-star-kurla/info
+2024-02-27 16:54:08,737 - INFO - Processing URL: https://www.zomato.com/mumbai/blue-shard-bistro-vasai/info
+2024-02-27 16:54:08,740 - INFO - Processing URL: https://www.zomato.com/kolkata/combo-raja-sector-5-salt-lake/info
+2024-02-27 16:54:08,776 - INFO - Progress saved. Processed 220 URLs.
+2024-02-27 16:54:08,777 - INFO - Processing URL: https://www.zomato.com/kolkata/sai-food-plaza-park-circus-area/info
+2024-02-27 16:54:08,779 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-malvan-samudra-lower-parel/info
+2024-02-27 16:54:39,099 - INFO - Processing URL: https://www.zomato.com/guwahati/iora-kitchen-zoo-tiniali/info
+2024-02-27 16:54:39,101 - INFO - Processing URL: https://www.zomato.com/ncr/swad-desi-dhaba-sector-23-faridabad/info
+2024-02-27 16:54:39,107 - INFO - Processing URL: https://www.zomato.com/lucknow/mughlai-handiwala-1-aashiana/info
+2024-02-27 16:54:39,110 - INFO - Processing URL: https://www.zomato.com/pune/spring-onion-deccan-gymkhana/info
+2024-02-27 16:54:39,112 - INFO - Processing URL: https://www.zomato.com/chennai/ustad-biriyani-kodambakkam/info
+2024-02-27 16:56:22,718 - INFO - Processing URL: https://www.zomato.com/surat/grillovia-pizzerian-barbeques-adajan-gam/info
+2024-02-27 16:56:22,721 - INFO - Processing URL: https://www.zomato.com/bangalore/biriyani-empire-new-bel-road-bangalore/info
+2024-02-27 16:56:22,723 - INFO - Processing URL: https://www.zomato.com/ncr/agaashu-foods-sector-83-gurgaon/info
+2024-02-27 16:56:22,795 - INFO - Progress saved. Processed 230 URLs.
+2024-02-27 16:56:22,796 - INFO - Processing URL: https://www.zomato.com/jaipur/chocomojo-in-1-sodala/info
+2024-02-27 16:56:22,799 - INFO - Processing URL: https://www.zomato.com/chandigarh/ziggly-piggly-sector-15/info
+2024-02-27 16:56:22,810 - INFO - Processing URL: https://www.zomato.com/ahmedabad/hotel-milan-sarkhej/info
+2024-02-27 16:56:22,814 - INFO - Processing URL: https://www.zomato.com/bangalore/urbanbae-1-yelahanka-bangalore/info
+2024-02-27 16:56:22,820 - INFO - Processing URL: https://www.zomato.com/vijayawada/sandwich-shakes-labbipet/info
+2024-02-27 16:56:22,831 - INFO - Processing URL: https://www.zomato.com/mumbai/happy-singh-da-dhaba-andheri-lokhandwala/info
+2024-02-27 16:56:22,836 - INFO - Processing URL: https://www.zomato.com/jhansi/hotel-shahi-dhaba-civil-lines/info
+2024-02-27 16:56:22,838 - INFO - Processing URL: https://www.zomato.com/nashik/lsd-love-sugar-dough-parijat-nagar/info
+2024-02-27 16:56:22,839 - INFO - Processing URL: https://www.zomato.com/chennai/kutties-juice-corner-madipakkam/info
+2024-02-27 16:56:22,841 - INFO - Processing URL: https://www.zomato.com/hyderabad/masqati-ice-cream-himayath-nagar/info
+2024-02-27 16:56:22,901 - INFO - Progress saved. Processed 240 URLs.
+2024-02-27 16:56:22,901 - INFO - Processing URL: https://www.zomato.com/ncr/bhojnalay-dhaba-uttam-nagar-new-delhi/info
+2024-02-27 16:56:22,902 - INFO - Processing URL: https://www.zomato.com/hyderabad/sri-balaji-darshini-tiffins-meals-bowenpally-secunderabad/info
+2024-02-27 16:56:22,905 - INFO - Processing URL: https://www.zomato.com/ncr/bikaners-sector-41-noida/info
+2024-02-27 16:56:22,906 - INFO - Processing URL: https://www.zomato.com/chennai/cafe-jus-graveez-ambattur/info
+2024-02-27 16:56:22,908 - INFO - Processing URL: https://www.zomato.com/kolkata/the-tavern-cafe-prince-anwar-shah-road/info
+2024-02-27 16:56:22,909 - INFO - Processing URL: https://www.zomato.com/ahmedabad/ripples-avalon-hotel-bodakdev/info
+2024-02-27 16:56:22,910 - INFO - Processing URL: https://www.zomato.com/mumbai/i-love-babycakes-tardeo/info
+2024-02-27 16:56:22,912 - INFO - Processing URL: https://www.zomato.com/ncr/midnight-kitchen-1-rajouri-garden-new-delhi/info
+2024-02-27 16:56:22,918 - INFO - Processing URL: https://www.zomato.com/mumbai/avarya-santacruz-west/info
+2024-02-27 16:56:22,919 - INFO - Processing URL: https://www.zomato.com/ncr/devs-restaurant-bar-sector-62-noida/info
+2024-02-27 16:56:22,942 - INFO - Progress saved. Processed 250 URLs.
+2024-02-27 16:56:22,942 - INFO - Processing URL: https://www.zomato.com/mumbai/dainik-chinese-corner-panch-pakhadi-thane-west/info
+2024-02-27 16:56:22,943 - INFO - Processing URL: https://www.zomato.com/ncr/indian-halal-meat-shop-kamla-nagar-new-delhi/info
+2024-02-27 16:56:22,950 - INFO - Processing URL: https://www.zomato.com/rajkot/maitri-pavbhai-restaurant-dr-yagnik-road/info
+2024-02-27 16:56:22,951 - INFO - Processing URL: https://www.zomato.com/chennai/baby-girl-1-alandur/info
+2024-02-27 16:56:22,952 - INFO - Processing URL: https://www.zomato.com/jaipur/midtown-multi-cuisine-restaurant-pink-city/info
+2024-02-27 16:56:22,953 - INFO - Processing URL: https://www.zomato.com/bangalore/thanishka-nati-and-karavali-style-banashankari-bangalore/info
+2024-02-27 16:56:22,966 - INFO - Processing URL: https://www.zomato.com/amravati/gouri-in-royal-regal-pure-veg-restaurant-arjun-nagar/info
+2024-02-27 16:56:26,025 - INFO - Processing URL: https://www.zomato.com/mumbai/al-fresco-dombivali-east-thane/info
+2024-02-27 16:56:26,027 - INFO - Processing URL: https://www.zomato.com/hyderabad/the-second-cup-sainikpuri-secunderabad/info
+2024-02-27 16:56:26,033 - INFO - Processing URL: https://www.zomato.com/ncr/santa-banta-lee-sector-20-dwarka-new-delhi/info
+2024-02-27 16:59:04,908 - INFO - Progress saved. Processed 260 URLs.
+2024-02-27 16:59:04,908 - INFO - Processing URL: https://www.zomato.com/bangalore/mongolian-kitchen-btm/info
+2024-02-27 16:59:04,909 - INFO - Processing URL: https://www.zomato.com/ncr/maheshwri-bhoj-govind-puram-ghaziabad/info
+2024-02-27 16:59:04,909 - INFO - Processing URL: https://www.zomato.com/hyderabad/so-the-sky-kitchen-film-nagar/info
+2024-02-27 16:59:04,915 - INFO - Processing URL: https://www.zomato.com/ncr/cafe-purani-dilli-punjabi-bagh-new-delhi/info
+2024-02-27 16:59:04,919 - INFO - Processing URL: https://www.zomato.com/kolkata/shinryu-restaurant-bar-chinar-park/info
+2024-02-27 16:59:04,921 - INFO - Processing URL: https://www.zomato.com/tirupati/vrinda-hotel-sindhuri-park-pudipatla/info
+2024-02-27 16:59:04,934 - INFO - Processing URL: https://www.zomato.com/mumbai/amar-fast-food-restaurant-ulhasnagar-thane/info
+2024-02-27 16:59:04,936 - INFO - Processing URL: https://www.zomato.com/bangalore/delixious-new-bel-road-bangalore/info
+2024-02-27 16:59:04,938 - INFO - Processing URL: https://www.zomato.com/vijayawada/arabian-mandi-labbipet/info
+2024-02-27 16:59:04,939 - INFO - Processing URL: https://www.zomato.com/ncr/burger-art-sector-72-noida/info
+2024-02-27 16:59:04,966 - INFO - Progress saved. Processed 270 URLs.
+2024-02-27 16:59:04,967 - INFO - Processing URL: https://www.zomato.com/chennai/cook-gramam-anna-nagar-east/info
+2024-02-27 16:59:04,968 - INFO - Processing URL: https://www.zomato.com/bangalore/fruit-punch-cv-raman-nagar-bangalore/info
+2024-02-27 16:59:04,971 - INFO - Processing URL: https://www.zomato.com/ncr/fc-katyal-preet-vihar-new-delhi/info
+2024-02-27 16:59:46,870 - INFO - Processing URL: https://www.zomato.com/bangalore/chicken-county-grand-bannerghatta-road-bangalore/info
+2024-02-27 16:59:46,873 - INFO - Processing URL: https://www.zomato.com/ahmedabad/jalaram-zumpidi-prahlad-nagar/info
+2024-02-27 16:59:46,875 - INFO - Processing URL: https://www.zomato.com/coimbatore/the-french-loaf-rs-puram/info
+2024-02-27 16:59:46,877 - INFO - Processing URL: https://www.zomato.com/manipal/j-m-hotel-kunjibettu-udupi/info
+2024-02-27 16:59:46,880 - INFO - Processing URL: https://www.zomato.com/jaipur/chawlas-restaurant-sodala/info
+2024-02-27 16:59:46,881 - INFO - Processing URL: https://www.zomato.com/bangalore/kothanur-kitchen-1-hennur/info
+2024-02-27 16:59:46,882 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/swaadistham-jagmohan-nagar-bhubaneshwar/info
+2024-02-27 16:59:46,919 - INFO - Progress saved. Processed 280 URLs.
+2024-02-27 16:59:46,920 - INFO - Processing URL: https://www.zomato.com/indore/cakes-365-old-palasia/info
+2024-02-27 16:59:46,921 - INFO - Processing URL: https://www.zomato.com/pune/hotel-jay-malhar-1-bhosari/info
+2024-02-27 16:59:46,923 - INFO - Processing URL: https://www.zomato.com/chennai/hunger-spot-restaurant-perungudi/info
+2024-02-27 16:59:46,926 - INFO - Processing URL: https://www.zomato.com/ncr/rana-hotel-moti-nagar-new-delhi/info
+2024-02-27 17:00:45,198 - INFO - Processing URL: https://www.zomato.com/mumbai/the-excellenssea-fort/info
+2024-02-27 17:00:45,200 - INFO - Processing URL: https://www.zomato.com/hyderabad/sss-shawarma-food-court-habsiguda/info
+2024-02-27 17:00:45,203 - INFO - Processing URL: https://www.zomato.com/bangalore/sri-ganesh-fruit-juice-centre-sahakara-nagar/info
+2024-02-27 17:00:45,211 - INFO - Processing URL: https://www.zomato.com/ludhiana/pasta-la-vista-pakhowal-road/info
+2024-02-27 17:00:45,212 - INFO - Processing URL: https://www.zomato.com/pune/best-belgian-waffle-erandwane/info
+2024-02-27 17:00:45,214 - INFO - Processing URL: https://www.zomato.com/mumbai/izaya-nariman-point/info
+2024-02-27 17:00:45,248 - INFO - Progress saved. Processed 290 URLs.
+2024-02-27 17:00:45,248 - INFO - Processing URL: https://www.zomato.com/ncr/bhukkad-by-birth-sector-83-noida/info
+2024-02-27 17:00:45,250 - INFO - Processing URL: https://www.zomato.com/kochi/aavi-palarivattom/info
+2024-02-27 17:00:45,251 - INFO - Processing URL: https://www.zomato.com/ncr/lokenath-hotel-lodge-paharganj-new-delhi/info
+2024-02-27 17:00:45,251 - INFO - Processing URL: https://www.zomato.com/hyderabad/degchee-punjabi-dhaba-habsiguda/info
+2024-02-27 17:00:45,252 - INFO - Processing URL: https://www.zomato.com/bangalore/tangerine-davanam-sarovar-portico-suites-koramangala-2nd-block-bangalore/info
+2024-02-27 17:00:45,253 - INFO - Processing URL: https://www.zomato.com/patna/hunger-huts-sri-krishnapuri/info
+2024-02-27 17:02:49,093 - INFO - Processing URL: https://www.zomato.com/nagpur/opulence-cafe-time-gokulpeth/info
+2024-02-27 17:02:49,094 - INFO - Processing URL: https://www.zomato.com/hyderabad/punjabee-bytes-lingampally/info
+2024-02-27 17:02:49,096 - INFO - Processing URL: https://www.zomato.com/pune/green-valley-wagholi/info
+2024-02-27 17:02:49,098 - INFO - Processing URL: https://www.zomato.com/hyderabad/hotel-mansingh-begum-bazaar/info
+2024-02-27 17:02:49,163 - INFO - Progress saved. Processed 300 URLs.
+2024-02-27 17:02:49,164 - INFO - Processing URL: https://www.zomato.com/chennai/gharwaalatiffin-velachery/info
+2024-02-27 17:02:49,178 - INFO - Processing URL: https://www.zomato.com/ncr/apna-cafe-janakpuri-new-delhi/info
+2024-02-27 17:02:49,186 - INFO - Processing URL: https://www.zomato.com/chandigarh/pradhan-dhaba-sector-36/info
+2024-02-27 17:02:49,201 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-solkadhi-vasai/info
+2024-02-27 17:02:49,203 - INFO - Processing URL: https://www.zomato.com/bangalore/the-yummy-box-marathahalli-bangalore/info
+2024-02-27 17:02:49,262 - INFO - Processing URL: https://www.zomato.com/guwahati/hotel-amrapali-paltan-bazaar/info
+2024-02-27 17:02:49,264 - INFO - Processing URL: https://www.zomato.com/hyderabad/sansar-multi-cuisine-restaurant-mehdipatnam/info
+2024-02-27 17:02:49,276 - INFO - Processing URL: https://www.zomato.com/indore/kailash-parbat-restaurant-south-tukoganj/info
+2024-02-27 17:02:49,278 - INFO - Processing URL: https://www.zomato.com/ncr/lajawab-snacks-point-zakir-nagar-new-delhi/info
+2024-02-27 17:02:49,284 - INFO - Processing URL: https://www.zomato.com/bangalore/maa-tara-hotel-electronic-city/info
+2024-02-27 17:04:20,069 - ERROR - An error occurred: Message: no such execution context
+  (Session info: chrome=122.0.6261.69)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A46B4C82+3505170]
+	(No symbol) [0x00007FF7A42E0852]
+	(No symbol) [0x00007FF7A4193FFD]
+	(No symbol) [0x00007FF7A418239D]
+	(No symbol) [0x00007FF7A4180676]
+	(No symbol) [0x00007FF7A41810AF]
+	(No symbol) [0x00007FF7A418E5BA]
+	(No symbol) [0x00007FF7A419FEFE]
+	(No symbol) [0x00007FF7A41A4CBA]
+	(No symbol) [0x00007FF7A4181600]
+	(No symbol) [0x00007FF7A419FA94]
+	(No symbol) [0x00007FF7A421828D]
+	(No symbol) [0x00007FF7A41FBC33]
+	(No symbol) [0x00007FF7A41CD618]
+	(No symbol) [0x00007FF7A41CE6B1]
+	GetHandleVerifier [0x00007FF7A46E67DD+3708781]
+	GetHandleVerifier [0x00007FF7A473FC5D+4074477]
+	GetHandleVerifier [0x00007FF7A4737DDF+4042095]
+	GetHandleVerifier [0x00007FF7A440A136+708806]
+	(No symbol) [0x00007FF7A42ECB0F]
+	(No symbol) [0x00007FF7A42E7D14]
+	(No symbol) [0x00007FF7A42E7E6C]
+	(No symbol) [0x00007FF7A42D79A4]
+	BaseThreadInitThunk [0x00007FFECAAF7344+20]
+	RtlUserThreadStart [0x00007FFECC6626B1+33]
+
+2024-02-27 17:04:25,187 - ERROR - An error occurred: Message: timeout: Timed out receiving message from renderer: 290.638
+  (Session info: chrome=122.0.6261.69)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A46B4C82+3505170]
+	(No symbol) [0x00007FF7A42E0852]
+	(No symbol) [0x00007FF7A4194145]
+	(No symbol) [0x00007FF7A4181FDF]
+	(No symbol) [0x00007FF7A4181E11]
+	(No symbol) [0x00007FF7A4180625]
+	(No symbol) [0x00007FF7A41810AF]
+	(No symbol) [0x00007FF7A418DD9E]
+	(No symbol) [0x00007FF7A419FEFE]
+	(No symbol) [0x00007FF7A41A4CBA]
+	(No symbol) [0x00007FF7A4181600]
+	(No symbol) [0x00007FF7A419FD2D]
+	(No symbol) [0x00007FF7A421870C]
+	(No symbol) [0x00007FF7A41FBC33]
+	(No symbol) [0x00007FF7A41CD618]
+	(No symbol) [0x00007FF7A41CE6B1]
+	GetHandleVerifier [0x00007FF7A46E67DD+3708781]
+	GetHandleVerifier [0x00007FF7A473FC5D+4074477]
+	GetHandleVerifier [0x00007FF7A4737DDF+4042095]
+	GetHandleVerifier [0x00007FF7A440A136+708806]
+	(No symbol) [0x00007FF7A42ECB0F]
+	(No symbol) [0x00007FF7A42E7D14]
+	(No symbol) [0x00007FF7A42E7E6C]
+	(No symbol) [0x00007FF7A42D79A4]
+	BaseThreadInitThunk [0x00007FFECAAF7344+20]
+	RtlUserThreadStart [0x00007FFECC6626B1+33]
+
+2024-02-27 17:04:31,646 - INFO - Progress saved. Processed 310 URLs.
+2024-02-27 17:04:31,646 - INFO - Processing URL: https://www.zomato.com/ncr/the-sandys-kitchen-patparganj-new-delhi/info
+2024-02-27 17:04:31,649 - INFO - Processing URL: https://www.zomato.com/pune/hotel-kanchan-1-wagholi/info
+2024-02-27 17:04:31,650 - INFO - Processing URL: https://www.zomato.com/meerut/punjab-sweets-family-restaurant-ganga-nagar/info
+2024-02-27 17:04:31,652 - INFO - Processing URL: https://www.zomato.com/pune/special-spicy-crunchies-kharadi/info
+2024-02-27 17:04:31,653 - INFO - Processing URL: https://www.zomato.com/thrissur/yami-homemade-cakes-poothole/info
+2024-02-27 17:04:31,654 - INFO - Processing URL: https://www.zomato.com/mumbai/ruchi-dombivali-east-thane/info
+2024-02-27 17:04:31,655 - INFO - Processing URL: https://www.zomato.com/mumbai/krishna-murari-kalbadevi/info
+2024-02-27 17:04:31,657 - INFO - Processing URL: https://www.zomato.com/bangalore/cafe-elanza-richmond-road/info
+2024-02-27 17:04:31,658 - INFO - Processing URL: https://www.zomato.com/hyderabad/tipsy-topsy-kukatpally/info
+2024-02-27 17:04:31,659 - INFO - Processing URL: https://www.zomato.com/bhopal/dawat-restaurant-airport-area/info
+2024-02-27 17:04:31,703 - INFO - Progress saved. Processed 320 URLs.
+2024-02-27 17:04:31,704 - INFO - Processing URL: https://www.zomato.com/ahmedabad/health-town-paldi/info
+2024-02-27 17:04:31,706 - INFO - Processing URL: https://www.zomato.com/raipur/mp-dhaba-tatibandh/info
+2024-02-27 17:04:31,709 - INFO - Processing URL: https://www.zomato.com/jalandhar/madaan-sweets-shastri-nagar/info
+2024-02-27 17:04:31,715 - INFO - Processing URL: https://www.zomato.com/nagpur/short-order-wardhaman-nagar/info
+2024-02-27 17:04:31,718 - INFO - Processing URL: https://www.zomato.com/kolkata/c-o-bangali-hatibagan/info
+2024-02-27 17:04:31,720 - INFO - Processing URL: https://www.zomato.com/coimbatore/ice-scooops-peelamedu/info
+2024-02-27 17:04:31,722 - INFO - Processing URL: https://www.zomato.com/kochi/biza-foods-elamakkara/info
+2024-02-27 17:04:31,725 - INFO - Processing URL: https://www.zomato.com/ahmedabad/operation-tasty-thaltej/info
+2024-02-27 17:04:31,727 - INFO - Processing URL: https://www.zomato.com/cuttack/nanda-bhai-hotel-mal-godown-market/info
+2024-02-27 17:04:31,732 - INFO - Processing URL: https://www.zomato.com/ncr/pbs-rolls-and-street-foods-2-connaught-place-new-delhi/info
+2024-02-27 17:05:05,962 - INFO - Progress saved. Processed 330 URLs.
+2024-02-27 17:05:05,962 - INFO - Processing URL: https://www.zomato.com/chandigarh/al-zafar-chicken-corner-manimajra/info
+2024-02-27 17:05:05,967 - INFO - Processing URL: https://www.zomato.com/hyderabad/hot-n-spicy-jeedimetla/info
+2024-02-27 17:05:05,968 - INFO - Processing URL: https://www.zomato.com/ncr/legacy-of-awadh-sector-12-noida/info
+2024-02-27 17:05:05,970 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-ishqq-east-patel-nagar-new-delhi/info
+2024-02-27 17:05:05,971 - INFO - Processing URL: https://www.zomato.com/aurangabad/swad-pav-bhaji-chinese-corner-gadia-vihar/info
+2024-02-27 17:05:05,974 - INFO - Processing URL: https://www.zomato.com/vijayawada/m5-hotel-shri-ramachandra-nagar/info
+2024-02-27 17:05:05,975 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/namaste-jee-ashok-nagar-bhubaneshwar/info
+2024-02-27 17:05:05,977 - INFO - Processing URL: https://www.zomato.com/indore/spenzo-bakery-khajrana/info
+2024-02-27 17:05:05,986 - INFO - Processing URL: https://www.zomato.com/lucknow/new-awadh-biryani-corner-mahanagar/info
+2024-02-27 17:05:05,990 - INFO - Processing URL: https://www.zomato.com/goa/fish-restaurant-morjim/info
+2024-02-27 17:05:06,026 - INFO - Progress saved. Processed 340 URLs.
+2024-02-27 17:05:06,026 - INFO - Processing URL: https://www.zomato.com/jaipur/poorvi-cafe-raja-park/info
+2024-02-27 17:05:06,029 - INFO - Processing URL: https://www.zomato.com/guwahati/green-chilly-beltola/info
+2024-02-27 17:05:06,036 - INFO - Processing URL: https://www.zomato.com/bangalore/curries-pickles-brookefield-bangalore/info
+2024-02-27 17:05:06,039 - INFO - Processing URL: https://www.zomato.com/mumbai/food-first-love-1-bhayandar/info
+2024-02-27 17:05:06,042 - INFO - Processing URL: https://www.zomato.com/hyderabad/zza-bar-jubilee-hills/info
+2024-02-27 17:05:06,043 - INFO - Processing URL: https://www.zomato.com/jaipur/area-11-restro-bar-mansarovar/info
+2024-02-27 17:05:06,047 - INFO - Processing URL: https://www.zomato.com/indore/say-cheese-1-vijay-nagar/info
+2024-02-27 17:05:06,050 - INFO - Processing URL: https://www.zomato.com/chennai/bakers-delight-vepery/info
+2024-02-27 17:05:06,055 - INFO - Processing URL: https://www.zomato.com/hyderabad/salims-pulao-plaza-bowenpally-secunderabad/info
+2024-02-27 17:05:06,057 - INFO - Processing URL: https://www.zomato.com/ncr/kkr-kolkata-kathi-rolls-greater-kailash-gk-1-new-delhi/info
+2024-02-27 17:05:06,106 - INFO - Progress saved. Processed 350 URLs.
+2024-02-27 17:05:06,106 - INFO - Processing URL: https://www.zomato.com/hyderabad/deesh-punjabi-dhaba-himayath-nagar/info
+2024-02-27 17:05:06,107 - INFO - Processing URL: https://www.zomato.com/kolkata/ufc-fried-chicken-ruby-hospital-area/info
+2024-02-27 17:05:06,108 - INFO - Processing URL: https://www.zomato.com/chennai/andhra-snacking-1-karapakkam/info
+2024-02-27 17:05:06,109 - INFO - Processing URL: https://www.zomato.com/pune/coladas-kharadi/info
+2024-02-27 17:05:06,111 - INFO - Processing URL: https://www.zomato.com/bangalore/sultans-biryani-kalyan-nagar-bangalore/info
+2024-02-27 17:05:40,378 - INFO - Processing URL: https://www.zomato.com/pune/tiranga-budhwar-peth/info
+2024-02-27 17:07:01,485 - INFO - Processing URL: https://www.zomato.com/jalandhar/sanjha-chulha-model-town/info
+2024-02-27 17:07:01,487 - INFO - Processing URL: https://www.zomato.com/ncr/pappu-ka-dhaba-rajinder-nagar-new-delhi/info
+2024-02-27 17:07:01,488 - INFO - Processing URL: https://www.zomato.com/pune/banarasi-chaat-sinhgad-road/info
+2024-02-27 17:07:01,490 - INFO - Processing URL: https://www.zomato.com/jaipur/shree-radhey-bakers-vidhyadhar-nagar/info
+2024-02-27 17:07:38,394 - INFO - Progress saved. Processed 360 URLs.
+2024-02-27 17:07:38,394 - INFO - Processing URL: https://www.zomato.com/ncr/aggarwal-sweets-center-2-palam-new-delhi/info
+2024-02-27 17:07:38,402 - INFO - Processing URL: https://www.zomato.com/jaipur/meghs-café-malviya-nagar/info
+2024-02-27 17:07:38,404 - INFO - Processing URL: https://www.zomato.com/bangalore/south-spicy-bites-express-sahakara-nagar-bangalore/info
+2024-02-27 17:07:38,406 - INFO - Processing URL: https://www.zomato.com/haridwar/asli-mashoor-chotiwala-har-ki-pauri/info
+2024-02-27 17:07:38,407 - INFO - Processing URL: https://www.zomato.com/ahmedabad/ab-chai-pe-charcha-satellite/info
+2024-02-27 17:07:38,408 - INFO - Processing URL: https://www.zomato.com/mumbai/hungry-headz-mahakali/info
+2024-02-27 17:08:15,128 - INFO - Processing URL: https://www.zomato.com/ncr/chini-chhatarpur-new-delhi/info
+2024-02-27 17:08:15,130 - INFO - Processing URL: https://www.zomato.com/ncr/faasos-sector-5-dwarka-new-delhi/info
+2024-02-27 17:08:15,158 - INFO - Processing URL: https://www.zomato.com/ncr/curry-company-sector-56-gurgaon/info
+2024-02-27 17:08:15,179 - INFO - Processing URL: https://www.zomato.com/jaipur/vinay-pavitra-bhojnalaya-and-nasta-center-brahmpuri/info
+2024-02-27 17:08:15,584 - INFO - Progress saved. Processed 370 URLs.
+2024-02-27 17:08:15,585 - INFO - Processing URL: https://www.zomato.com/chennai/asima-briyani-multicuisine-restaurant-vadapalani/info
+2024-02-27 17:08:15,589 - INFO - Processing URL: https://www.zomato.com/ncr/new-bangla-restuarant-lawrence-road-new-delhi/info
+2024-02-27 17:08:15,591 - INFO - Processing URL: https://www.zomato.com/jabalpur/moms-food-plaza-wright-town/info
+2024-02-27 17:08:15,592 - INFO - Processing URL: https://www.zomato.com/hyderabad/pizza-palace-2-moosapet/info
+2024-02-27 17:08:15,593 - INFO - Processing URL: https://www.zomato.com/bangalore/sri-krishna-gangothri-old-madras-road/info
+2024-02-27 17:08:15,594 - INFO - Processing URL: https://www.zomato.com/chennai/big-bang-theory-bar-kitchen-kodambakkam/info
+2024-02-27 17:08:15,596 - INFO - Processing URL: https://www.zomato.com/pune/rahuls-italias-eat-some-delicious-budhwar-peth/info
+2024-02-27 17:08:32,528 - INFO - Processing URL: https://www.zomato.com/hyderabad/ravioli-fit-food-jubilee-hills/info
+2024-02-27 17:08:32,530 - INFO - Processing URL: https://www.zomato.com/hyderabad/momos-madness-manikonda/info
+2024-02-27 17:08:32,532 - INFO - Processing URL: https://www.zomato.com/ncr/food-express-sector-57-gurgaon/info
+2024-02-27 17:08:32,564 - INFO - Progress saved. Processed 380 URLs.
+2024-02-27 17:08:32,565 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-tisai-prasadam-kalyan/info
+2024-02-27 17:08:32,571 - INFO - Processing URL: https://www.zomato.com/ahmedabad/chefs-kitchen-thaltej/info
+2024-02-27 17:08:32,574 - INFO - Processing URL: https://www.zomato.com/vadodara/brewberrys-makarpura/info
+2024-02-27 17:10:47,324 - INFO - Processing URL: https://www.zomato.com/ranchi/sethis-bakery-kokar/info
+2024-02-27 17:10:47,327 - INFO - Processing URL: https://www.zomato.com/hyderabad/fuel-factory-gachibowli/info
+2024-02-27 17:10:47,329 - INFO - Processing URL: https://www.zomato.com/ncr/shri-ram-confectionary-nit-faridabad/info
+2024-02-27 17:10:47,336 - INFO - Processing URL: https://www.zomato.com/chandigarh/sardar-ji-da-punjabi-dhaba-manimajra/info
+2024-02-27 17:11:04,800 - INFO - Processing URL: https://www.zomato.com/ahmedabad/rewind-latenight-food-vastrapur/info
+2024-02-27 17:11:04,801 - INFO - Processing URL: https://www.zomato.com/ncr/kapil-di-hatti-shastri-nagar-ghaziabad/info
+2024-02-27 17:11:04,802 - INFO - Processing URL: https://www.zomato.com/ncr/south-indian-restaurant-sector-56-noida/info
+2024-02-27 17:11:04,832 - INFO - Progress saved. Processed 390 URLs.
+2024-02-27 17:11:04,833 - INFO - Processing URL: https://www.zomato.com/bangalore/ubm-groups-health-to-enjoy-wealth-yelahanka-bangalore/info
+2024-02-27 17:11:04,834 - INFO - Processing URL: https://www.zomato.com/surat/purple-wok-co-vesu/info
+2024-02-27 17:11:04,836 - INFO - Processing URL: https://www.zomato.com/haridwar/rnr-shudh-bhojanalaya-kankhal/info
+2024-02-27 17:11:04,837 - INFO - Processing URL: https://www.zomato.com/pune/bourn-village-kothrud/info
+2024-02-27 17:11:04,838 - INFO - Processing URL: https://www.zomato.com/kolkata/ashoka-dhaba-tollygunge/info
+2024-02-27 17:11:04,838 - INFO - Processing URL: https://www.zomato.com/ncr/chicken-hub-lado-sarai-new-delhi/info
+2024-02-27 17:11:04,839 - INFO - Processing URL: https://www.zomato.com/chennai/great-moghul-briyani-neelangarai/info
+2024-02-27 17:11:04,841 - INFO - Processing URL: https://www.zomato.com/bangalore/rcs-kitchen-btm-bangalore/info
+2024-02-27 17:11:04,849 - INFO - Processing URL: https://www.zomato.com/patna/spicy-chinese-fast-food-sri-krishnapuri/info
+2024-02-27 17:11:04,849 - INFO - Processing URL: https://www.zomato.com/jodhpur/vaishnav-vilas-namkin-paota/info
+2024-02-27 17:11:04,979 - INFO - Progress saved. Processed 400 URLs.
+2024-02-27 17:11:04,979 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-box-dlf-phase-3-gurgaon/info
+2024-02-27 17:11:04,984 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/mitha-pitha-chandrasekharpur-bhubaneshwar/info
+2024-02-27 17:11:04,986 - INFO - Processing URL: https://www.zomato.com/pune/barberry-fc-road/info
+2024-02-27 17:11:04,988 - INFO - Processing URL: https://www.zomato.com/ncr/midnight-cake-shop-udyog-vihar-gurgaon/info
+2024-02-27 17:11:12,786 - INFO - Processing URL: https://www.zomato.com/raipur/chokoloko-shankar-nagar/info
+2024-02-27 17:11:12,788 - INFO - Processing URL: https://www.zomato.com/ncr/parkash-bakery-malviya-nagar-new-delhi/info
+2024-02-27 17:11:12,789 - INFO - Processing URL: https://www.zomato.com/ahmedabad/prabhu-restaurant-satellite/info
+2024-02-27 17:11:12,792 - INFO - Processing URL: https://www.zomato.com/nagpur/khatri-bandhu-mastani-bajaj-nagar/info
+2024-02-27 17:11:12,793 - INFO - Processing URL: https://www.zomato.com/kanpur/gupta-mutton-corner-shastri-nagar/info
+2024-02-27 17:11:12,798 - INFO - Processing URL: https://www.zomato.com/chandigarh/new-vaishno-dhaba-dhakoli-zirakpur/info
+2024-02-27 17:11:12,824 - INFO - Progress saved. Processed 410 URLs.
+2024-02-27 17:11:12,824 - INFO - Processing URL: https://www.zomato.com/visakhapatnam/manikanda-parlour-maharani-peta-vizag/info
+2024-02-27 17:11:12,826 - INFO - Processing URL: https://www.zomato.com/jaipur/fastpizza-1-malviya-nagar/info
+2024-02-27 17:11:12,828 - INFO - Processing URL: https://www.zomato.com/jaipur/non-veg-point-mansarovar/info
+2024-02-27 17:11:12,830 - INFO - Processing URL: https://www.zomato.com/jabalpur/sonali-sweets-khamaria/info
+2024-02-27 17:11:19,117 - INFO - Processing URL: https://www.zomato.com/ncr/gyms-kook-xpress-south-city-gurgaon/info
+2024-02-27 17:11:19,119 - INFO - Processing URL: https://www.zomato.com/haridwar/gaurav-sweets-and-snacks-devpura/info
+2024-02-27 17:11:19,153 - INFO - Processing URL: https://www.zomato.com/bangalore/donne-biryani-hatti-vasanth-nagar/info
+2024-02-27 17:11:28,182 - INFO - Processing URL: https://www.zomato.com/ncr/uttrakhand-restaurant-khanpur-new-delhi/info
+2024-02-27 17:14:12,098 - INFO - Processing URL: https://www.zomato.com/vadodara/vaishali-restaurant-gotri/info
+2024-02-27 17:14:12,104 - INFO - Processing URL: https://www.zomato.com/kolkata/anokha-baghicha-park-circus-area/info
+2024-02-27 17:14:12,131 - INFO - Progress saved. Processed 420 URLs.
+2024-02-27 17:14:12,131 - INFO - Processing URL: https://www.zomato.com/vadodara/ms-food-point-bhayli/info
+2024-02-27 17:14:12,134 - INFO - Processing URL: https://www.zomato.com/mumbai/taheri-delights-hill-road-bandra-west/info
+2024-02-27 17:14:23,969 - INFO - Processing URL: https://www.zomato.com/udaipur/bhawani-pav-bhaji-panchwati/info
+2024-02-27 17:14:23,970 - INFO - Processing URL: https://www.zomato.com/chennai/paul-street-coffee-egmore/info
+2024-02-27 17:14:23,971 - INFO - Processing URL: https://www.zomato.com/hyderabad/trupthi-tiffins-meals-karkhana-secunderabad/info
+2024-02-27 17:14:29,204 - INFO - Processing URL: https://www.zomato.com/madurai/rajeswari-mess-pasumalai/info
+2024-02-27 17:14:29,205 - INFO - Processing URL: https://www.zomato.com/kochi/nova-cuisine-by-bread-world-elamkulam/info
+2024-02-27 17:14:29,207 - INFO - Processing URL: https://www.zomato.com/kolkata/flames-desapriya-park/info
+2024-02-27 17:14:29,209 - INFO - Processing URL: https://www.zomato.com/ahmedabad/a-magic-masala-vastral/info
+2024-02-27 17:14:29,211 - INFO - Processing URL: https://www.zomato.com/mumbai/celebrations-the-cake-shop-goregaon-east/info
+2024-02-27 17:14:29,243 - INFO - Progress saved. Processed 430 URLs.
+2024-02-27 17:14:29,244 - INFO - Processing URL: https://www.zomato.com/kochi/the-container-cafe-edappally/info
+2024-02-27 17:15:08,031 - INFO - Processing URL: https://www.zomato.com/mumbai/bombay-sandwich-juice-centre-panch-pakhadi-thane-west-thane/info
+2024-02-27 17:15:08,032 - INFO - Processing URL: https://www.zomato.com/mumbai/meher-da-dhaba-vasant-vihar-thane-west-thane/info
+2024-02-27 17:15:08,034 - INFO - Processing URL: https://www.zomato.com/lucknow/uncle-chinese-gomti-nagar/info
+2024-02-27 17:15:08,036 - INFO - Processing URL: https://www.zomato.com/bangalore/punjabi-grand-restaurant-btm-bangalore/info
+2024-02-27 17:15:08,038 - INFO - Processing URL: https://www.zomato.com/ncr/master-of-momos-shalimar-garden-ghaziabad/info
+2024-02-27 17:15:08,040 - INFO - Processing URL: https://www.zomato.com/pune/cafe-mh-12-rasta-peth/info
+2024-02-27 17:15:08,042 - INFO - Processing URL: https://www.zomato.com/jabalpur/popular-fresh-momos-n-more-civil-lines/info
+2024-02-27 17:15:08,044 - INFO - Processing URL: https://www.zomato.com/ooty/the-baron-elk-hill/info
+2024-02-27 17:15:08,045 - INFO - Processing URL: https://www.zomato.com/jalandhar/biryani-capital-model-town/info
+2024-02-27 17:15:08,065 - INFO - Progress saved. Processed 440 URLs.
+2024-02-27 17:15:08,065 - INFO - Processing URL: https://www.zomato.com/kolkata/wild-wings-xpress-behala/info
+2024-02-27 17:15:55,341 - INFO - Processing URL: https://www.zomato.com/chennai/rumali-restaurant-potheri/info
+2024-02-27 17:15:55,346 - INFO - Processing URL: https://www.zomato.com/mumbai/honey-bakers-seawoods-navi-mumbai/info
+2024-02-27 17:15:55,353 - INFO - Processing URL: https://www.zomato.com/ncr/fusion-kitchen-vikaspuri-new-delhi/info
+2024-02-27 17:16:11,930 - INFO - Processing URL: https://www.zomato.com/bangalore/pehla-niwala-electronic-city/info
+2024-02-27 17:16:11,932 - INFO - Processing URL: https://www.zomato.com/kolkata/thaaliwala-new-town/info
+2024-02-27 17:16:11,933 - INFO - Processing URL: https://www.zomato.com/mumbai/rasoi-kurla/info
+2024-02-27 17:16:11,933 - INFO - Processing URL: https://www.zomato.com/kolkata/mystic-spice-prince-anwar-shah-road/info
+2024-02-27 17:16:11,934 - INFO - Processing URL: https://www.zomato.com/varanasi/mr-dosa-mrs-chutney-bhelupur/info
+2024-02-27 17:16:11,935 - INFO - Processing URL: https://www.zomato.com/mumbai/snacks-junction-kandivali-east/info
+2024-02-27 17:16:58,663 - INFO - Progress saved. Processed 450 URLs.
+2024-02-27 17:16:58,663 - INFO - Processing URL: https://www.zomato.com/goa/foody-breaks-penha-de-franca/info
+2024-02-27 17:16:58,664 - INFO - Processing URL: https://www.zomato.com/mumbai/ayaz-biryani-bandra-talao-bandra-west/info
+2024-02-27 17:16:58,665 - INFO - Processing URL: https://www.zomato.com/kolkata/swagata-restaurant-baguihati/info
+2024-02-27 17:16:58,665 - INFO - Processing URL: https://www.zomato.com/guwahati/box-office-feast-chandmari/info
+2024-02-27 17:16:58,667 - INFO - Processing URL: https://www.zomato.com/bangalore/chorum-curryum-btm-bangalore/info
+2024-02-27 17:16:58,667 - INFO - Processing URL: https://www.zomato.com/thrissur/dominos-pizza-kizhakkumpattukara/info
+2024-02-27 17:16:58,668 - INFO - Processing URL: https://www.zomato.com/nashik/t20-foodz-parijat-nagar/info
+2024-02-27 17:17:18,488 - INFO - Processing URL: https://www.zomato.com/mumbai/pettoos-oshiwara/info
+2024-02-27 17:17:18,489 - INFO - Processing URL: https://www.zomato.com/pune/hotel-garib-nawaz-caterers-pimpri/info
+2024-02-27 17:17:18,489 - INFO - Processing URL: https://www.zomato.com/jalandhar/food-world-model-house/info
+2024-02-27 17:17:18,503 - INFO - Progress saved. Processed 460 URLs.
+2024-02-27 17:17:18,503 - INFO - Processing URL: https://www.zomato.com/chennai/the-flaming-wok-kolathur/info
+2024-02-27 17:17:18,504 - INFO - Processing URL: https://www.zomato.com/gwalior/grains-n-beans-1-thatipur/info
+2024-02-27 17:17:18,505 - INFO - Processing URL: https://www.zomato.com/lucknow/chai-peeni-hai-chowk/info
+2024-02-27 17:17:18,505 - INFO - Processing URL: https://www.zomato.com/jaipur/being-bollywood-2-mansarovar/info
+2024-02-27 17:17:18,506 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/tmn-restaurant-baramunda-bhubaneshwar/info
+2024-02-27 17:17:18,506 - INFO - Processing URL: https://www.zomato.com/chennai/karuupatti-gst-road/info
+2024-02-27 17:18:36,218 - INFO - Processing URL: https://www.zomato.com/dehradun/anas-andyz-balliwala/info
+2024-02-27 17:18:36,220 - INFO - Processing URL: https://www.zomato.com/ahmedabad/marshall-kalupur/info
+2024-02-27 17:18:36,224 - INFO - Processing URL: https://www.zomato.com/chandigarh/queenies-food-hub-sector-82-mohali/info
+2024-02-27 17:18:36,228 - INFO - Processing URL: https://www.zomato.com/mumbai/smaaash-lower-parel/info
+2024-02-27 17:18:36,266 - INFO - Progress saved. Processed 470 URLs.
+2024-02-27 17:18:36,266 - INFO - Processing URL: https://www.zomato.com/jamnagar/us-pizza-1-bedeswar/info
+2024-02-27 17:18:36,268 - INFO - Processing URL: https://www.zomato.com/cuttack/hot-curry-1-cda-sector-6/info
+2024-02-27 17:18:36,270 - INFO - Processing URL: https://www.zomato.com/aurangabad/royal-tara-pan-center-mondha/info
+2024-02-27 17:18:36,279 - INFO - Processing URL: https://www.zomato.com/trivandrum/zamzam-dosa-hut-ambalamukku/info
+2024-02-27 17:18:36,281 - INFO - Processing URL: https://www.zomato.com/ncr/ghar-ki-rasoi-sector-29-faridabad/info
+2024-02-27 17:19:36,666 - INFO - Processing URL: https://www.zomato.com/hyderabad/raj-chinese-fast-food-marredpally-secunderabad/info
+2024-02-27 17:19:36,667 - INFO - Processing URL: https://www.zomato.com/patna/patliputra-flavours-patliputra-colony/info
+2024-02-27 17:19:36,670 - INFO - Processing URL: https://www.zomato.com/hyderabad/mom-son-bakery-cafe-shamshabad/info
+2024-02-27 17:19:36,671 - INFO - Processing URL: https://www.zomato.com/ludhiana/cafe-old-school-janak-puri/info
+2024-02-27 17:19:36,671 - INFO - Processing URL: https://www.zomato.com/kolkata/kanha-esplanade/info
+2024-02-27 17:19:36,685 - INFO - Progress saved. Processed 480 URLs.
+2024-02-27 17:19:36,686 - INFO - Processing URL: https://www.zomato.com/mumbai/the-hotchick-cafe-juhu/info
+2024-02-27 17:19:36,686 - INFO - Processing URL: https://www.zomato.com/mumbai/tasty-chowpaty-ambernath/info
+2024-02-27 17:19:36,687 - INFO - Processing URL: https://www.zomato.com/nainital/alfaz-restaurant-tallital/info
+2024-02-27 17:19:36,688 - INFO - Processing URL: https://www.zomato.com/hyderabad/sri-balaji-bakers-and-fast-foods-narapally/info
+2024-02-27 17:19:36,688 - INFO - Processing URL: https://www.zomato.com/mumbai/conos-1-dombivali-east-thane/info
+2024-02-27 17:19:36,689 - INFO - Processing URL: https://www.zomato.com/mumbai/nau-se-barah-9-12-kopar-khairane-navi-mumbai/info
+2024-02-27 17:19:58,168 - INFO - Processing URL: https://www.zomato.com/nagpur/micasa-gokulpeth/info
+2024-02-27 17:20:18,312 - INFO - Processing URL: https://www.zomato.com/ncr/pizzeria-king-shakarpur-new-delhi/info
+2024-02-27 17:20:18,314 - INFO - Processing URL: https://www.zomato.com/jabalpur/karnawat-napier-town/info
+2024-02-27 17:20:18,316 - INFO - Processing URL: https://www.zomato.com/varanasi/the-kathi-king-nadesar/info
+2024-02-27 17:20:18,339 - INFO - Progress saved. Processed 490 URLs.
+2024-02-27 17:20:18,339 - INFO - Processing URL: https://www.zomato.com/pune/addah-the-o-hotel-koregaon-park/info
+2024-02-27 17:20:18,340 - INFO - Processing URL: https://www.zomato.com/mysore/best-of-bengal-gokulam/info
+2024-02-27 17:20:18,341 - INFO - Processing URL: https://www.zomato.com/jaipur/devs-kitchen-tonk-road/info
+2024-02-27 17:20:18,342 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-malvan-katta-majiwada-thane-west-thane/info
+2024-02-27 17:20:18,342 - INFO - Processing URL: https://www.zomato.com/mumbai/love-eat-dombivali-east-thane/info
+2024-02-27 17:20:18,343 - INFO - Processing URL: https://www.zomato.com/chandigarh/turning-11-punjabi-dhaba-sector-11/info
+2024-02-27 17:21:18,700 - INFO - Processing URL: https://www.zomato.com/ncr/gvp-creations-1-sector-62-noida/info
+2024-02-27 17:21:18,702 - INFO - Processing URL: https://www.zomato.com/nagpur/hotel-gulmohar-manish-nagar/info
+2024-02-27 17:21:18,704 - INFO - Processing URL: https://www.zomato.com/ncr/henrys-cafe-khanpur-new-delhi/info
+2024-02-27 17:21:18,705 - INFO - Processing URL: https://www.zomato.com/bhopal/chitwan-fine-dine-garden-restaurant-hoshangabad-road/info
+2024-02-27 17:21:18,730 - INFO - Progress saved. Processed 500 URLs.
+2024-02-27 17:21:18,731 - INFO - Processing URL: https://www.zomato.com/bangalore/fusion-tadka-bellandur-bangalore/info
+2024-02-27 17:21:18,732 - INFO - Processing URL: https://www.zomato.com/mumbai/lokmanya-lunch-home-upvan-thane-west-thane/info
+2024-02-27 17:21:18,733 - INFO - Processing URL: https://www.zomato.com/ludhiana/the-urben-bru-sector-32/info
+2024-02-27 17:21:18,734 - INFO - Processing URL: https://www.zomato.com/kolkata/khabar-ghar-gariahat/info
+2024-02-27 17:21:18,736 - INFO - Processing URL: https://www.zomato.com/vadodara/rajdeep-khaman-manjalpur/info
+2024-02-27 17:21:18,742 - INFO - Processing URL: https://www.zomato.com/ncr/taste-of-assam-lajpat-nagar-4-new-delhi/info
+2024-02-27 17:21:18,746 - INFO - Processing URL: https://www.zomato.com/lucknow/italian-delight-alambagh/info
+2024-02-27 17:21:18,747 - INFO - Processing URL: https://www.zomato.com/bangalore/mama-mya-cafe-basavanagudi-bangalore/info
+2024-02-27 17:21:18,748 - INFO - Processing URL: https://www.zomato.com/mumbai/khalbatta-chicken-1-virar/info
+2024-02-27 17:21:18,749 - INFO - Processing URL: https://www.zomato.com/hyderabad/gobogo-kukatpally/info
+2024-02-27 17:21:18,778 - INFO - Progress saved. Processed 510 URLs.
+2024-02-27 17:21:18,779 - INFO - Processing URL: https://www.zomato.com/kanpur/v-square-coffee-cafe-kakadeo/info
+2024-02-27 17:21:18,780 - INFO - Processing URL: https://www.zomato.com/ncr/mixtrix-uttam-nagar-new-delhi/info
+2024-02-27 17:21:18,782 - INFO - Processing URL: https://www.zomato.com/bangalore/arun-icecreams-jp-nagar/info
+2024-02-27 17:21:18,783 - INFO - Processing URL: https://www.zomato.com/pune/meal-me-up-kharadi/info
+2024-02-27 17:21:18,785 - INFO - Processing URL: https://www.zomato.com/jaipur/doughmato-malviya-nagar/info
+2024-02-27 17:21:18,786 - INFO - Processing URL: https://www.zomato.com/ncr/hari-mahal-mayapuri-phase-2-new-delhi/info
+2024-02-27 17:21:18,788 - INFO - Processing URL: https://www.zomato.com/ncr/jacq-food-sector-44-gurgaon/info
+2024-02-27 17:21:18,790 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-malvani-tadka-parel/info
+2024-02-27 17:21:18,791 - INFO - Processing URL: https://www.zomato.com/ncr/nomadz-indirapuram-ghaziabad/info
+2024-02-27 17:21:18,793 - INFO - Processing URL: https://www.zomato.com/goa/lounge-terminal-panaji/info
+2024-02-27 17:21:18,809 - INFO - Progress saved. Processed 520 URLs.
+2024-02-27 17:21:18,810 - INFO - Processing URL: https://www.zomato.com/amritsar/mcdonalds-basant-nagar/info
+2024-02-27 17:21:18,811 - INFO - Processing URL: https://www.zomato.com/pune/sairaj-rolls-house-balewadi/info
+2024-02-27 17:21:28,032 - INFO - Processing URL: https://www.zomato.com/ncr/cafe-bistreet-sector-22-gurgaon/info
+2024-02-27 17:21:28,033 - INFO - Processing URL: https://www.zomato.com/jaipur/trouville-kukas/info
+2024-02-27 17:21:28,034 - INFO - Processing URL: https://www.zomato.com/chennai/poppies-multicuisine-restaurant-adyar/info
+2024-02-27 17:22:04,734 - INFO - Processing URL: https://www.zomato.com/bangalore/mitraan-da-dhaba-yelahanka-bangalore/info
+2024-02-27 17:22:04,735 - INFO - Processing URL: https://www.zomato.com/kolkata/food-step-new-town/info
+2024-02-27 17:23:29,925 - INFO - Processing URL: https://www.zomato.com/kolkata/desi-jalpan-liluah-howrah/info
+2024-02-27 17:23:29,926 - INFO - Processing URL: https://www.zomato.com/pune/smoky-sports-lounge-akurdi/info
+2024-02-27 17:23:29,927 - INFO - Processing URL: https://www.zomato.com/bangalore/mystique-palate-jayanagar/info
+2024-02-27 17:23:29,982 - INFO - Progress saved. Processed 530 URLs.
+2024-02-27 17:23:29,982 - INFO - Processing URL: https://www.zomato.com/vadodara/havmor-ice-cream-parlour-kendranagar/info
+2024-02-27 17:23:30,020 - INFO - Processing URL: https://www.zomato.com/ncr/sartaj-food-corner-malviya-nagar-new-delhi/info
+2024-02-27 17:23:30,022 - INFO - Processing URL: https://www.zomato.com/mumbai/pefe-andheri-lokhandwala/info
+2024-02-27 17:23:30,024 - INFO - Processing URL: https://www.zomato.com/nashik/house-of-flavours-satpur/info
+2024-02-27 17:23:30,024 - INFO - Processing URL: https://www.zomato.com/pune/on-the-grill-1-balewadi/info
+2024-02-27 17:23:30,025 - INFO - Processing URL: https://www.zomato.com/varanasi/matka-matan-corner-chetganj/info
+2024-02-27 17:23:30,026 - INFO - Processing URL: https://www.zomato.com/hyderabad/menu-home-cooked-s-r-nagar/info
+2024-02-27 17:23:30,027 - INFO - Processing URL: https://www.zomato.com/manipal/vaibhava-eshwar-nagar/info
+2024-02-27 17:25:50,279 - INFO - Processing URL: https://www.zomato.com/kolkata/babumoshai-restaurant-barasat/info
+2024-02-27 17:25:50,281 - INFO - Processing URL: https://www.zomato.com/gwalior/punjab-da-tadka-madhav-ganj/info
+2024-02-27 17:25:50,362 - INFO - Progress saved. Processed 540 URLs.
+2024-02-27 17:25:50,362 - INFO - Processing URL: https://www.zomato.com/ncr/annapurna-rasoi-sector-50-gurgaon/info
+2024-02-27 17:25:50,363 - INFO - Processing URL: https://www.zomato.com/ncr/2-bros-kitchen-sector-62-noida/info
+2024-02-27 17:25:50,366 - INFO - Processing URL: https://www.zomato.com/ncr/indian-aroma-sector-72-noida/info
+2024-02-27 17:25:50,375 - INFO - Processing URL: https://www.zomato.com/indore/new-seating-zone-restaurant-vijay-nagar/info
+2024-02-27 17:25:50,377 - INFO - Processing URL: https://www.zomato.com/hyderabad/siddique-kabab-centre-tolichowki/info
+2024-02-27 17:25:50,379 - INFO - Processing URL: https://www.zomato.com/pune/hotel-gharangan-pune-solapur-road/info
+2024-02-27 17:25:50,390 - INFO - Processing URL: https://www.zomato.com/indore/bombay-bahu-chinese-point-sarafa-bazaar/info
+2024-02-27 17:25:50,392 - INFO - Processing URL: https://www.zomato.com/dehradun/royal-multi-cuisine-restaurant-bar-karanpur/info
+2024-02-27 17:25:50,394 - INFO - Processing URL: https://www.zomato.com/nagpur/hotel-new-delhi-darbar-mankapur/info
+2024-02-27 17:25:50,396 - INFO - Processing URL: https://www.zomato.com/ncr/armani-kg-biryani-mg-road-gurgaon/info
+2024-02-27 17:25:50,462 - INFO - Progress saved. Processed 550 URLs.
+2024-02-27 17:25:50,462 - INFO - Processing URL: https://www.zomato.com/manipal/odeya-restaurant-maruthi-veethika/info
+2024-02-27 17:25:50,463 - INFO - Processing URL: https://www.zomato.com/mysore/pasta-mexican-jayalakhsmipuram/info
+2024-02-27 17:25:50,464 - INFO - Processing URL: https://www.zomato.com/kota/ratlami-namkeens-rps-colony/info
+2024-02-27 17:25:50,474 - INFO - Processing URL: https://www.zomato.com/mumbai/3sqrmeals-azad-nagar/info
+2024-02-27 17:25:50,478 - INFO - Processing URL: https://www.zomato.com/ncr/chination-beta-2-greater-noida/info
+2024-02-27 17:25:50,492 - INFO - Processing URL: https://www.zomato.com/ncr/vk-restaurant-2-indirapuram-ghaziabad/info
+2024-02-27 17:25:50,496 - INFO - Processing URL: https://www.zomato.com/mumbai/cafe-paris-colaba/info
+2024-02-27 17:25:50,497 - INFO - Processing URL: https://www.zomato.com/pune/maratha-mejwaani-1-mundhwa/info
+2024-02-27 17:25:50,505 - INFO - Processing URL: https://www.zomato.com/pune/al-azka-biryani-wagholi/info
+2024-02-27 17:25:50,507 - INFO - Processing URL: https://www.zomato.com/ncr/pizza-96-sainik-farms-new-delhi/info
+2024-02-27 17:26:05,059 - INFO - Progress saved. Processed 560 URLs.
+2024-02-27 17:26:05,059 - INFO - Processing URL: https://www.zomato.com/ncr/pizzas-house-sector-29-faridabad/info
+2024-02-27 17:26:05,061 - INFO - Processing URL: https://www.zomato.com/chennai/hideout-cafe-lounge-mylapore/info
+2024-02-27 17:26:05,062 - INFO - Processing URL: https://www.zomato.com/pune/naansense-indian-delivery-kitchen-pimple-saudagar/info
+2024-02-27 17:26:05,063 - INFO - Processing URL: https://www.zomato.com/ncr/foodies-corner-naraina-new-delhi/info
+2024-02-27 17:26:05,064 - INFO - Processing URL: https://www.zomato.com/ncr/king-of-parantha-kalkaji-new-delhi/info
+2024-02-27 17:26:05,066 - INFO - Processing URL: https://www.zomato.com/mumbai/shaan-chinese-corner-fort/info
+2024-02-27 17:26:05,071 - INFO - Processing URL: https://www.zomato.com/ludhiana/tummy-tiklers-model-town/info
+2024-02-27 17:26:05,077 - INFO - Processing URL: https://www.zomato.com/cuttack/dominos-pizza-siba-bazaar/info
+2024-02-27 17:26:05,079 - INFO - Processing URL: https://www.zomato.com/hyderabad/d-destino-dilsukhnagar/info
+2024-02-27 17:27:43,697 - INFO - Processing URL: https://www.zomato.com/chennai/nala-idly-shop-kanchipuram-district/info
+2024-02-27 17:27:43,722 - INFO - Progress saved. Processed 570 URLs.
+2024-02-27 17:27:43,722 - INFO - Processing URL: https://www.zomato.com/ncr/towns-kitchen-south-city-2-gurgaon/info
+2024-02-27 17:27:43,725 - INFO - Processing URL: https://www.zomato.com/ncr/edc-mania-yusuf-sarai-new-delhi/info
+2024-02-27 17:27:43,726 - INFO - Processing URL: https://www.zomato.com/mumbai/big-chefs-restaurant-malad-west/info
+2024-02-27 17:27:43,731 - INFO - Processing URL: https://www.zomato.com/kolkata/the-french-loaf-elgin/info
+2024-02-27 17:27:43,734 - INFO - Processing URL: https://www.zomato.com/ncr/food-lovers-1-rajouri-garden-new-delhi/info
+2024-02-27 17:27:43,736 - INFO - Processing URL: https://www.zomato.com/mumbai/apna-fast-food-centre-colaba/info
+2024-02-27 17:27:43,738 - INFO - Processing URL: https://www.zomato.com/patna/hotel-the-pride-golambar/info
+2024-02-27 17:27:43,740 - INFO - Processing URL: https://www.zomato.com/nashik/cafe-royale-panchavati/info
+2024-02-27 17:27:43,741 - INFO - Processing URL: https://www.zomato.com/visakhapatnam/sri-sai-durga-tiffins-madhurawada-vizag/info
+2024-02-27 17:28:21,268 - INFO - Processing URL: https://www.zomato.com/bangalore/the-spice-factory-hsr/info
+2024-02-27 17:28:21,290 - INFO - Progress saved. Processed 580 URLs.
+2024-02-27 17:28:21,291 - INFO - Processing URL: https://www.zomato.com/ncr/calcutta-food-street-2-sushant-lok-gurgaon/info
+2024-02-27 17:28:21,292 - INFO - Processing URL: https://www.zomato.com/mumbai/raat-ki-rasoi-andheri-lokhandwala/info
+2024-02-27 17:28:21,292 - INFO - Processing URL: https://www.zomato.com/patiala/rolla-costa-model-town/info
+2024-02-27 17:28:21,293 - INFO - Processing URL: https://www.zomato.com/pune/aachari-snacks-paratha-house-erandwane/info
+2024-02-27 17:28:21,294 - INFO - Processing URL: https://www.zomato.com/hyderabad/cafe-sengys-saroor-nagar/info
+2024-02-27 17:28:21,294 - INFO - Processing URL: https://www.zomato.com/ncr/vaishno-punjabi-dhaba-rohini-delhi/info
+2024-02-27 17:28:21,295 - INFO - Processing URL: https://www.zomato.com/mumbai/the-bombay-curry-3-khar/info
+2024-02-27 17:28:21,295 - INFO - Processing URL: https://www.zomato.com/agra/royals-cafe-corner-restaurant-tajganj/info
+2024-02-27 17:28:21,296 - INFO - Processing URL: https://www.zomato.com/kolkata/food-buxx-chinar-park/info
+2024-02-27 17:28:21,296 - INFO - Processing URL: https://www.zomato.com/coimbatore/rollzbbq-gandhipuram/info
+2024-02-27 17:28:21,319 - INFO - Progress saved. Processed 590 URLs.
+2024-02-27 17:28:21,319 - INFO - Processing URL: https://www.zomato.com/ncr/bhati-sweets-restaurant-gamma-1/info
+2024-02-27 17:28:21,319 - INFO - Processing URL: https://www.zomato.com/chennai/bharani-kitchenz-kodambakkam/info
+2024-02-27 17:28:21,320 - INFO - Processing URL: https://www.zomato.com/ahmedabad/the-chocolate-factory-ambavadi/info
+2024-02-27 17:28:21,321 - INFO - Processing URL: https://www.zomato.com/hyderabad/lovely-fast-food-alwal-secunderabad/info
+2024-02-27 17:30:26,797 - INFO - Processing URL: https://www.zomato.com/ncr/woke-cold-brew-coffee-saket-new-delhi/info
+2024-02-27 17:30:26,799 - INFO - Processing URL: https://www.zomato.com/lucknow/siraj-restaurant-1-chowk/info
+2024-02-27 17:30:26,800 - INFO - Processing URL: https://www.zomato.com/salem/errols-kabab-alagapuram-pudur/info
+2024-02-27 17:30:26,809 - INFO - Processing URL: https://www.zomato.com/mumbai/flamboyante-cuffe-parade/info
+2024-02-27 17:30:26,813 - INFO - Processing URL: https://www.zomato.com/ncr/muradabadi-special-shahi-biryani-vikaspuri-new-delhi/info
+2024-02-27 17:30:26,815 - INFO - Processing URL: https://www.zomato.com/chennai/the-kanteen-navallur/info
+2024-02-27 17:30:26,850 - INFO - Progress saved. Processed 600 URLs.
+2024-02-27 17:30:26,850 - INFO - Processing URL: https://www.zomato.com/ahmedabad/tadka-restaurant-1-chandkheda/info
+2024-02-27 17:30:26,852 - INFO - Processing URL: https://www.zomato.com/mumbai/cake-factory-santacruz-east/info
+2024-02-27 17:30:26,853 - INFO - Processing URL: https://www.zomato.com/chennai/wrapsody-akkarai/info
+2024-02-27 17:30:26,855 - INFO - Processing URL: https://www.zomato.com/raipur/maa-bhawani-choose-fresh-civil-lines/info
+2024-02-27 17:30:26,855 - INFO - Processing URL: https://www.zomato.com/kolkata/d-sapphire-restaurant-kaikhali/info
+2024-02-27 17:30:26,857 - INFO - Processing URL: https://www.zomato.com/varanasi/ganesh-chat-bhandar-mahmoorganj/info
+2024-02-27 17:30:26,858 - INFO - Processing URL: https://www.zomato.com/ncr/punjabi-dhaba-sector-29-noida/info
+2024-02-27 17:30:26,865 - INFO - Processing URL: https://www.zomato.com/ncr/republic-of-chicken-gaur-city-2-greater-noida/info
+2024-02-27 17:30:26,868 - INFO - Processing URL: https://www.zomato.com/kolkata/ambe-fast-food-new-market-area/info
+2024-02-27 17:30:26,869 - INFO - Processing URL: https://www.zomato.com/surat/falafel-lovers-city-light/info
+2024-02-27 17:30:26,909 - INFO - Progress saved. Processed 610 URLs.
+2024-02-27 17:30:26,915 - INFO - Processing URL: https://www.zomato.com/ncr/bikano-cafe-sector-29-gurgaon/info
+2024-02-27 17:31:00,675 - INFO - Processing URL: https://www.zomato.com/kolkata/hot-kettle-barrackpore/info
+2024-02-27 17:31:00,677 - INFO - Processing URL: https://www.zomato.com/ncr/snacks-24x7-sector-56-gurgaon/info
+2024-02-27 17:31:00,678 - INFO - Processing URL: https://www.zomato.com/nagpur/food-o-clock-manish-nagar/info
+2024-02-27 17:31:00,683 - INFO - Processing URL: https://www.zomato.com/udaipur/manwar-pichola/info
+2024-02-27 17:31:00,687 - INFO - Processing URL: https://www.zomato.com/chennai/swamis-kitchen-k-k-nagar/info
+2024-02-27 17:31:00,688 - INFO - Processing URL: https://www.zomato.com/jaipur/royal-family-restaurant-cafe-tonk-road/info
+2024-02-27 17:31:00,690 - INFO - Processing URL: https://www.zomato.com/mumbai/s4-nalasopara/info
+2024-02-27 17:31:00,691 - INFO - Processing URL: https://www.zomato.com/goa/taste-of-goa-margao/info
+2024-02-27 17:31:00,693 - INFO - Processing URL: https://www.zomato.com/bangalore/royal-indraprastha-rajarajeshwari-nagar-bangalore/info
+2024-02-27 17:31:00,728 - INFO - Progress saved. Processed 620 URLs.
+2024-02-27 17:31:00,728 - INFO - Processing URL: https://www.zomato.com/pune/dhaneshwar-hotel-2-pimpri/info
+2024-02-27 17:31:00,733 - INFO - Processing URL: https://www.zomato.com/ncr/crazy-noodles-shahdara-new-delhi/info
+2024-02-27 17:31:00,738 - INFO - Processing URL: https://www.zomato.com/ncr/house-of-flavours-sector-50-gurgaon/info
+2024-02-27 17:31:00,740 - INFO - Processing URL: https://www.zomato.com/agra/agarwal-sweet-house-khandari/info
+2024-02-27 17:31:00,742 - INFO - Processing URL: https://www.zomato.com/indore/pind-balluchi-vijay-nagar/info
+2024-02-27 17:31:00,743 - INFO - Processing URL: https://www.zomato.com/hyderabad/mithra-da-dhaba-lingampally/info
+2024-02-27 17:31:00,744 - INFO - Processing URL: https://www.zomato.com/indore/agrawal-ice-cream-sarafa-bazaar/info
+2024-02-27 17:31:00,745 - INFO - Processing URL: https://www.zomato.com/chennai/aroma-restaurant-kodambakkam/info
+2024-02-27 17:31:00,746 - INFO - Processing URL: https://www.zomato.com/pune/hotel-r-r-restaurant-bar-pimpri/info
+2024-02-27 17:31:00,748 - INFO - Processing URL: https://www.zomato.com/nagpur/coriander-leaf-bajaj-nagar/info
+2024-02-27 17:31:00,778 - INFO - Progress saved. Processed 630 URLs.
+2024-02-27 17:31:00,778 - INFO - Processing URL: https://www.zomato.com/trichy/the-clappers-bistro-kattur/info
+2024-02-27 17:31:00,781 - INFO - Processing URL: https://www.zomato.com/meerut/avon-bakers-meerut-cantt/info
+2024-02-27 17:31:00,783 - INFO - Processing URL: https://www.zomato.com/nagpur/majaama-gujarati-foods-nandanvan/info
+2024-02-27 17:31:00,787 - INFO - Processing URL: https://www.zomato.com/ncr/kings-chinese-express-sector-14-dwarka-new-delhi/info
+2024-02-27 17:31:00,788 - INFO - Processing URL: https://www.zomato.com/pune/tea-cozy-salunkhe-vihar-road/info
+2024-02-27 17:33:20,181 - INFO - Processing URL: https://www.zomato.com/hyderabad/cashew-house-kukatpally/info
+2024-02-27 17:33:20,183 - INFO - Processing URL: https://www.zomato.com/bangalore/cheers-pub-bar-restro-koramangala-4th-block-bangalore/info
+2024-02-27 17:33:20,187 - INFO - Processing URL: https://www.zomato.com/ncr/excellent-food-point-sector-15-dwarka-new-delhi/info
+2024-02-27 17:33:20,189 - INFO - Processing URL: https://www.zomato.com/ncr/fundays-paschim-vihar-new-delhi/info
+2024-02-27 17:33:20,191 - INFO - Processing URL: https://www.zomato.com/ncr/red-tomato-restaurant-and-bakery-shastri-nagar-ghaziabad/info
+2024-02-27 17:33:20,223 - INFO - Progress saved. Processed 640 URLs.
+2024-02-27 17:33:20,224 - INFO - Processing URL: https://www.zomato.com/mumbai/raju-pav-bhaji-counter-kandivali-west/info
+2024-02-27 17:33:32,404 - INFO - Processing URL: https://www.zomato.com/guwahati/titikshas-bake-junction-1-bharalumukh/info
+2024-02-27 17:33:32,405 - INFO - Processing URL: https://www.zomato.com/bhopal/ocean-cafe-1-gulmohar-colony/info
+2024-02-27 17:33:32,406 - INFO - Processing URL: https://www.zomato.com/ranchi/fork-n-cork-kanka/info
+2024-02-27 17:33:32,408 - INFO - Processing URL: https://www.zomato.com/ranchi/7th-heaven-lalpur/info
+2024-02-27 17:33:32,410 - INFO - Processing URL: https://www.zomato.com/ajmer/un-curry-by-data-inn-dhola-bhata-colony/info
+2024-02-27 17:33:32,413 - INFO - Processing URL: https://www.zomato.com/pune/chicken-xperience-by-venkys-1-hinjawadi/info
+2024-02-27 17:33:32,418 - INFO - Processing URL: https://www.zomato.com/chennai/hotel-nawab-1-red-hills/info
+2024-02-27 17:33:32,418 - INFO - Processing URL: https://www.zomato.com/mumbai/agape-caterers-borivali-west/info
+2024-02-27 17:33:32,419 - INFO - Processing URL: https://www.zomato.com/pune/tiffins-homely-meals-kothrud/info
+2024-02-27 17:33:32,437 - INFO - Progress saved. Processed 650 URLs.
+2024-02-27 17:33:32,438 - INFO - Processing URL: https://www.zomato.com/mumbai/oho-parathas-jogeshwari/info
+2024-02-27 17:33:32,439 - INFO - Processing URL: https://www.zomato.com/ncr/chauhan-food-corner-najafgarh-new-delhi/info
+2024-02-27 17:33:32,440 - INFO - Processing URL: https://www.zomato.com/ncr/udaipuri-sector-53-gurgaon/info
+2024-02-27 17:33:32,441 - INFO - Processing URL: https://www.zomato.com/gorakhpur/new-manoranjan-bakers-sweets-azad-nagar/info
+2024-02-27 17:33:32,442 - INFO - Processing URL: https://www.zomato.com/ajmer/tejasvini-foods-kundan-nagar/info
+2024-02-27 17:33:32,442 - INFO - Processing URL: https://www.zomato.com/jabalpur/kasturi-restaurant-vijay-nagar/info
+2024-02-27 17:33:32,443 - INFO - Processing URL: https://www.zomato.com/kolkata/walkin-park-circus-area/info
+2024-02-27 17:33:32,444 - INFO - Processing URL: https://www.zomato.com/chandigarh/dhaba-71-sector-70-mohali/info
+2024-02-27 17:35:17,231 - INFO - Processing URL: https://www.zomato.com/ncr/radha-swami-dhaba-subhash-nagar-new-delhi/info
+2024-02-27 17:35:17,232 - INFO - Processing URL: https://www.zomato.com/kota/magnet-the-rooftop-cafe-chawani/info
+2024-02-27 17:35:17,250 - INFO - Progress saved. Processed 660 URLs.
+2024-02-27 17:35:17,251 - INFO - Processing URL: https://www.zomato.com/pune/goli-vada-pav-no-1-katraj/info
+2024-02-27 17:35:17,252 - INFO - Processing URL: https://www.zomato.com/salem/foodies-alagapuram-pudur/info
+2024-02-27 17:35:21,014 - INFO - Processing URL: https://www.zomato.com/bangalore/kolkataz-cv-raman-nagar/info
+2024-02-27 17:35:21,016 - INFO - Processing URL: https://www.zomato.com/kolkata/new-herbs-and-spices-thakur-pukur/info
+2024-02-27 17:35:21,019 - INFO - Processing URL: https://www.zomato.com/pune/rn-cafe-kondhwa/info
+2024-02-27 17:35:21,020 - INFO - Processing URL: https://www.zomato.com/mumbai/aishwarya-lunch-home-naupada-thane-west/info
+2024-02-27 17:35:21,031 - INFO - Processing URL: https://www.zomato.com/bhopal/chimney-the-celestial-park-hotel-hoshangabad-road/info
+2024-02-27 17:35:21,032 - INFO - Processing URL: https://www.zomato.com/guwahati/the-zouq-resto-cafe-beltola/info
+2024-02-27 17:35:21,034 - INFO - Processing URL: https://www.zomato.com/ncr/smitten-bakery-patisserie-shahpur-jat-new-delhi/info
+2024-02-27 17:35:21,037 - INFO - Processing URL: https://www.zomato.com/chennai/hotel-new-punjabi-dhaba-potheri/info
+2024-02-27 17:35:21,078 - INFO - Progress saved. Processed 670 URLs.
+2024-02-27 17:35:21,080 - INFO - Processing URL: https://www.zomato.com/ncr/hot-n-crusty-lajpat-nagar-2-new-delhi/info
+2024-02-27 17:35:21,081 - INFO - Processing URL: https://www.zomato.com/kolkata/ek-din-prati-din-1-new-alipore/info
+2024-02-27 17:35:21,083 - INFO - Processing URL: https://www.zomato.com/ncr/annpurna-sector-62-noida/info
+2024-02-27 17:35:21,086 - INFO - Processing URL: https://www.zomato.com/vadodara/hilton-waves-karelibaug/info
+2024-02-27 17:35:21,088 - INFO - Processing URL: https://www.zomato.com/patna/monginis-kurji/info
+2024-02-27 17:35:21,089 - INFO - Processing URL: https://www.zomato.com/aurangabad/madhur-jain-veg-gadia-vihar/info
+2024-02-27 17:35:21,093 - INFO - Processing URL: https://www.zomato.com/ncr/spring-onion-indirapuram-ghaziabad/info
+2024-02-27 17:35:21,095 - INFO - Processing URL: https://www.zomato.com/pune/ncc-canteen-senapati-bapat-road/info
+2024-02-27 17:35:21,097 - INFO - Processing URL: https://www.zomato.com/aurangabad/naivedya-cidco/info
+2024-02-27 17:36:31,529 - INFO - Processing URL: https://www.zomato.com/mumbai/chef-town-manpada-thane-west-thane/info
+2024-02-27 17:36:31,550 - INFO - Progress saved. Processed 680 URLs.
+2024-02-27 17:36:31,550 - INFO - Processing URL: https://www.zomato.com/ncr/blinnaya-the-russian-kitchen-lajpat-nagar-4-new-delhi/info
+2024-02-27 17:36:31,552 - INFO - Processing URL: https://www.zomato.com/ncr/bunz-dogz-sector-62-noida/info
+2024-02-27 17:36:31,553 - INFO - Processing URL: https://www.zomato.com/kochi/legacy-food-court-lassi-factory-kalamassery/info
+2024-02-27 17:36:31,553 - INFO - Processing URL: https://www.zomato.com/hyderabad/sri-venkateswara-hotel-nizampet/info
+2024-02-27 17:36:31,554 - INFO - Processing URL: https://www.zomato.com/ncr/crrazy-cakes-jail-road-new-delhi/info
+2024-02-27 17:36:31,555 - INFO - Processing URL: https://www.zomato.com/jhansi/sher-e-punjab-dhaba-cantt/info
+2024-02-27 17:36:31,555 - INFO - Processing URL: https://www.zomato.com/kota/pratap-nonveg-point-talwandi/info
+2024-02-27 17:37:36,812 - INFO - Processing URL: https://www.zomato.com/ncr/sagar-bar-be-que-gole-market-new-delhi/info
+2024-02-27 17:37:36,814 - INFO - Processing URL: https://www.zomato.com/pune/rudra-pure-veg-shivane/info
+2024-02-27 17:37:36,814 - INFO - Processing URL: https://www.zomato.com/ahmedabad/eggs-point-airport-gandhinagar-highway-gandhinagar/info
+2024-02-27 17:37:36,852 - INFO - Progress saved. Processed 690 URLs.
+2024-02-27 17:37:36,852 - INFO - Processing URL: https://www.zomato.com/patna/chatkara-food-court-khajpura/info
+2024-02-27 17:37:36,856 - INFO - Processing URL: https://www.zomato.com/nagpur/swad-paratha-centre-ayodhya-nagar/info
+2024-02-27 17:37:36,859 - INFO - Processing URL: https://www.zomato.com/chennai/royal-king-of-shawarma-vettuvankeni/info
+2024-02-27 17:37:36,861 - INFO - Processing URL: https://www.zomato.com/jaipur/choudhary-annapurna-bhojanalaya-khatipura-road/info
+2024-02-27 17:37:36,863 - INFO - Processing URL: https://www.zomato.com/mumbai/mohan-sandwich-center-girgaum/info
+2024-02-27 17:37:36,864 - INFO - Processing URL: https://www.zomato.com/dehradun/mr-mrs-cafe-morowala/info
+2024-02-27 17:37:36,865 - INFO - Processing URL: https://www.zomato.com/ncr/fatjar-pizzeria-kailash-colony-new-delhi/info
+2024-02-27 17:37:36,866 - INFO - Processing URL: https://www.zomato.com/ahmedabad/al-shez-sarkhej/info
+2024-02-27 17:38:11,429 - INFO - Processing URL: https://www.zomato.com/ncr/metro-food-junction-kamla-nagar-new-delhi/info
+2024-02-27 17:38:11,430 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/hi-bhubaneswar-patia-bhubaneshwar/info
+2024-02-27 17:38:11,463 - INFO - Progress saved. Processed 700 URLs.
+2024-02-27 17:38:11,463 - INFO - Processing URL: https://www.zomato.com/ncr/namaste-kitchen-vaishali-ghaziabad/info
+2024-02-27 17:38:11,465 - INFO - Processing URL: https://www.zomato.com/vadodara/edisons-experiments-with-milk-vadiwadi/info
+2024-02-27 17:38:11,466 - INFO - Processing URL: https://www.zomato.com/ncr/pummy-chicken-pitampura-new-delhi/info
+2024-02-27 17:38:11,467 - INFO - Processing URL: https://www.zomato.com/ncr/kays-food-cafe-tilak-nagar-new-delhi/info
+2024-02-27 17:38:15,828 - INFO - Processing URL: https://www.zomato.com/udaipur/ali-restaurant-hiran-magri/info
+2024-02-27 17:38:15,829 - INFO - Processing URL: https://www.zomato.com/ncr/fruktville-cafe-punjabi-bagh-new-delhi/info
+2024-02-27 17:38:15,834 - INFO - Processing URL: https://www.zomato.com/lucknow/al-baik-co-in-aliganj/info
+2024-02-27 17:38:15,836 - INFO - Processing URL: https://www.zomato.com/bhopal/swad-sandesh-kolar/info
+2024-02-27 17:38:15,837 - INFO - Processing URL: https://www.zomato.com/ncr/the-lazy-chef-sector-4-noida/info
+2024-02-27 17:38:15,838 - INFO - Processing URL: https://www.zomato.com/chennai/sri-sai-bakery-medavakkam/info
+2024-02-27 17:38:15,855 - INFO - Progress saved. Processed 710 URLs.
+2024-02-27 17:38:15,855 - INFO - Processing URL: https://www.zomato.com/gorakhpur/varnica-tiffin-services-golghar/info
+2024-02-27 17:38:15,856 - INFO - Processing URL: https://www.zomato.com/chennai/jumanji-junction-kilpauk/info
+2024-02-27 17:38:15,858 - INFO - Processing URL: https://www.zomato.com/mumbai/durga-vihar-panch-pakhadi-thane-west/info
+2024-02-27 17:38:15,859 - INFO - Processing URL: https://www.zomato.com/kolhapur/cafe-xd-tarabhai-park/info
+2024-02-27 17:38:15,859 - INFO - Processing URL: https://www.zomato.com/bangalore/sri-sai-sagar-food-mg-road/info
+2024-02-27 17:38:15,860 - INFO - Processing URL: https://www.zomato.com/nagpur/the-big-mouth-1-hingna-t-point/info
+2024-02-27 17:38:15,861 - INFO - Processing URL: https://www.zomato.com/ahmedabad/london-bubble-co-bodakdev/info
+2024-02-27 17:38:15,861 - INFO - Processing URL: https://www.zomato.com/chennai/leo-coffee-vadapalani/info
+2024-02-27 17:38:15,862 - INFO - Processing URL: https://www.zomato.com/ncr/social-foodie-inside-1-vikaspuri-new-delhi/info
+2024-02-27 17:38:15,862 - INFO - Processing URL: https://www.zomato.com/pune/manohar-fast-food-erandwane/info
+2024-02-27 17:38:15,885 - INFO - Progress saved. Processed 720 URLs.
+2024-02-27 17:38:15,885 - INFO - Processing URL: https://www.zomato.com/jabalpur/kivi-the-fooders-zone-garha/info
+2024-02-27 17:38:15,888 - INFO - Processing URL: https://www.zomato.com/ahmedabad/jps-pizzeria-cafe-infocity-gandhinagar/info
+2024-02-27 17:38:15,889 - INFO - Processing URL: https://www.zomato.com/amritsar/american-food-basant-nagar/info
+2024-02-27 17:38:15,891 - INFO - Processing URL: https://www.zomato.com/ncr/pahalwan-dhaba-chhatarpur-new-delhi/info
+2024-02-27 17:38:15,893 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/street-foods-by-punjab-grill-2-patrapada-bhubaneshwar/info
+2024-02-27 17:38:15,895 - INFO - Processing URL: https://www.zomato.com/mysore/new-mysore-refreshment-ittige-gudu/info
+2024-02-27 17:38:15,895 - INFO - Processing URL: https://www.zomato.com/guwahati/spicy-affair-amingaon/info
+2024-02-27 17:38:15,897 - INFO - Processing URL: https://www.zomato.com/rajkot/patel-vihar-restaurant-150-feet-ring-road/info
+2024-02-27 17:38:15,897 - INFO - Processing URL: https://www.zomato.com/ncr/bigbee-lawrence-road-new-delhi/info
+2024-02-27 17:39:36,214 - INFO - Processing URL: https://www.zomato.com/allahabad/warsi-restaurant-kareli/info
+2024-02-27 17:39:36,258 - INFO - Progress saved. Processed 730 URLs.
+2024-02-27 17:39:36,258 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-sai-tea-bhandup/info
+2024-02-27 17:39:36,260 - INFO - Processing URL: https://www.zomato.com/pune/the-cake-cream-factory-2-bibvewadi/info
+2024-02-27 17:39:36,262 - INFO - Processing URL: https://www.zomato.com/surat/center-point-athwa/info
+2024-02-27 17:39:36,263 - INFO - Processing URL: https://www.zomato.com/jaipur/the-hunger-pangs-malviya-nagar/info
+2024-02-27 17:39:36,264 - INFO - Processing URL: https://www.zomato.com/lucknow/aroras-fast-food-hub-rajajipuram/info
+2024-02-27 17:39:36,266 - INFO - Processing URL: https://www.zomato.com/ahmedabad/south-express-gota/info
+2024-02-27 17:39:36,272 - INFO - Processing URL: https://www.zomato.com/bangalore/tandoori-club-domlur-bangalore/info
+2024-02-27 17:39:36,274 - INFO - Processing URL: https://www.zomato.com/pune/red-chilly-family-chinese-wagholi/info
+2024-02-27 17:39:36,276 - INFO - Processing URL: https://www.zomato.com/ncr/waffle-crush-krishna-nagar-new-delhi/info
+2024-02-27 17:39:36,277 - INFO - Processing URL: https://www.zomato.com/jaipur/shree-balaji-pavitra-bhojnalya-tonk-road/info
+2024-02-27 17:39:36,316 - INFO - Progress saved. Processed 740 URLs.
+2024-02-27 17:39:36,322 - INFO - Processing URL: https://www.zomato.com/ncr/the-99-menu-the-rooftop-restaurant-vasundhara-enclave-new-delhi/info
+2024-02-27 17:39:36,324 - INFO - Processing URL: https://www.zomato.com/kolkata/dacres-lane-lake-gardens/info
+2024-02-27 17:39:36,325 - INFO - Processing URL: https://www.zomato.com/rajkot/palji-soda-shop-2-bhakti-nagar/info
+2024-02-27 17:39:36,326 - INFO - Processing URL: https://www.zomato.com/chandigarh/dark-moon-kitchen-sector-8/info
+2024-02-27 17:39:36,327 - INFO - Processing URL: https://www.zomato.com/whiteboardcafe/info
+2024-02-27 17:39:36,329 - INFO - Processing URL: https://www.zomato.com/trichy/saravana-tiffen-center-sangillyandapuram/info
+2024-02-27 17:39:36,330 - INFO - Processing URL: https://www.zomato.com/kota/hotel-sangam-ladpura/info
+2024-02-27 17:39:36,332 - INFO - Processing URL: https://www.zomato.com/patna/yo-china-1-fraser-road-area/info
+2024-02-27 17:39:36,333 - INFO - Processing URL: https://www.zomato.com/nashik/shree-saptshrungi-misal-snacks-college-road/info
+2024-02-27 17:39:36,334 - INFO - Processing URL: https://www.zomato.com/coimbatore/kwality-walls-swirls-ganapathy/info
+2024-02-27 17:39:36,380 - INFO - Progress saved. Processed 750 URLs.
+2024-02-27 17:39:36,381 - INFO - Processing URL: https://www.zomato.com/ncr/chaap-junction-2-laxmi-nagar-new-delhi/info
+2024-02-27 17:39:36,383 - INFO - Processing URL: https://www.zomato.com/patna/biryani-inn-khajpura/info
+2024-02-27 17:39:36,388 - INFO - Processing URL: https://www.zomato.com/mumbai/golden-lawn-chembur/info
+2024-02-27 17:39:36,390 - INFO - Processing URL: https://www.zomato.com/vadodara/mahesh-omlet-egg-restaurant-suryanagar/info
+2024-02-27 17:39:36,391 - INFO - Processing URL: https://www.zomato.com/vijayawada/innotel-hotel-gunadala/info
+2024-02-27 17:39:43,464 - INFO - Processing URL: https://www.zomato.com/ncr/vijay-chowmein-rohini-new-delhi/info
+2024-02-27 17:39:43,465 - INFO - Processing URL: https://www.zomato.com/bangalore/nutrivores-bellandur-bangalore/info
+2024-02-27 17:39:44,709 - INFO - Processing URL: https://www.zomato.com/pune/the-egg-junction-1-balewadi/info
+2024-02-27 17:39:49,680 - INFO - Processing URL: https://www.zomato.com/ahmedabad/stomach-restaurant-fast-food-gurukul/info
+2024-02-27 17:39:50,063 - INFO - Processing URL: https://www.zomato.com/coimbatore/cane-spot-3-gandhipuram/info
+2024-02-27 17:39:57,289 - INFO - Progress saved. Processed 760 URLs.
+2024-02-27 17:39:57,290 - INFO - Processing URL: https://www.zomato.com/patna/laziz-tandoori-1-fraser-road-area/info
+2024-02-27 17:40:55,463 - INFO - Processing URL: https://www.zomato.com/kota/sevva-lounge-restaurant-rps-colony/info
+2024-02-27 17:40:55,465 - INFO - Processing URL: https://www.zomato.com/nagpur/simply-south-sadar/info
+2024-02-27 17:41:45,501 - INFO - Processing URL: https://www.zomato.com/vadodara/hot-bite-sayajigunj/info
+2024-02-27 17:42:25,259 - INFO - Processing URL: https://www.zomato.com/pune/gokul-pure-veg-kondhwa/info
+2024-02-27 17:42:25,259 - INFO - Processing URL: https://www.zomato.com/bangalore/bawarchi-inn-btm/info
+2024-02-27 17:42:25,260 - INFO - Processing URL: https://www.zomato.com/ncr/cafe-nh8-radisson-udyog-vihar-gurgaon/info
+2024-02-27 17:42:25,261 - INFO - Processing URL: https://www.zomato.com/mumbai/delhi-darbar-express-nariman-point/info
+2024-02-27 17:42:25,271 - INFO - Processing URL: https://www.zomato.com/ncr/shri-ram-dhaba-sohna-road-gurgaon/info
+2024-02-27 17:42:25,273 - INFO - Processing URL: https://www.zomato.com/guntur/hotel-subani-biryani-point-srinivasarao-pet/info
+2024-02-27 17:42:25,307 - INFO - Progress saved. Processed 770 URLs.
+2024-02-27 17:42:25,307 - INFO - Processing URL: https://www.zomato.com/pune/assal-kolhapuri-veg-non-veg-sadashiv-peth/info
+2024-02-27 17:42:25,308 - INFO - Processing URL: https://www.zomato.com/nashik/rudra-ice-cream-and-snacks-veer-sawarkar-nagar/info
+2024-02-27 17:43:51,579 - INFO - Processing URL: https://www.zomato.com/chandigarh/annas-kitchen-dhakoli-zirakpur/info
+2024-02-27 17:43:51,580 - INFO - Processing URL: https://www.zomato.com/pune/marwad-bhoj-ravet/info
+2024-02-27 17:43:51,581 - INFO - Processing URL: https://www.zomato.com/chennai/thiruporur-murugan-idly-kadai-thiruvanmiyur/info
+2024-02-27 17:43:51,582 - INFO - Processing URL: https://www.zomato.com/ncr/whatslife-in-sector-65-noida/info
+2024-02-27 17:43:51,583 - INFO - Processing URL: https://www.zomato.com/agra/agarwal-food-corner-tajganj/info
+2024-02-27 17:43:51,585 - INFO - Processing URL: https://www.zomato.com/pune/le-sugar-rush-bibvewadi/info
+2024-02-27 17:43:51,587 - INFO - Processing URL: https://www.zomato.com/chennai/bihari-dhaba-potheri/info
+2024-02-27 17:43:51,587 - INFO - Processing URL: https://www.zomato.com/bangalore/hotel-junior-kuppanna-hsr/info
+2024-02-27 17:43:51,614 - INFO - Progress saved. Processed 780 URLs.
+2024-02-27 17:43:51,614 - INFO - Processing URL: https://www.zomato.com/pune/spice-multi-cuisine-restaurant-nibm-road/info
+2024-02-27 17:43:51,616 - INFO - Processing URL: https://www.zomato.com/dehradun/gods-kitchen-dharampur/info
+2024-02-27 17:43:51,618 - INFO - Processing URL: https://www.zomato.com/agra/energy-tandoori-chai-com-sikandra/info
+2024-02-27 17:43:51,619 - INFO - Processing URL: https://www.zomato.com/mumbai/desi-aroma-grant-road/info
+2024-02-27 17:43:51,620 - INFO - Processing URL: https://www.zomato.com/hyderabad/the-shawarma-shack-l-b-nagar/info
+2024-02-27 17:43:51,917 - INFO - Processing URL: https://www.zomato.com/guwahati/unique-foods-zoo-tiniali/info
+2024-02-27 17:43:51,919 - INFO - Processing URL: https://www.zomato.com/ncr/mitra-da-noodle-oodle-shahdara-new-delhi/info
+2024-02-27 17:43:51,920 - INFO - Processing URL: https://www.zomato.com/coimbatore/k-k-corner-chettinadu-hotel-gandhipuram/info
+2024-02-27 17:43:51,920 - INFO - Processing URL: https://www.zomato.com/mumbai/the-budapest-bakehouse-khar/info
+2024-02-27 17:43:51,922 - INFO - Processing URL: https://www.zomato.com/varanasi/awadh-roll-corner-sigra/info
+2024-02-27 17:43:51,961 - INFO - Progress saved. Processed 790 URLs.
+2024-02-27 17:43:51,962 - INFO - Processing URL: https://www.zomato.com/chennai/spicy-flames-chetpet/info
+2024-02-27 17:43:51,965 - INFO - Processing URL: https://www.zomato.com/bangalore/chef-fast-food-airport-road-bangalore/info
+2024-02-27 17:45:24,585 - INFO - Processing URL: https://www.zomato.com/mumbai/mahesh-fine-dine-kandivali-west/info
+2024-02-27 17:45:24,585 - INFO - Processing URL: https://www.zomato.com/pune/sagar-pure-veg-warje/info
+2024-02-27 17:45:24,586 - INFO - Processing URL: https://www.zomato.com/mumbai/zero-degree-ice-cream-parlour-vikhroli/info
+2024-02-27 17:45:24,588 - INFO - Processing URL: https://www.zomato.com/hyderabad/chinese-hut-fast-food-charminar/info
+2024-02-27 17:45:24,589 - INFO - Processing URL: https://www.zomato.com/ncr/peekas-bong-box-sector-56-gurgaon/info
+2024-02-27 17:45:24,591 - INFO - Processing URL: https://www.zomato.com/bangalore/gulpnburp-airport-road-bangalore/info
+2024-02-27 17:45:24,593 - INFO - Processing URL: https://www.zomato.com/pune/fat-boy-viman-nagar/info
+2024-02-27 17:46:57,276 - INFO - Processing URL: https://www.zomato.com/mumbai/snow-station-ice-cream-bhayandar/info
+2024-02-27 17:46:57,303 - INFO - Progress saved. Processed 800 URLs.
+2024-02-27 17:46:57,303 - INFO - Processing URL: https://www.zomato.com/ahmedabad/kc-restaurant-mani-nagar/info
+2024-02-27 17:46:57,304 - INFO - Processing URL: https://www.zomato.com/hyderabad/g-pulla-reddy-sweets-begumpet/info
+2024-02-27 17:46:57,306 - INFO - Processing URL: https://www.zomato.com/ncr/healthy-eats-malviya-nagar-new-delhi/info
+2024-02-27 17:46:57,308 - INFO - Processing URL: https://www.zomato.com/varanasi/stark-bistro-lanka/info
+2024-02-27 17:46:57,310 - INFO - Processing URL: https://www.zomato.com/ncr/singh-punjabi-zaika-1-jail-road-new-delhi/info
+2024-02-27 17:46:57,312 - INFO - Processing URL: https://www.zomato.com/mumbai/akshata-pure-veg-vasant-vihar-thane-west/info
+2024-02-27 17:46:57,313 - INFO - Processing URL: https://www.zomato.com/gwalior/sukh-sagar-restaurant-ghosipura/info
+2024-02-27 17:46:57,314 - INFO - Processing URL: https://www.zomato.com/kolkata/puchkalicious-chinar-park/info
+2024-02-27 17:46:57,315 - INFO - Processing URL: https://www.zomato.com/mumbai/just-taste-it-virar/info
+2024-02-27 17:46:57,316 - INFO - Processing URL: https://www.zomato.com/jamshedpur/the-kathi-spot-bistupur/info
+2024-02-27 17:46:57,375 - INFO - Progress saved. Processed 810 URLs.
+2024-02-27 17:46:57,376 - INFO - Processing URL: https://www.zomato.com/ahmedabad/yashvis-cafe-vastral/info
+2024-02-27 17:46:57,377 - INFO - Processing URL: https://www.zomato.com/hyderabad/house-of-milkshake-charminar/info
+2024-02-27 17:46:57,378 - INFO - Processing URL: https://www.zomato.com/ncr/hut-shoppe-khanpur-new-delhi/info
+2024-02-27 17:46:57,382 - INFO - Processing URL: https://www.zomato.com/kolkata/ashma-fast-food-esplanade/info
+2024-02-27 17:46:57,384 - INFO - Processing URL: https://www.zomato.com/varanasi/the-basant-bahar-chetganj/info
+2024-02-27 17:46:57,385 - INFO - Processing URL: https://www.zomato.com/ncr/masala-queen-sector-93-noida/info
+2024-02-27 17:46:57,388 - INFO - Processing URL: https://www.zomato.com/ranchi/hindustan-bakery-and-sweets-lalpur/info
+2024-02-27 17:46:57,389 - INFO - Processing URL: https://www.zomato.com/ncr/purani-dilli-da-swad-sector-21-faridabad/info
+2024-02-27 17:46:57,394 - INFO - Processing URL: https://www.zomato.com/kolkata/naaz-snacks-park-circus-area/info
+2024-02-27 17:46:57,397 - INFO - Processing URL: https://www.zomato.com/coimbatore/sivakannan-restaurant-peelamedu/info
+2024-02-27 17:46:57,434 - INFO - Progress saved. Processed 820 URLs.
+2024-02-27 17:46:57,435 - INFO - Processing URL: https://www.zomato.com/mumbai/sabys-d-kitchen-andheri-lokhandwala/info
+2024-02-27 17:46:57,437 - INFO - Processing URL: https://www.zomato.com/ahmedabad/fit-meals-1-satellite/info
+2024-02-27 17:46:57,443 - INFO - Processing URL: https://www.zomato.com/bangalore/pepper-grand-com-sarjapur-road-bangalore/info
+2024-02-27 17:46:57,447 - INFO - Processing URL: https://www.zomato.com/lucknow/la-naturelle-gomti-nagar/info
+2024-02-27 17:46:57,448 - INFO - Processing URL: https://www.zomato.com/bangalore/biryani-treats-kalyan-nagar/info
+2024-02-27 17:46:57,448 - INFO - Processing URL: https://www.zomato.com/bangalore/slv-spice-up-marathahalli/info
+2024-02-27 17:46:57,449 - INFO - Processing URL: https://www.zomato.com/ahmedabad/mag-foods-kankaria/info
+2024-02-27 17:48:26,873 - INFO - Processing URL: https://www.zomato.com/pune/swad-pavbhaji-snacks-centre-rasta-peth/info
+2024-02-27 17:48:26,875 - INFO - Processing URL: https://www.zomato.com/ncr/foreign-dhaba-express-paschim-vihar-new-delhi/info
+2024-02-27 17:48:26,877 - INFO - Processing URL: https://www.zomato.com/gwalior/red-chilli-chinese-korner-1-thatipur/info
+2024-02-27 17:48:26,925 - INFO - Progress saved. Processed 830 URLs.
+2024-02-27 17:48:26,925 - INFO - Processing URL: https://www.zomato.com/mumbai/blend-desi-dombivali-east/info
+2024-02-27 17:48:26,926 - INFO - Processing URL: https://www.zomato.com/surat/chicken-grill-1-piplod/info
+2024-02-27 17:48:26,927 - INFO - Processing URL: https://www.zomato.com/allahabad/mexican-pizzeria-naini/info
+2024-02-27 17:48:26,928 - INFO - Processing URL: https://www.zomato.com/kolkata/royal-fast-food-2-behala/info
+2024-02-27 17:48:26,928 - INFO - Processing URL: https://www.zomato.com/bangalore/master-of-kebab-whitefield-bangalore/info
+2024-02-27 17:48:26,928 - INFO - Processing URL: https://www.zomato.com/ncr/mmmelt-sector-132-noida/info
+2024-02-27 17:48:26,929 - INFO - Processing URL: https://www.zomato.com/ncr/jd-food-corner-narela-new-delhi/info
+2024-02-27 17:48:26,930 - INFO - Processing URL: https://www.zomato.com/pune/new-royal-chinese-aundh/info
+2024-02-27 17:48:26,935 - INFO - Processing URL: https://www.zomato.com/pune/riwaayat-chinchwad/info
+2024-02-27 17:48:32,546 - INFO - Processing URL: https://www.zomato.com/ncr/qismat-cafe-ardee-city-gurgaon/info
+2024-02-27 17:48:32,622 - INFO - Progress saved. Processed 840 URLs.
+2024-02-27 17:48:32,622 - INFO - Processing URL: https://www.zomato.com/aurangabad/monginis-midc/info
+2024-02-27 17:48:32,627 - INFO - Processing URL: https://www.zomato.com/bangalore/hyderabad-biryani-1-whitefield-bangalore/info
+2024-02-27 17:48:32,629 - INFO - Processing URL: https://www.zomato.com/jaipur/the-jaika-junction-mansarovar/info
+2024-02-27 17:49:05,515 - INFO - Processing URL: https://www.zomato.com/udaipur/cafera-restaurant-chandpole/info
+2024-02-27 17:49:05,515 - INFO - Processing URL: https://www.zomato.com/mumbai/udipi-shri-krishna-lower-parel/info
+2024-02-27 17:50:06,968 - INFO - Processing URL: https://www.zomato.com/kochi/cafe-plan-b-2-kakkanad/info
+2024-02-27 17:50:06,970 - INFO - Processing URL: https://www.zomato.com/hyderabad/shakes-town-dilsukhnagar/info
+2024-02-27 17:50:06,972 - INFO - Processing URL: https://www.zomato.com/hyderabad/italian-pizza-1-uppal-secunderabad/info
+2024-02-27 17:50:06,973 - INFO - Processing URL: https://www.zomato.com/coimbatore/keerai-kadai-saibaba-colony/info
+2024-02-27 17:50:06,974 - INFO - Processing URL: https://www.zomato.com/ahmedabad/taste-eat-1-navrangpura/info
+2024-02-27 17:50:07,063 - INFO - Progress saved. Processed 850 URLs.
+2024-02-27 17:50:07,064 - INFO - Processing URL: https://www.zomato.com/mumbai/1-by-two-mahakali/info
+2024-02-27 17:50:07,065 - INFO - Processing URL: https://www.zomato.com/nagpur/singhs-dhantoli/info
+2024-02-27 17:50:07,067 - INFO - Processing URL: https://www.zomato.com/nagpur/sagar-bakers-nandanvan/info
+2024-02-27 17:50:33,172 - INFO - Processing URL: https://www.zomato.com/kochi/the-oven-marine-drive/info
+2024-02-27 17:50:33,178 - INFO - Processing URL: https://www.zomato.com/jhansi/the-bawarchi-civil-lines/info
+2024-02-27 17:50:33,181 - INFO - Processing URL: https://www.zomato.com/pune/svs-paratha-house-hadapsar/info
+2024-02-27 17:50:33,189 - INFO - Processing URL: https://www.zomato.com/bangalore/all-aromas-jayanagar-bangalore/info
+2024-02-27 17:50:33,191 - INFO - Processing URL: https://www.zomato.com/pune/pruthvi-vegetarianism-kothrud/info
+2024-02-27 17:50:33,199 - INFO - Processing URL: https://www.zomato.com/mumbai/mumbai-biryani-chinese-dombivali-east-thane/info
+2024-02-27 17:50:33,200 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-suprabha-dadar-east/info
+2024-02-27 17:50:33,273 - INFO - Progress saved. Processed 860 URLs.
+2024-02-27 17:50:33,273 - INFO - Processing URL: https://www.zomato.com/goodfoodbox/info
+2024-02-27 17:50:33,274 - INFO - Processing URL: https://www.zomato.com/hyderabad/mom-kitchen-2-lingampally/info
+2024-02-27 17:50:33,275 - INFO - Processing URL: https://www.zomato.com/jaipur/aamblee-restaurant-sikar-road/info
+2024-02-27 17:50:33,277 - INFO - Processing URL: https://www.zomato.com/chandigarh/rustic-door-sector-10/info
+2024-02-27 17:50:33,279 - INFO - Processing URL: https://www.zomato.com/mumbai/foodsafari-dombivali-east-thane/info
+2024-02-27 17:50:33,281 - INFO - Processing URL: https://www.zomato.com/ncr/the-shawarma-more-paschim-vihar-new-delhi/info
+2024-02-27 17:50:33,282 - INFO - Processing URL: https://www.zomato.com/hyderabad/yummzeez-musheerabad/info
+2024-02-27 17:50:33,283 - INFO - Processing URL: https://www.zomato.com/chennai/crizpy-kings-koyambedu/info
+2024-02-27 17:50:33,284 - INFO - Processing URL: https://www.zomato.com/aurangabad/m-r-khaliya-house-jaswantpura/info
+2024-02-27 17:50:33,285 - INFO - Processing URL: https://www.zomato.com/indore/terrace-treat-south-tukoganj/info
+2024-02-27 17:50:33,355 - INFO - Progress saved. Processed 870 URLs.
+2024-02-27 17:50:33,355 - INFO - Processing URL: https://www.zomato.com/hyderabad/ruche-foods-as-rao-nagar-secunderabad/info
+2024-02-27 17:51:00,451 - INFO - Processing URL: https://www.zomato.com/agra/jux-pux-khandari/info
+2024-02-27 17:51:00,452 - INFO - Processing URL: https://www.zomato.com/mumbai/fishermaans-kitchen-cbd-belapur-navi-mumbai/info
+2024-02-27 17:51:00,453 - INFO - Processing URL: https://www.zomato.com/mumbai/chetana-fort/info
+2024-02-27 17:51:00,453 - INFO - Processing URL: https://www.zomato.com/pune/cafe-mh-12-wadgaon-sheri/info
+2024-02-27 17:51:00,454 - INFO - Processing URL: https://www.zomato.com/hyderabad/agrasen-chat-bhandar-1-charminar/info
+2024-02-27 17:51:00,455 - INFO - Processing URL: https://www.zomato.com/mysore/cafe-roots-gokulam/info
+2024-02-27 17:51:00,457 - INFO - Processing URL: https://www.zomato.com/kolkata/the-belgian-bakery-kankurgachi/info
+2024-02-27 17:51:01,844 - INFO - Processing URL: https://www.zomato.com/ncr/muradabad-ki-shahi-chicken-biryani-sheikh-sarai-new-delhi/info
+2024-02-27 17:51:01,854 - INFO - Processing URL: https://www.zomato.com/salem/meat-eat-alagapuram-pudur/info
+2024-02-27 17:51:01,906 - INFO - Progress saved. Processed 880 URLs.
+2024-02-27 17:51:01,907 - INFO - Processing URL: https://www.zomato.com/jaipur/rajdhani-restaurant-mansarovar/info
+2024-02-27 17:51:01,909 - INFO - Processing URL: https://www.zomato.com/bangalore/al-habibi-family-restaurant-rammurthy-nagar-bangalore/info
+2024-02-27 17:51:01,911 - INFO - Processing URL: https://www.zomato.com/hyderabad/bharath-tiffin-center-nampally/info
+2024-02-27 17:51:01,914 - INFO - Processing URL: https://www.zomato.com/mumbai/green-mango-ulwe-navi-mumbai/info
+2024-02-27 17:51:01,921 - INFO - Processing URL: https://www.zomato.com/ahmedabad/all-the-perks-espresso-cafe-navrangpura/info
+2024-02-27 17:51:01,923 - INFO - Processing URL: https://www.zomato.com/hyderabad/chefs-miracles-sainikpuri-secunderabad/info
+2024-02-27 17:51:01,924 - INFO - Processing URL: https://www.zomato.com/bangalore/arzak-1-whitefield-bangalore/info
+2024-02-27 17:51:21,796 - INFO - Processing URL: https://www.zomato.com/ludhiana/lucky-vaishno-dhaba-ludhiana-junction/info
+2024-02-27 17:51:21,798 - INFO - Processing URL: https://www.zomato.com/bhopal/sai-kripa-maharana-pratap-nagar/info
+2024-02-27 17:51:21,799 - INFO - Processing URL: https://www.zomato.com/ncr/holkar-restaurant-vaishali-ghaziabad/info
+2024-02-27 17:51:21,845 - INFO - Progress saved. Processed 890 URLs.
+2024-02-27 17:51:21,846 - INFO - Processing URL: https://www.zomato.com/nagpur/maa-vaishnavi-kitchen-gandhibagh/info
+2024-02-27 17:53:22,275 - INFO - Processing URL: https://www.zomato.com/indore/strength-protein-bar-kitchen-vijay-nagar/info
+2024-02-27 17:53:22,280 - INFO - Processing URL: https://www.zomato.com/bangalore/the-rennans-cafe-kammanahalli-bangalore/info
+2024-02-27 17:53:22,282 - INFO - Processing URL: https://www.zomato.com/hyderabad/kalingas-kitchen-madhapur/info
+2024-02-27 17:53:22,284 - INFO - Processing URL: https://www.zomato.com/chandigarh/goyal-juice-ice-cream-parlor-sector-38/info
+2024-02-27 17:53:22,285 - INFO - Processing URL: https://www.zomato.com/chennai/77-dosa-nungambakkam/info
+2024-02-27 17:53:22,287 - INFO - Processing URL: https://www.zomato.com/bhopal/the-egypt-cafe-and-restro-arera-colony/info
+2024-02-27 17:53:22,288 - INFO - Processing URL: https://www.zomato.com/ahmedabad/purohit-thali-gurukul/info
+2024-02-27 17:53:22,289 - INFO - Processing URL: https://www.zomato.com/bangalore/al-rousha-sahakara-nagar-bangalore/info
+2024-02-27 17:53:22,289 - INFO - Processing URL: https://www.zomato.com/varanasi/nonsense-fast-food-bhelupur/info
+2024-02-27 17:53:22,312 - INFO - Progress saved. Processed 900 URLs.
+2024-02-27 17:53:22,313 - INFO - Processing URL: https://www.zomato.com/mumbai/puurn-bhoj-dombivali-east/info
+2024-02-27 17:53:22,315 - INFO - Processing URL: https://www.zomato.com/aurangabad/mh20-gadia-vihar/info
+2024-02-27 17:53:22,316 - INFO - Processing URL: https://www.zomato.com/kanpur/the-cinnamon-flavors-of-nature-1-kakadeo/info
+2024-02-27 17:53:22,316 - INFO - Processing URL: https://www.zomato.com/kanpur/petoo-kakadeo/info
+2024-02-27 17:53:22,318 - INFO - Processing URL: https://www.zomato.com/dehradun/nirvana-1-chironwali/info
+2024-02-27 17:53:22,319 - INFO - Processing URL: https://www.zomato.com/dehradun/ncr-kitchen-hathibarkala-salwala/info
+2024-02-27 17:53:22,319 - INFO - Processing URL: https://www.zomato.com/mumbai/bhojon-rasik-powai/info
+2024-02-27 17:53:22,321 - INFO - Processing URL: https://www.zomato.com/rajkot/season-3-nana-mava/info
+2024-02-27 17:54:31,684 - INFO - Processing URL: https://www.zomato.com/pune/banjara-hills-bavdhan/info
+2024-02-27 17:54:31,686 - INFO - Processing URL: https://www.zomato.com/mangalore/red-rock-surathkal/info
+2024-02-27 17:54:31,715 - INFO - Progress saved. Processed 910 URLs.
+2024-02-27 17:54:31,715 - INFO - Processing URL: https://www.zomato.com/aurangabad/cafe-creme-ulkanagari/info
+2024-02-27 17:54:31,717 - INFO - Processing URL: https://www.zomato.com/kochi/the-egg-stop-palarivattom/info
+2024-02-27 17:54:31,720 - INFO - Processing URL: https://www.zomato.com/ncr/the-secret-salver-sector-83-gurgaon/info
+2024-02-27 17:54:31,721 - INFO - Processing URL: https://www.zomato.com/kochi/nm-food-world-tripunithura/info
+2024-02-27 17:54:31,722 - INFO - Processing URL: https://www.zomato.com/ncr/raj-grill-sector-37-faridabad/info
+2024-02-27 17:54:31,723 - INFO - Processing URL: https://www.zomato.com/bangalore/oottupura-new-bel-road-bangalore/info
+2024-02-27 17:54:31,723 - INFO - Processing URL: https://www.zomato.com/mumbai/shubham-dadar-east/info
+2024-02-27 17:54:31,724 - INFO - Processing URL: https://www.zomato.com/pune/mumbai-biryani-house-caterers-sinhgad-road/info
+2024-02-27 17:54:54,505 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/dfc-sahid-nagar-bhubaneshwar/info
+2024-02-27 17:54:54,507 - INFO - Processing URL: https://www.zomato.com/ahmedabad/the-royal-dum-biryani-airport-gandhinagar-highway-gandhinagar/info
+2024-02-27 17:54:54,531 - INFO - Progress saved. Processed 920 URLs.
+2024-02-27 17:54:54,532 - INFO - Processing URL: https://www.zomato.com/mumbai/salute-borivali-west/info
+2024-02-27 17:54:54,533 - INFO - Processing URL: https://www.zomato.com/bangalore/biryani-junction-bommanahalli-bangalore/info
+2024-02-27 17:54:54,533 - INFO - Processing URL: https://www.zomato.com/varanasi/rajats-roof-80-assi-ghat/info
+2024-02-27 17:54:54,534 - INFO - Processing URL: https://www.zomato.com/visakhapatnam/subway-siripuram-vizag/info
+2024-02-27 17:54:54,535 - INFO - Processing URL: https://www.zomato.com/mumbai/sindh-punjab-express-1-vashi-navi-mumbai/info
+2024-02-27 17:54:54,536 - INFO - Processing URL: https://www.zomato.com/kolkata/smokeat-sector-1-salt-lake/info
+2024-02-27 17:54:54,538 - INFO - Processing URL: https://www.zomato.com/ncr/delhi-spicy-sarita-vihar-new-delhi/info
+2024-02-27 17:54:54,539 - INFO - Processing URL: https://www.zomato.com/kolkata/panda-junction-nagerbazar/info
+2024-02-27 17:54:54,546 - INFO - Processing URL: https://www.zomato.com/kolkata/spice-route-kalikapur/info
+2024-02-27 17:54:54,551 - INFO - Processing URL: https://www.zomato.com/indore/shri-balaji-by-pass-road-north/info
+2024-02-27 17:54:54,594 - INFO - Progress saved. Processed 930 URLs.
+2024-02-27 17:54:54,594 - INFO - Processing URL: https://www.zomato.com/pune/halka-fulka-wakad/info
+2024-02-27 17:54:54,596 - INFO - Processing URL: https://www.zomato.com/bangalore/meghana-biryani-bellandur/info
+2024-02-27 17:54:54,597 - INFO - Processing URL: https://www.zomato.com/indore/the-container-cafe-vijay-nagar/info
+2024-02-27 17:54:54,599 - INFO - Processing URL: https://www.zomato.com/bangalore/subway-indiranagar/info
+2024-02-27 17:54:54,602 - INFO - Processing URL: https://www.zomato.com/pune/taste-is-best-biryani-house-1-hinjawadi/info
+2024-02-27 17:54:54,606 - INFO - Processing URL: https://www.zomato.com/ncr/the-spirit-restaurant-pandav-nagar-new-delhi/info
+2024-02-27 17:54:54,607 - INFO - Processing URL: https://www.zomato.com/nagpur/venu-corner-restuarant-ayodhya-nagar/info
+2024-02-27 17:54:54,608 - INFO - Processing URL: https://www.zomato.com/kolkata/renuka-snacks-nagerbazar/info
+2024-02-27 17:54:54,609 - INFO - Processing URL: https://www.zomato.com/kolkata/yo-yo-momo-chandni-chowk/info
+2024-02-27 17:54:54,609 - INFO - Processing URL: https://www.zomato.com/kolkata/new-silver-chimney-1-sector-1-salt-lake/info
+2024-02-27 17:54:54,663 - INFO - Progress saved. Processed 940 URLs.
+2024-02-27 17:54:54,663 - INFO - Processing URL: https://www.zomato.com/nagpur/ginger-garlic-restaurant-bajaj-nagar/info
+2024-02-27 17:54:54,664 - INFO - Processing URL: https://www.zomato.com/kolkata/palki-garia/info
+2024-02-27 17:54:54,665 - INFO - Processing URL: https://www.zomato.com/kolkata/tongue-twister-shyam-bazar/info
+2024-02-27 17:54:54,666 - INFO - Processing URL: https://www.zomato.com/nagpur/u-s-pizza-pratap-nagar/info
+2024-02-27 17:54:54,667 - INFO - Processing URL: https://www.zomato.com/mumbai/shiv-mahal-santacruz-west/info
+2024-02-27 17:54:54,668 - INFO - Processing URL: https://www.zomato.com/ncr/hot-pot-sector-11-dwarka-new-delhi/info
+2024-02-27 17:54:54,672 - INFO - Processing URL: https://www.zomato.com/jaipur/pizza-city-malviya-nagar/info
+2024-02-27 17:57:20,513 - INFO - Processing URL: https://www.zomato.com/mumbai/golden-kitchen-mulund-west/info
+2024-02-27 17:57:20,514 - INFO - Processing URL: https://www.zomato.com/lucknow/us-pizza-hazratganj/info
+2024-02-27 17:57:20,515 - INFO - Processing URL: https://www.zomato.com/chennai/hot-chips-velachery/info
+2024-02-27 17:57:20,568 - INFO - Progress saved. Processed 950 URLs.
+2024-02-27 17:57:20,569 - INFO - Processing URL: https://www.zomato.com/kolkata/my-little-kitchen-dum-dum/info
+2024-02-27 17:57:20,583 - INFO - Processing URL: https://www.zomato.com/mumbai/zaika-mulund-west/info
+2024-02-27 17:57:20,608 - INFO - Processing URL: https://www.zomato.com/kolkata/ketuz-dum-dum/info
+2024-02-27 17:57:20,610 - INFO - Processing URL: https://www.zomato.com/varanasi/the-keshari-restaurant-dashaswmedh-road/info
+2024-02-27 17:57:20,613 - INFO - Processing URL: https://www.zomato.com/chennai/indo-malaysian-restaurants-medavakkam/info
+2024-02-27 17:57:20,620 - INFO - Processing URL: https://www.zomato.com/coimbatore/salt-and-pepper-restaurant-kavundampalayam/info
+2024-02-27 17:57:20,624 - INFO - Processing URL: https://www.zomato.com/ncr/breakfast-mantra-sector-19-dwarka-new-delhi/info
+2024-02-27 17:57:20,678 - INFO - Processing URL: https://www.zomato.com/ncr/grandmas-kitchen-dlf-phase-3-gurgaon/info
+2024-02-27 17:57:20,710 - INFO - Processing URL: https://www.zomato.com/lucknow/sadda-adda-2-aliganj/info
+2024-02-27 17:57:20,712 - INFO - Processing URL: https://www.zomato.com/pune/nawabi-rasoi-kothrud/info
+2024-02-27 17:57:20,841 - INFO - Progress saved. Processed 960 URLs.
+2024-02-27 17:57:20,841 - INFO - Processing URL: https://www.zomato.com/pune/bashree-hadapsar/info
+2024-02-27 17:57:20,843 - INFO - Processing URL: https://www.zomato.com/ahmedabad/pizza-world-prahlad-nagar/info
+2024-02-27 17:57:20,846 - INFO - Processing URL: https://www.zomato.com/ncr/delight-pizza-gaur-city-2-greater-noida/info
+2024-02-27 17:57:20,848 - INFO - Processing URL: https://www.zomato.com/nashik/owara-anand-wali-goan/info
+2024-02-27 17:57:20,849 - INFO - Processing URL: https://www.zomato.com/bangalore/tandoor-hut-bannerghatta-road/info
+2024-02-27 17:57:20,860 - INFO - Processing URL: https://www.zomato.com/ncr/drinks-at-mrp-laxmi-nagar-new-delhi/info
+2024-02-27 17:57:20,864 - INFO - Processing URL: https://www.zomato.com/chandigarh/5abi-hut-phase-3-mohali/info
+2024-02-27 17:57:20,865 - INFO - Processing URL: https://www.zomato.com/ncr/yaaran-da-stop-1-kirti-nagar-new-delhi/info
+2024-02-27 17:57:20,875 - INFO - Processing URL: https://www.zomato.com/ncr/the-treat-chanakyapuri-new-delhi/info
+2024-02-27 17:57:20,880 - INFO - Processing URL: https://www.zomato.com/kolkata/binjara-crafts-cafe-chinar-park/info
+2024-02-27 17:57:20,933 - INFO - Progress saved. Processed 970 URLs.
+2024-02-27 17:57:20,939 - INFO - Processing URL: https://www.zomato.com/ludhiana/basant-food-plaza-gurdev-nagar/info
+2024-02-27 17:57:20,943 - INFO - Processing URL: https://www.zomato.com/guwahati/food-com-six-mile/info
+2024-02-27 17:57:20,946 - INFO - Processing URL: https://www.zomato.com/kochi/chinese-garden-pallimukku/info
+2024-02-27 17:57:20,948 - INFO - Processing URL: https://www.zomato.com/mumbai/shobha-breach-candy/info
+2024-02-27 17:57:20,949 - INFO - Processing URL: https://www.zomato.com/ncr/southeye-2-ashok-vihar-phase-2-new-delhi/info
+2024-02-27 18:00:59,696 - INFO - Processing URL: https://www.zomato.com/chandigarh/tehal-singhs-dhaba-sector-22/info
+2024-02-27 18:00:59,698 - INFO - Processing URL: https://www.zomato.com/patna/shangrila-restaurant-lodipur/info
+2024-02-27 18:00:59,699 - INFO - Processing URL: https://www.zomato.com/bangalore/mamma-mexicana-mg-road/info
+2024-02-27 18:00:59,702 - INFO - Processing URL: https://www.zomato.com/nagpur/babbus-celebrations-hingna-t-point/info
+2024-02-27 18:00:59,706 - INFO - Processing URL: https://www.zomato.com/chennai/namma-veedu-vasanta-bhavan-velachery/info
+2024-02-27 18:00:59,733 - INFO - Progress saved. Processed 980 URLs.
+2024-02-27 18:00:59,733 - INFO - Processing URL: https://www.zomato.com/hyderabad/punjabi-tadka-kondapur/info
+2024-02-27 18:00:59,734 - INFO - Processing URL: https://www.zomato.com/ncr/fresh-fast-khanpur-new-delhi/info
+2024-02-27 18:00:59,735 - INFO - Processing URL: https://www.zomato.com/pune/ozone-sinhgad-road/info
+2024-02-27 18:00:59,736 - INFO - Processing URL: https://www.zomato.com/bhopal/brown-sugar-cafe-gulmohar-colony/info
+2024-02-27 18:00:59,736 - INFO - Processing URL: https://www.zomato.com/coimbatore/hotel-irani-rs-puram/info
+2024-02-27 18:00:59,737 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-deviprasad-mahakali/info
+2024-02-27 18:00:59,737 - INFO - Processing URL: https://www.zomato.com/ncr/samosa-street-1-lawrence-road-new-delhi/info
+2024-02-27 18:00:59,738 - INFO - Processing URL: https://www.zomato.com/mumbai/ibrahims-malad-west/info
+2024-02-27 18:00:59,739 - INFO - Processing URL: https://www.zomato.com/chennai/courtallam-border-parotta-velachery/info
+2024-02-27 18:00:59,739 - INFO - Processing URL: https://www.zomato.com/mumbai/sunny-da-dhaba-mulund-west/info
+2024-02-27 18:00:59,762 - INFO - Progress saved. Processed 990 URLs.
+2024-02-27 18:00:59,762 - INFO - Processing URL: https://www.zomato.com/pune/the-chopstix-dhankawadi/info
+2024-02-27 18:00:59,763 - INFO - Processing URL: https://www.zomato.com/bangalore/midnight-hunger-solutions-24-7-indiranagar-bangalore/info
+2024-02-27 18:00:59,764 - INFO - Processing URL: https://www.zomato.com/ncr/wonders-of-kashmir-khyen-chyen-saket-new-delhi/info
+2024-02-27 18:01:14,047 - INFO - Processing URL: https://www.zomato.com/mumbai/summer-park-worli/info
+2024-02-27 18:01:14,050 - INFO - Processing URL: https://www.zomato.com/ahmedabad/us-pizza-1-navrangpura/info
+2024-02-27 18:01:14,052 - INFO - Processing URL: https://www.zomato.com/bangalore/bageecha-marathahalli/info
+2024-02-27 18:01:14,056 - INFO - Processing URL: https://www.zomato.com/ncr/super-bakery-dlf-phase-4-gurgaon/info
+2024-02-27 18:01:14,059 - INFO - Processing URL: https://www.zomato.com/ncr/khandelwal-tiffin-services-punjabi-bagh-new-delhi/info
+2024-02-27 18:01:14,061 - INFO - Processing URL: https://www.zomato.com/mumbai/kaveri-hotel-mulund-west/info
+2024-02-27 18:01:14,063 - INFO - Processing URL: https://www.zomato.com/mumbai/chinese-garden-restaurant-dadar-shivaji-park/info
+2024-02-27 18:01:14,097 - INFO - Progress saved. Processed 1000 URLs.
+2024-02-27 18:01:14,689 - INFO - Count of records with coordinates: 799
+2024-02-27 18:01:16,482 - INFO - DataFrame with coordinates saved to: Datass\coordinates_scrapped_dataset.csv
+2024-02-27 18:01:16,483 - INFO - Count of records : 103132
+2024-02-27 18:01:16,485 - INFO - Scrapping Completed!!!
+2024-02-27 18:05:35,083 - INFO - Executing merge.py...
+2024-02-27 18:07:40,419 - INFO - Executing get_coordinates.py...
+2024-02-27 18:07:41,957 - INFO - get_coordinates - Reading the CSV file and logging the initial dataset size
+2024-02-27 18:07:41,963 - INFO - records in intermediate 1000
+2024-02-27 18:07:41,988 - INFO - records in intermediate without coordinates : 201
+2024-02-27 18:07:42,001 - INFO - Count of records with no coordinates in intermediate file: 201
+2024-02-27 18:07:42,001 - INFO - Records that need coordinates : 201
+2024-02-27 18:07:42,114 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/chilis-grill-bar-sahid-nagar-bhubaneshwar/info
+2024-02-27 18:08:09,995 - INFO - Processing URL: https://www.zomato.com/kolkata/the-cake-story-by-ocean-grill-sector-5-salt-lake/info
+2024-02-27 18:09:10,578 - INFO - Processing URL: https://www.zomato.com/kochi/kerala-flood-relief-angamali/info
+2024-02-27 18:09:10,581 - INFO - Processing URL: https://www.zomato.com/ncr/hudson-oven-delhi-university-gtb-nagar-new-delhi/info
+2024-02-27 18:11:12,257 - INFO - Processing URL: https://www.zomato.com/ncr/indian-grill-room-golf-course-road-gurgaon/info
+2024-02-27 18:11:12,260 - INFO - Processing URL: https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info
+2024-02-27 18:11:12,261 - INFO - Processing URL: https://www.zomato.com/nagpur/barbecue-restaurant-sadar/info
+2024-02-27 18:11:12,263 - INFO - Processing URL: https://www.zomato.com/pune/pop-tates-viman-nagar/info
+2024-02-27 18:11:12,264 - INFO - Processing URL: https://www.zomato.com/pune/drink-your-selfie-viman-nagar/info
+2024-02-27 18:11:12,264 - INFO - Processing URL: https://www.zomato.com/kanpur/mocha-mall-road/info
+2024-02-27 18:11:12,281 - INFO - Progress saved. Processed 10 URLs.
+2024-02-27 18:11:12,282 - INFO - Processing URL: https://www.zomato.com/chennai/bombay-lassi-1-triplicane/info
+2024-02-27 18:11:12,283 - INFO - Processing URL: https://www.zomato.com/udaipur/kabab-mistri-fateh-sagar/info
+2024-02-27 18:11:12,284 - INFO - Processing URL: https://www.zomato.com/hyderabad/chilis-american-grill-bar-banjara-hills/info
+2024-02-27 18:11:12,289 - INFO - Processing URL: https://www.zomato.com/mumbai/downtown-china-andheri-lokhandwala/info
+2024-02-27 18:11:12,293 - INFO - Processing URL: https://www.zomato.com/bangalore/ctr-malleshwaram-bangalore/info
+2024-02-27 18:11:12,293 - INFO - Processing URL: https://www.zomato.com/pune/sentosa-highway-ravet/info
+2024-02-27 18:11:12,295 - INFO - Processing URL: https://www.zomato.com/pune/royal-china-mundhwa/info
+2024-02-27 18:11:12,295 - INFO - Processing URL: https://www.zomato.com/jamshedpur/charcoal-eats-bistupur/info
+2024-02-27 18:11:12,296 - INFO - Processing URL: https://www.zomato.com/bangalore/punjab-grill-whitefield-bangalore/info
+2024-02-27 18:11:12,297 - INFO - Processing URL: https://www.zomato.com/ncr/the-chinese-vs-north-kitchen-sector-62-noida/info
+2024-02-27 18:11:12,313 - INFO - Progress saved. Processed 20 URLs.
+2024-02-27 18:11:12,314 - INFO - Processing URL: https://www.zomato.com/udaipur/shree-ashapura-restaurant-chandpole/info
+2024-02-27 18:11:12,315 - INFO - Processing URL: https://www.zomato.com/jodhpur/jodhpuri-tadka-restaurant-sardarpura/info
+2024-02-27 18:12:09,453 - INFO - Processing URL: https://www.zomato.com/jaipur/motu-ke-samose-vaishali-nagar/info
+2024-02-27 18:12:09,454 - INFO - Processing URL: https://www.zomato.com/kolkata/iceberg-golpark/info
+2024-02-27 18:12:09,455 - INFO - Processing URL: https://www.zomato.com/ncr/biryani-darbaar-east-of-kailash-new-delhi/info
+2024-02-27 18:12:31,321 - INFO - Processing URL: https://www.zomato.com/goa/star-light-anjuna/info
+2024-02-27 18:12:31,322 - INFO - Processing URL: https://www.zomato.com/guntur/sri-kaveri-tiffins-brodipet/info
+2024-02-27 18:12:31,323 - INFO - Processing URL: https://www.zomato.com/pune/chinese-mania-pimpri/info
+2024-02-27 18:12:31,324 - INFO - Processing URL: https://www.zomato.com/surat/crysttal-palace-piplod/info
+2024-02-27 18:12:31,325 - INFO - Processing URL: https://www.zomato.com/ncr/gofoodizz-golf-course-road-gurgaon/info
+2024-02-27 18:12:31,338 - INFO - Progress saved. Processed 30 URLs.
+2024-02-27 18:12:31,338 - INFO - Processing URL: https://www.zomato.com/pune/anus-chinese-centre-hinjawadi/info
+2024-02-27 18:12:31,339 - INFO - Processing URL: https://www.zomato.com/pune/sairus-cafe-kitchen-wakad/info
+2024-02-27 18:12:31,341 - INFO - Processing URL: https://www.zomato.com/kolkata/brojonath-grand-sons-shibpur-howrah/info
+2024-02-27 18:12:31,342 - INFO - Processing URL: https://www.zomato.com/pune/manna-the-cake-house-1-pune-solapur-road/info
+2024-02-27 18:12:47,153 - INFO - Processing URL: https://www.zomato.com/chennai/sathyam-vegetarian-restaurant-1-gst-road/info
+2024-02-27 18:12:47,154 - INFO - Processing URL: https://www.zomato.com/puducherry/sri-raghavendra-iyengars-bakery-white-town/info
+2024-02-27 18:12:47,155 - INFO - Processing URL: https://www.zomato.com/pune/sharma-ice-cream-pav-bhaji-chinchwad/info
+2024-02-27 18:12:47,156 - INFO - Processing URL: https://www.zomato.com/chennai/getty-chutney-porur/info
+2024-02-27 18:12:47,157 - INFO - Processing URL: https://www.zomato.com/ncr/kartar-da-dhaba-sector-9-faridabad/info
+2024-02-27 18:13:06,043 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-malvan-samudra-lower-parel/info
+2024-02-27 18:13:06,054 - INFO - Progress saved. Processed 40 URLs.
+2024-02-27 18:13:06,055 - INFO - Processing URL: https://www.zomato.com/pune/spring-onion-deccan-gymkhana/info
+2024-02-27 18:13:06,056 - INFO - Processing URL: https://www.zomato.com/chennai/ustad-biriyani-kodambakkam/info
+2024-02-27 18:13:06,056 - INFO - Processing URL: https://www.zomato.com/ahmedabad/hotel-milan-sarkhej/info
+2024-02-27 18:13:06,057 - INFO - Processing URL: https://www.zomato.com/ncr/bhojnalay-dhaba-uttam-nagar-new-delhi/info
+2024-02-27 18:13:06,058 - INFO - Processing URL: https://www.zomato.com/ncr/devs-restaurant-bar-sector-62-noida/info
+2024-02-27 18:13:06,060 - INFO - Processing URL: https://www.zomato.com/ncr/indian-halal-meat-shop-kamla-nagar-new-delhi/info
+2024-02-27 18:13:06,060 - INFO - Processing URL: https://www.zomato.com/amravati/gouri-in-royal-regal-pure-veg-restaurant-arjun-nagar/info
+2024-02-27 18:13:06,062 - INFO - Processing URL: https://www.zomato.com/ncr/santa-banta-lee-sector-20-dwarka-new-delhi/info
+2024-02-27 18:13:06,062 - INFO - Processing URL: https://www.zomato.com/tirupati/vrinda-hotel-sindhuri-park-pudipatla/info
+2024-02-27 18:13:06,065 - INFO - Processing URL: https://www.zomato.com/ncr/fc-katyal-preet-vihar-new-delhi/info
+2024-02-27 18:13:06,075 - INFO - Progress saved. Processed 50 URLs.
+2024-02-27 18:13:06,075 - INFO - Processing URL: https://www.zomato.com/ahmedabad/jalaram-zumpidi-prahlad-nagar/info
+2024-02-27 18:13:06,076 - INFO - Processing URL: https://www.zomato.com/ncr/rana-hotel-moti-nagar-new-delhi/info
+2024-02-27 18:13:06,077 - INFO - Processing URL: https://www.zomato.com/patna/hunger-huts-sri-krishnapuri/info
+2024-02-27 18:13:06,078 - INFO - Processing URL: https://www.zomato.com/bangalore/maa-tara-hotel-electronic-city/info
+2024-02-27 18:13:06,079 - INFO - Processing URL: https://www.zomato.com/ncr/the-sandys-kitchen-patparganj-new-delhi/info
+2024-02-27 18:13:06,084 - INFO - Processing URL: https://www.zomato.com/pune/hotel-kanchan-1-wagholi/info
+2024-02-27 18:13:06,086 - INFO - Processing URL: https://www.zomato.com/mumbai/krishna-murari-kalbadevi/info
+2024-02-27 18:13:06,087 - INFO - Processing URL: https://www.zomato.com/bangalore/cafe-elanza-richmond-road/info
+2024-02-27 18:13:06,152 - INFO - Processing URL: https://www.zomato.com/hyderabad/tipsy-topsy-kukatpally/info
+2024-02-27 18:13:25,452 - INFO - Processing URL: https://www.zomato.com/raipur/mp-dhaba-tatibandh/info
+2024-02-27 18:13:44,128 - INFO - Progress saved. Processed 60 URLs.
+2024-02-27 18:13:44,128 - INFO - Processing URL: https://www.zomato.com/kochi/biza-foods-elamakkara/info
+2024-02-27 18:13:44,129 - INFO - Processing URL: https://www.zomato.com/cuttack/nanda-bhai-hotel-mal-godown-market/info
+2024-02-27 18:13:46,750 - INFO - Processing URL: https://www.zomato.com/ncr/pbs-rolls-and-street-foods-2-connaught-place-new-delhi/info
+2024-02-27 18:13:46,757 - INFO - Processing URL: https://www.zomato.com/chennai/andhra-snacking-1-karapakkam/info
+2024-02-27 18:13:57,134 - INFO - Processing URL: https://www.zomato.com/jaipur/shree-radhey-bakers-vidhyadhar-nagar/info
+2024-02-27 18:13:57,135 - INFO - Processing URL: https://www.zomato.com/ncr/aggarwal-sweets-center-2-palam-new-delhi/info
+2024-02-27 18:13:57,136 - INFO - Processing URL: https://www.zomato.com/bangalore/south-spicy-bites-express-sahakara-nagar-bangalore/info
+2024-02-27 18:13:59,657 - INFO - Processing URL: https://www.zomato.com/ncr/curry-company-sector-56-gurgaon/info
+2024-02-27 18:13:59,658 - INFO - Processing URL: https://www.zomato.com/chennai/asima-briyani-multicuisine-restaurant-vadapalani/info
+2024-02-27 18:13:59,659 - INFO - Processing URL: https://www.zomato.com/jabalpur/moms-food-plaza-wright-town/info
+2024-02-27 18:13:59,668 - INFO - Progress saved. Processed 70 URLs.
+2024-02-27 18:13:59,671 - INFO - Processing URL: https://www.zomato.com/pune/rahuls-italias-eat-some-delicious-budhwar-peth/info
+2024-02-27 18:13:59,672 - INFO - Processing URL: https://www.zomato.com/ncr/food-express-sector-57-gurgaon/info
+2024-02-27 18:14:00,042 - INFO - Processing URL: https://www.zomato.com/ahmedabad/chefs-kitchen-thaltej/info
+2024-02-27 18:14:00,043 - INFO - Processing URL: https://www.zomato.com/vadodara/brewberrys-makarpura/info
+2024-02-27 18:16:46,948 - INFO - Processing URL: https://www.zomato.com/ranchi/sethis-bakery-kokar/info
+2024-02-27 18:16:46,950 - INFO - Processing URL: https://www.zomato.com/ahmedabad/rewind-latenight-food-vastrapur/info
+2024-02-27 18:16:46,951 - INFO - Processing URL: https://www.zomato.com/bangalore/ubm-groups-health-to-enjoy-wealth-yelahanka-bangalore/info
+2024-02-27 18:16:46,958 - INFO - Processing URL: https://www.zomato.com/bangalore/rcs-kitchen-btm-bangalore/info
+2024-02-27 18:16:46,960 - INFO - Processing URL: https://www.zomato.com/mumbai/taheri-delights-hill-road-bandra-west/info
+2024-02-27 18:16:46,962 - INFO - Processing URL: https://www.zomato.com/udaipur/bhawani-pav-bhaji-panchwati/info
+2024-02-27 18:16:46,975 - INFO - Progress saved. Processed 80 URLs.
+2024-02-27 18:16:46,975 - INFO - Processing URL: https://www.zomato.com/hyderabad/trupthi-tiffins-meals-karkhana-secunderabad/info
+2024-02-27 18:16:46,977 - INFO - Processing URL: https://www.zomato.com/ahmedabad/a-magic-masala-vastral/info
+2024-02-27 18:16:46,979 - INFO - Processing URL: https://www.zomato.com/mumbai/celebrations-the-cake-shop-goregaon-east/info
+2024-02-27 18:16:46,980 - INFO - Processing URL: https://www.zomato.com/kochi/the-container-cafe-edappally/info
+2024-02-27 18:16:46,981 - INFO - Processing URL: https://www.zomato.com/kolkata/wild-wings-xpress-behala/info
+2024-02-27 18:16:46,982 - INFO - Processing URL: https://www.zomato.com/ncr/fusion-kitchen-vikaspuri-new-delhi/info
+2024-02-27 18:16:46,983 - INFO - Processing URL: https://www.zomato.com/kolkata/thaaliwala-new-town/info
+2024-02-27 18:16:46,989 - INFO - Processing URL: https://www.zomato.com/mumbai/snacks-junction-kandivali-east/info
+2024-02-27 18:16:46,992 - INFO - Processing URL: https://www.zomato.com/chennai/the-flaming-wok-kolathur/info
+2024-02-27 18:16:46,994 - INFO - Processing URL: https://www.zomato.com/bhubaneswar/tmn-restaurant-baramunda-bhubaneshwar/info
+2024-02-27 18:16:47,000 - INFO - Progress saved. Processed 90 URLs.
+2024-02-27 18:16:47,000 - INFO - Processing URL: https://www.zomato.com/ahmedabad/marshall-kalupur/info
+2024-02-27 18:16:47,005 - INFO - Processing URL: https://www.zomato.com/cuttack/hot-curry-1-cda-sector-6/info
+2024-02-27 18:16:47,007 - INFO - Processing URL: https://www.zomato.com/ncr/ghar-ki-rasoi-sector-29-faridabad/info
+2024-02-27 18:16:47,009 - INFO - Processing URL: https://www.zomato.com/patna/patliputra-flavours-patliputra-colony/info
+2024-02-27 18:16:47,010 - INFO - Processing URL: https://www.zomato.com/ludhiana/cafe-old-school-janak-puri/info
+2024-02-27 18:16:47,011 - INFO - Processing URL: https://www.zomato.com/hyderabad/sri-balaji-bakers-and-fast-foods-narapally/info
+2024-02-27 18:16:47,012 - INFO - Processing URL: https://www.zomato.com/mumbai/nau-se-barah-9-12-kopar-khairane-navi-mumbai/info
+2024-02-27 18:16:47,013 - INFO - Processing URL: https://www.zomato.com/nagpur/micasa-gokulpeth/info
+2024-02-27 18:16:47,014 - INFO - Processing URL: https://www.zomato.com/chandigarh/turning-11-punjabi-dhaba-sector-11/info
+2024-02-27 18:16:47,014 - INFO - Processing URL: https://www.zomato.com/nagpur/hotel-gulmohar-manish-nagar/info
+2024-02-27 18:18:17,222 - INFO - Progress saved. Processed 100 URLs.
+2024-02-27 18:18:17,223 - INFO - Processing URL: https://www.zomato.com/ncr/henrys-cafe-khanpur-new-delhi/info
+2024-02-27 18:18:17,224 - INFO - Processing URL: https://www.zomato.com/bhopal/chitwan-fine-dine-garden-restaurant-hoshangabad-road/info
+2024-02-27 18:18:17,232 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-malvani-tadka-parel/info
+2024-02-27 18:18:40,269 - INFO - Processing URL: https://www.zomato.com/goa/lounge-terminal-panaji/info
+2024-02-27 18:18:40,270 - INFO - Processing URL: https://www.zomato.com/amritsar/mcdonalds-basant-nagar/info
+2024-02-27 18:18:40,271 - INFO - Processing URL: https://www.zomato.com/pune/sairaj-rolls-house-balewadi/info
+2024-02-27 18:18:40,272 - INFO - Processing URL: https://www.zomato.com/kolkata/food-step-new-town/info
+2024-02-27 18:18:40,273 - INFO - Processing URL: https://www.zomato.com/pune/smoky-sports-lounge-akurdi/info
+2024-02-27 18:18:40,275 - INFO - Processing URL: https://www.zomato.com/pune/on-the-grill-1-balewadi/info
+2024-02-27 18:18:40,275 - INFO - Processing URL: https://www.zomato.com/manipal/vaibhava-eshwar-nagar/info
+2024-02-27 18:18:40,289 - INFO - Progress saved. Processed 110 URLs.
+2024-02-27 18:18:40,289 - INFO - Processing URL: https://www.zomato.com/ncr/annapurna-rasoi-sector-50-gurgaon/info
+2024-02-27 18:18:40,291 - INFO - Processing URL: https://www.zomato.com/dehradun/royal-multi-cuisine-restaurant-bar-karanpur/info
+2024-02-27 18:18:40,292 - INFO - Processing URL: https://www.zomato.com/ncr/armani-kg-biryani-mg-road-gurgaon/info
+2024-02-27 18:18:40,292 - INFO - Processing URL: https://www.zomato.com/manipal/odeya-restaurant-maruthi-veethika/info
+2024-02-27 18:18:40,293 - INFO - Processing URL: https://www.zomato.com/pune/maratha-mejwaani-1-mundhwa/info
+2024-02-27 18:18:40,296 - INFO - Processing URL: https://www.zomato.com/ncr/pizza-96-sainik-farms-new-delhi/info
+2024-02-27 18:18:40,300 - INFO - Processing URL: https://www.zomato.com/mumbai/shaan-chinese-corner-fort/info
+2024-02-27 18:18:40,302 - INFO - Processing URL: https://www.zomato.com/hyderabad/d-destino-dilsukhnagar/info
+2024-02-27 18:18:40,303 - INFO - Processing URL: https://www.zomato.com/chennai/nala-idly-shop-kanchipuram-district/info
+2024-02-27 18:18:40,305 - INFO - Processing URL: https://www.zomato.com/patna/hotel-the-pride-golambar/info
+2024-02-27 18:18:40,339 - INFO - Progress saved. Processed 120 URLs.
+2024-02-27 18:18:40,339 - INFO - Processing URL: https://www.zomato.com/visakhapatnam/sri-sai-durga-tiffins-madhurawada-vizag/info
+2024-02-27 18:18:40,340 - INFO - Processing URL: https://www.zomato.com/hyderabad/lovely-fast-food-alwal-secunderabad/info
+2024-02-27 18:18:40,341 - INFO - Processing URL: https://www.zomato.com/chennai/the-kanteen-navallur/info
+2024-02-27 18:18:40,342 - INFO - Processing URL: https://www.zomato.com/varanasi/ganesh-chat-bhandar-mahmoorganj/info
+2024-02-27 18:18:40,343 - INFO - Processing URL: https://www.zomato.com/ncr/bikano-cafe-sector-29-gurgaon/info
+2024-02-27 18:18:40,344 - INFO - Processing URL: https://www.zomato.com/jaipur/royal-family-restaurant-cafe-tonk-road/info
+2024-02-27 18:18:40,349 - INFO - Processing URL: https://www.zomato.com/ncr/house-of-flavours-sector-50-gurgaon/info
+2024-02-27 18:18:40,352 - INFO - Processing URL: https://www.zomato.com/nagpur/majaama-gujarati-foods-nandanvan/info
+2024-02-27 18:18:40,353 - INFO - Processing URL: https://www.zomato.com/pune/tea-cozy-salunkhe-vihar-road/info
+2024-02-27 18:18:40,356 - INFO - Processing URL: https://www.zomato.com/ncr/excellent-food-point-sector-15-dwarka-new-delhi/info
+2024-02-27 18:20:24,111 - INFO - Progress saved. Processed 130 URLs.
+2024-02-27 18:20:24,111 - INFO - Processing URL: https://www.zomato.com/mumbai/raju-pav-bhaji-counter-kandivali-west/info
+2024-02-27 18:20:24,113 - INFO - Processing URL: https://www.zomato.com/bhopal/ocean-cafe-1-gulmohar-colony/info
+2024-02-27 18:20:24,114 - INFO - Processing URL: https://www.zomato.com/ranchi/fork-n-cork-kanka/info
+2024-02-27 18:20:24,115 - INFO - Processing URL: https://www.zomato.com/mumbai/oho-parathas-jogeshwari/info
+2024-02-27 18:20:24,116 - INFO - Processing URL: https://www.zomato.com/chandigarh/dhaba-71-sector-70-mohali/info
+2024-02-27 18:20:24,117 - INFO - Processing URL: https://www.zomato.com/kolkata/new-herbs-and-spices-thakur-pukur/info
+2024-02-27 18:20:24,118 - INFO - Processing URL: https://www.zomato.com/aurangabad/naivedya-cidco/info
+2024-02-27 18:20:24,120 - INFO - Processing URL: https://www.zomato.com/kota/pratap-nonveg-point-talwandi/info
+2024-02-27 18:20:24,126 - INFO - Processing URL: https://www.zomato.com/dehradun/mr-mrs-cafe-morowala/info
+2024-02-27 18:20:24,127 - INFO - Processing URL: https://www.zomato.com/ncr/fatjar-pizzeria-kailash-colony-new-delhi/info
+2024-02-27 18:20:33,564 - INFO - Progress saved. Processed 140 URLs.
+2024-02-27 18:20:33,565 - INFO - Processing URL: https://www.zomato.com/ahmedabad/al-shez-sarkhej/info
+2024-02-27 18:20:33,566 - INFO - Processing URL: https://www.zomato.com/ncr/kays-food-cafe-tilak-nagar-new-delhi/info
+2024-02-27 18:20:33,568 - INFO - Processing URL: https://www.zomato.com/nagpur/the-big-mouth-1-hingna-t-point/info
+2024-02-27 18:20:33,569 - INFO - Processing URL: https://www.zomato.com/ncr/bigbee-lawrence-road-new-delhi/info
+2024-02-27 18:20:33,570 - INFO - Processing URL: https://www.zomato.com/patna/laziz-tandoori-1-fraser-road-area/info
+2024-02-27 18:20:33,570 - INFO - Processing URL: https://www.zomato.com/kota/sevva-lounge-restaurant-rps-colony/info
+2024-02-27 18:20:33,575 - INFO - Processing URL: https://www.zomato.com/nagpur/simply-south-sadar/info
+2024-02-27 18:20:33,579 - INFO - Processing URL: https://www.zomato.com/pune/gokul-pure-veg-kondhwa/info
+2024-02-27 18:22:04,375 - INFO - Processing URL: https://www.zomato.com/nashik/rudra-ice-cream-and-snacks-veer-sawarkar-nagar/info
+2024-02-27 18:22:04,377 - INFO - Processing URL: https://www.zomato.com/chandigarh/annas-kitchen-dhakoli-zirakpur/info
+2024-02-27 18:22:04,420 - INFO - Progress saved. Processed 150 URLs.
+2024-02-27 18:22:04,421 - INFO - Processing URL: https://www.zomato.com/pune/le-sugar-rush-bibvewadi/info
+2024-02-27 18:22:04,422 - INFO - Processing URL: https://www.zomato.com/bangalore/hotel-junior-kuppanna-hsr/info
+2024-02-27 18:22:04,423 - INFO - Processing URL: https://www.zomato.com/hyderabad/the-shawarma-shack-l-b-nagar/info
+2024-02-27 18:22:04,423 - INFO - Processing URL: https://www.zomato.com/mumbai/the-budapest-bakehouse-khar/info
+2024-02-27 18:22:10,388 - INFO - Processing URL: https://www.zomato.com/bangalore/chef-fast-food-airport-road-bangalore/info
+2024-02-27 18:22:10,390 - INFO - Processing URL: https://www.zomato.com/mumbai/mahesh-fine-dine-kandivali-west/info
+2024-02-27 18:23:22,838 - INFO - Processing URL: https://www.zomato.com/mumbai/zero-degree-ice-cream-parlour-vikhroli/info
+2024-02-27 18:23:22,840 - INFO - Processing URL: https://www.zomato.com/mumbai/snow-station-ice-cream-bhayandar/info
+2024-02-27 18:23:22,841 - INFO - Processing URL: https://www.zomato.com/ncr/singh-punjabi-zaika-1-jail-road-new-delhi/info
+2024-02-27 18:23:22,881 - INFO - Processing URL: https://www.zomato.com/jamshedpur/the-kathi-spot-bistupur/info
+2024-02-27 18:23:23,085 - INFO - Progress saved. Processed 160 URLs.
+2024-02-27 18:23:23,085 - INFO - Processing URL: https://www.zomato.com/bangalore/biryani-treats-kalyan-nagar/info
+2024-02-27 18:23:23,087 - INFO - Processing URL: https://www.zomato.com/ahmedabad/mag-foods-kankaria/info
+2024-02-27 18:23:23,088 - INFO - Processing URL: https://www.zomato.com/pune/swad-pavbhaji-snacks-centre-rasta-peth/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/bangalore/master-of-kebab-whitefield-bangalore/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/ncr/mmmelt-sector-132-noida/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/ncr/jd-food-corner-narela-new-delhi/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/pune/riwaayat-chinchwad/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/aurangabad/monginis-midc/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/jaipur/the-jaika-junction-mansarovar/info
+2024-02-27 18:23:23,089 - INFO - Processing URL: https://www.zomato.com/mumbai/udipi-shri-krishna-lower-parel/info
+2024-02-27 18:23:23,189 - INFO - Progress saved. Processed 170 URLs.
+2024-02-27 18:23:23,189 - INFO - Processing URL: https://www.zomato.com/kochi/cafe-plan-b-2-kakkanad/info
+2024-02-27 18:23:23,189 - INFO - Processing URL: https://www.zomato.com/coimbatore/keerai-kadai-saibaba-colony/info
+2024-02-27 18:23:23,222 - INFO - Processing URL: https://www.zomato.com/nagpur/sagar-bakers-nandanvan/info
+2024-02-27 18:23:23,243 - INFO - Processing URL: https://www.zomato.com/mumbai/hotel-suprabha-dadar-east/info
+2024-02-27 18:23:23,255 - INFO - Processing URL: https://www.zomato.com/jaipur/aamblee-restaurant-sikar-road/info
+2024-02-27 18:23:23,284 - INFO - Processing URL: https://www.zomato.com/chandigarh/rustic-door-sector-10/info
+2024-02-27 18:23:23,305 - INFO - Processing URL: https://www.zomato.com/hyderabad/ruche-foods-as-rao-nagar-secunderabad/info
+2024-02-27 18:23:23,321 - INFO - Processing URL: https://www.zomato.com/bangalore/arzak-1-whitefield-bangalore/info
+2024-02-27 18:23:23,323 - INFO - Processing URL: https://www.zomato.com/nagpur/maa-vaishnavi-kitchen-gandhibagh/info
+2024-02-27 18:23:23,324 - INFO - Processing URL: https://www.zomato.com/bhopal/the-egypt-cafe-and-restro-arera-colony/info
+2024-02-27 18:23:23,331 - INFO - Progress saved. Processed 180 URLs.
+2024-02-27 18:23:23,332 - INFO - Processing URL: https://www.zomato.com/bangalore/al-rousha-sahakara-nagar-bangalore/info
+2024-02-27 18:25:26,570 - INFO - Processing URL: https://www.zomato.com/aurangabad/mh20-gadia-vihar/info
+2024-02-27 18:25:26,571 - INFO - Processing URL: https://www.zomato.com/kanpur/petoo-kakadeo/info
+2024-02-27 18:25:26,572 - INFO - Processing URL: https://www.zomato.com/rajkot/season-3-nana-mava/info
+2024-02-27 18:25:26,577 - INFO - Processing URL: https://www.zomato.com/aurangabad/cafe-creme-ulkanagari/info
+2024-02-27 18:25:26,580 - INFO - Processing URL: https://www.zomato.com/bangalore/subway-indiranagar/info
+2024-02-27 18:25:26,582 - INFO - Processing URL: https://www.zomato.com/chennai/hot-chips-velachery/info
+2024-02-27 18:25:26,583 - INFO - Processing URL: https://www.zomato.com/mumbai/zaika-mulund-west/info
+2024-02-27 18:25:26,584 - INFO - Processing URL: https://www.zomato.com/ncr/grandmas-kitchen-dlf-phase-3-gurgaon/info
+2024-02-27 18:25:26,585 - INFO - Processing URL: https://www.zomato.com/ncr/drinks-at-mrp-laxmi-nagar-new-delhi/info
+2024-02-27 18:25:26,591 - INFO - Progress saved. Processed 190 URLs.
+2024-02-27 18:25:26,591 - INFO - Processing URL: https://www.zomato.com/ncr/the-treat-chanakyapuri-new-delhi/info
+2024-02-27 18:27:22,349 - INFO - Processing URL: https://www.zomato.com/guwahati/food-com-six-mile/info
+2024-02-27 18:27:22,350 - INFO - Processing URL: https://www.zomato.com/mumbai/shobha-breach-candy/info
+2024-02-27 18:27:22,350 - INFO - Processing URL: https://www.zomato.com/ncr/southeye-2-ashok-vihar-phase-2-new-delhi/info
+2024-02-27 18:27:22,350 - INFO - Processing URL: https://www.zomato.com/hyderabad/punjabi-tadka-kondapur/info
+2024-02-27 18:27:22,352 - INFO - Processing URL: https://www.zomato.com/bhopal/brown-sugar-cafe-gulmohar-colony/info
+2024-02-27 18:27:22,352 - INFO - Processing URL: https://www.zomato.com/mumbai/ibrahims-malad-west/info
+2024-02-27 18:27:22,354 - INFO - Processing URL: https://www.zomato.com/chennai/courtallam-border-parotta-velachery/info
+2024-02-27 18:27:22,354 - INFO - Processing URL: https://www.zomato.com/ncr/wonders-of-kashmir-khyen-chyen-saket-new-delhi/info
+2024-02-27 18:27:22,355 - INFO - Processing URL: https://www.zomato.com/ncr/super-bakery-dlf-phase-4-gurgaon/info
+2024-02-27 18:27:22,359 - INFO - Progress saved. Processed 200 URLs.
+2024-02-27 18:27:22,359 - INFO - Processing URL: https://www.zomato.com/mumbai/chinese-garden-restaurant-dadar-shivaji-park/info
+2024-02-27 18:27:22,730 - INFO - Count of records with coordinates: 139
+2024-02-27 18:27:23,774 - INFO - DataFrame with coordinates saved to: Datass\coordinates_scrapped_dataset.csv
+2024-02-27 18:27:23,774 - INFO - Count of records : 103132
+2024-02-27 18:27:23,775 - INFO - Scrapping Completed!!!
+2024-02-27 18:27:23,948 - INFO - Executing SQL_Load.py...
+2024-02-27 18:28:41,110 - INFO - Tables cleared successfully!
+2024-02-27 18:28:41,129 - ERROR - Pipeline execution failed.
+2024-02-27 18:29:25,311 - INFO - Executing merge.py...
+2024-02-27 18:29:25,312 - INFO - Executing get_coordinates.py...
+2024-02-27 18:29:25,312 - INFO - Executing SQL_Load.py...
+2024-02-27 18:37:03,239 - INFO - Executing merge.py...
+2024-02-27 18:37:03,239 - INFO - Executing get_coordinates.py...
+2024-02-27 18:37:03,240 - INFO - Executing SQL_Load.py...
+2024-02-27 18:37:03,442 - INFO - Pipeline execution completed successfully.
+2024-02-27 18:37:03,444 - INFO - Total Runtime: 0.0 hours, 0.0 minutes, 0.2489 seconds
+2024-02-27 18:37:27,811 - INFO - Executing merge.py...
+2024-02-27 18:37:27,812 - INFO - Executing get_coordinates.py...
+2024-02-27 18:37:27,812 - INFO - Executing SQL_Load.py...

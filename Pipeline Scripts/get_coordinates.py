@@ -12,12 +12,12 @@ log_file = r"Log\LOG-Pipeline.txt"
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Specify the path to the CSV file containing the URLs
-csv_file_path = r"Pipeline Scripts\Datass\merged_dataset.csv"
+csv_file_path = r"Datass\merged_dataset.csv"
 
 # Specify the path for the output CSV file
-output_csv_file = r"Pipeline Scripts\Datass\coordinates_scrapped_dataset.csv"
+output_csv_file = r"Datass\coordinates_scrapped_dataset.csv"
 
-inter_output_csv_file = r"Pipeline Scripts\Datass\coordinates_scrapped_dataset_intermediate.csv"
+inter_output_csv_file = r"Datass\coordinates_scrapped_dataset_intermediate.csv"
 
 # Function to process a single URL and return coordinates
 def process_url(url):
@@ -39,12 +39,12 @@ if __name__ == '__main__':
          df = pd.read_csv(csv_file_path)
          logging.info("get_coordinates - Reading the CSV file and logging the initial dataset size")
          print("Scrapping")
-         if os.path.isfile(inter_output_csv_file):
+         if os.path.isfile(inter_output_csv_file):          #if there is an intermediate file means that there may be some records with coordinates
              # Read the intermediate CSV file into a DataFrame
             df_intermediate = pd.read_csv(inter_output_csv_file)
             print(f"records in intermediate {len(df_intermediate)}")
             logging.info(f"records in intermediate {len(df_intermediate)}")
-            df_no_coordinates = df_intermediate[df_intermediate['Longitude'].isna()]
+            df_no_coordinates = df_intermediate[df_intermediate['Longitude'].isna()]  #finding records with no coordinates to find them later
             df = df[~df['URL'].isin(df_intermediate['URL'])]
             df_intermediate = df_intermediate.drop(df_no_coordinates.index)
             print(f"records in intermediate without coordinates : {len(df_no_coordinates)}")
@@ -104,8 +104,8 @@ if __name__ == '__main__':
                     lat, lon = None, None
 
                 # Set the result in the corresponding row
-                df_for_coordinates.loc[index, 'Latitude'] = lat
-                df_for_coordinates.loc[index, 'Longitude'] = lon
+                df_for_coordinates.loc[index, 'Latitude'] = float(lat)
+                df_for_coordinates.loc[index, 'Longitude'] = float(lon)
                 
                 processed_count += 1
                 # logging.info(f"Processed {processed_count} URLs")

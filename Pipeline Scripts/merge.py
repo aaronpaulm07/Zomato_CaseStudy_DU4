@@ -5,7 +5,7 @@ import sys
 from SQL_connection import connect_to_database,log_subprocess_message
 from datetime import datetime
 
-UPLOAD = r"Pipeline Scripts\UPLOAD"
+UPLOAD = r"UPLOAD"
 
 log_file = r"Log\LOG-Pipeline.txt"
 # Configure logging
@@ -68,7 +68,7 @@ if connection:
         merged_data = merge(UPLOAD,connection)    
         print("Cleaning")
         merged_data = cleaning(merged_data,connection)       
-        output_path = r"Pipeline Scripts\Datass\merged_dataset.csv"
+        output_path = r"Datass\merged_dataset.csv"
         merged_data.to_csv(output_path, index=False, sep=',')    
     except FileNotFoundError as e:
         print("Error during merge:", e)
